@@ -52,6 +52,8 @@
 
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)**
 
+   **[University of Michigan, PhD in Information Science]([https://ischool.uw.edu/programs/phd](https://www.si.umich.edu/))**([Daniel Romero](xxxx), [Qiaozhu Mei](xxxx), [David Jurgan](xxxx), [Ceren Budak](xxxx), [Dallas Card](xxxx), [Justin Zhang](xxxx))
+
 ## 欧洲大陆（按照学校/项目英文字母序排列）
 
   **[Max Planck Institute, PhD in Computer and Information Science](https://www.cis.mpg.de/csmaxplanck-overview/)** ([Iyad Rahwan](https://www.rahwan.me/))
