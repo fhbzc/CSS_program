@@ -47,7 +47,9 @@
    **[University of Michigan, PhD in Information](https://www.si.umich.edu/programs/phd-information)**
 
    **[University of Pennsylvania, PhD in Communication](https://www.asc.upenn.edu/graduate)** ([Duncan Watts](https://duncanjwatts.com/), [Damon Centola](https://www.damoncentola.com/))
-   
+
+   **[University of Pittsburgh, PhD in Information Science](https://www.sci.pitt.edu/academics/doctoral-degrees/information-science-phd)** ([Lingfei Wu](https://lingfeiwu.github.io/), [Morgan Frank](https://sites.pitt.edu/~mrfrank/), [Yu-Ru Lin](https://www.yurulin.com/))
+
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)**
 
 ## 欧洲大陆（按照学校/项目英文字母序排列）
