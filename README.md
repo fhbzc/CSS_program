@@ -1,8 +1,9 @@
-此文档收集了计算社会科学领域的硕士/博士项目，以及从事计算社会科学的教授信息。帮助对计算社会科学领域感兴趣的同学们更好地进行硕士、博士申请。
-
-[硕士/博士项目 （根据国家/地区分类）](https://github.com/fhbzc/program-computational-social-science/blob/main/programs.md)
+This project keeps a record of master/phd programs in computational social science domain, as well researchers working in the area. The aim of the project is to help students interested in computational social science with graduate application. ([Chinese version])()
 
 
-[教授信息 （根据领域分类）](https://github.com/fhbzc/program-computational-social-science/blob/main/professors.md)
+[Master/PhD Programs （Grouped based on Country/Region）](https://github.com/fhbzc/program-computational-social-science/blob/main/programs.md)
+
+
+[Researchers （Grouped based on topics）](https://github.com/fhbzc/program-computational-social-science/blob/main/professors.md)
 
 
