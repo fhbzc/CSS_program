@@ -1,6 +1,6 @@
-# 硕士项目
+# Master programs 
 
-## 美国（按照学校/项目英文字母序排列）
+## United States of America
 
    **[Massachusetts Institute of Technology, Master in Media Arts & Sciences](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)**
 
@@ -12,10 +12,9 @@
 
 
 
-# 博士项目
+# PhD programs （Examples of reseachers in the program/institution listed）
 
-  
-## 美国（按照学校/项目英文字母序排列, 括号中会列出项目内相关的老师）
+## United States of America
 
    **[Carnegie Mellon University University, PhD in Human Computer Interaction](https://hcii.cmu.edu/academics/phd-hci)** ([Hirokazu Shirado](https://www.shirado.net/))
    
@@ -23,19 +22,23 @@
 
    **[Carnegie Mellon University University, PhD in Societal Computing](https://sc.cs.cmu.edu/)** ([Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html), [Patrick Park](https://patpark.org/))
 
-   **[Cornell University, PhD in Information Science](https://infosci.cornell.edu/phd)** 
+   **[Cornell University, PhD in Information Science](https://infosci.cornell.edu/phd)** ([Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Yian Yin](https://www.yianyin.net/))
 
    **[Duke University, PhD in Sociology](https://sociology.duke.edu/graduate)** ([Chris Bail](https://www.chrisbail.net/))
 
-   **[Indiana University Bloomington, Ph.D. in Informatics](https://informatics.indiana.edu/programs/phd-informatics/index.html)**
+   **[Indiana University Bloomington, Ph.D. in Informatics](https://informatics.indiana.edu/programs/phd-informatics/index.html)** ([YY Ahn](http://yongyeol.com/))
+
+   **[Massachusetts Institute of Technology, PhD in Media Arts & Sciences (apply through master program)](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)** ([Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/), [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/)), 
    
    **[Massachusetts Institute of Technology, PhD in Social & Engineering Systems](https://idss.mit.edu/academics/ses_doc/)**
 
-   **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)**
+   **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)** ([Barabási](https://www.barabasilab.com/), [David Lazer](https://www.lazerlab.net/people/david-lazer))
 
    **[Northwestern University, PhD in  Management & Organizations](https://www.kellogg.northwestern.edu/doctoral/programs/management-and-organizations.aspx)** (The [NICO](https://www.nico.northwestern.edu/) group)
 
    **[Stanford University, PhD in Computer Science](https://www.cs.stanford.edu/admissions/phd-admissions)** ([Diyi Yang](https://cs.stanford.edu/~diyiy/))
+
+   **[University of California, Los Angeles, PhD in Sociology](https://grad.ucla.edu/programs/social-sciences/sociology/)**
 
    **[University of Chicago, PhD in Data Science](https://codas.uchicago.edu/academics/phd-in-data-science/)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans))
    
@@ -43,7 +46,7 @@
 
    **[University of Michigan, PhD in Information](https://www.si.umich.edu/programs/phd-information)**
 
-   **[University of California, Los Angeles, PhD in Sociology](https://grad.ucla.edu/programs/social-sciences/sociology/)**
+   **[University of Pennsylvania, PhD in Communication](https://www.asc.upenn.edu/graduate)** ([Duncan Watts](https://duncanjwatts.com/), [Damon Centola](https://www.damoncentola.com/))
    
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)**
 
