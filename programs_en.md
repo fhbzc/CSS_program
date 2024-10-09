@@ -52,7 +52,7 @@
 
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)**
 
-## 欧洲大陆（按照学校/项目英文字母序排列）
+## European Continent
 
   **[Max Planck Institute, PhD in Computer and Information Science](https://www.cis.mpg.de/csmaxplanck-overview/)** ([Iyad Rahwan](https://www.rahwan.me/))
   
