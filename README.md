@@ -43,7 +43,8 @@ Please reach out to *Hongbo Fang* via fanghongdoublebo@gmail.com
 
 ## Development Status
 To do:
-Add Researchers
-Add Industry Groups
-Add non-US researchers/programs
-Add Chinese translation
+
+  * Add Researchers
+  * Add Industry Groups
+  * Add non-US researchers/programs
+  * Add Chinese translation
