@@ -1,4 +1,4 @@
-Topics/Researchers are sorted in alphabetical order, researcher only includes people with a PhD degree or equivelant.
+Topics/Researchers are sorted in alphabetical order, researchers do not include graduate students.
 
 # AI and Society
 
@@ -10,23 +10,28 @@ Topics/Researchers are sorted in alphabetical order, researcher only includes pe
 
 **[Diyi Yang](https://cs.stanford.edu/~diyiy/)** (Stanford University, USA)
 
-## Human-AI system/interaction
+## Human-AI System/Interaction
 
 **[Chenhao Tan](https://chenhaot.com/)** (University of Chicago, USA)
 
 **[Hirokazu Shirado](https://www.shirado.net/)** (Carnegie Mellon University, USA)
 
+**[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, European Continent)
 
+## AI for Social Good
 
 **[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
 
-**[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, European Continent)
+## AI for Social Networks
 
 **[Jure Leskovec](https://cs.stanford.edu/people/jure/)** (Stanford University, USA)
 
-**[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
 
 **[Yang Yang](http://yangy.org/)** (Zhejiang University, Mainland China)
+
+## Others (Working under the topic but does not fit into specific category)
+
+**[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
 
 # City Science
 
