@@ -19,3 +19,15 @@ As a relatively new and interdisciplinary field, computational social science at
 You can use the following documents to find programs/groups/researchers related to computational social science.
 
 **Master/PhD Programs** contains a list of master and phd programs in computational social science. It is organized based on country/regions, so that you can look for programs in your desired country/region. 
+
+**Researchers** contains a list of researchers working on computational social science. It is organized based on research topics, so that you can look for researchers in the topic you are interested in.
+
+**Industry Groups** contains a list of industry groups working on computational social science, organized by country/regions. It is helpful for internship search, and for researchers looking for industry position.
+
+## How to contribute to the project?
+We welcome all contributions to the project, please submit pull requests or issues to add information you know, and to provide feedback.
+
+Particularly, if you want to add new information about program/researcher/group via issues, please add the name and a link to personal/offical website so that we can verify the information.
+
+If you want to add new information via pull requests, please edit the content in the files we created (i.e. Master/PhD Programs; Researchers; Industry Groups), and follow the format used in the existing document.
+
