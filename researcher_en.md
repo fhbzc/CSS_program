@@ -2,9 +2,21 @@ Topics/Researchers are sorted in alphabetical order, researcher only includes pe
 
 # AI and Society
 
-**[Chenhao Tan](https://chenhaot.com/)** (University of Chicago, USA)
+## Natural Langugage Processing
+
+**[Dan Jurafsky](http://web.stanford.edu/~jurafsky/)** (Stanford University, USA)
+
+**[Deb Roy](https://www.media.mit.edu/people/dkroy/overview/)** (Massachusetts Institute of Technology, USA)
 
 **[Diyi Yang](https://cs.stanford.edu/~diyiy/)** (Stanford University, USA)
+
+## Human-AI system/interaction
+
+**[Chenhao Tan](https://chenhaot.com/)** (University of Chicago, USA)
+
+**[Hirokazu Shirado](https://www.shirado.net/)** (Carnegie Mellon University, USA)
+
+
 
 **[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
 
@@ -15,6 +27,20 @@ Topics/Researchers are sorted in alphabetical order, researcher only includes pe
 **[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
 
 **[Yang Yang](http://yangy.org/)** (Zhejiang University, Mainland China)
+
+# City Science
+
+**[Lei Dong](http://donglei.org/about/)** (Maptable, Mainland China)
+
+**[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
+
+
+
+# Collective Intelligence
+
+**[Abdullah Almaatouq](http://amaatouq.io/)** (Massachusetts Institute of Technology, USA)
+
+**[Anita Woolley](https://sites.google.com/view/anitawoolley-com/home)** (Carnegie Mellon University, USA)
 
 # Organizational Behavior
 
@@ -48,17 +74,20 @@ Topics/Researchers are sorted in alphabetical order, researcher only includes pe
 
 **[Linzhuo Li](http://sociology.zju.edu.cn/index.php/Teacher/e_details.html?id=80&tid=19&sid=2)** (Zhejiang University, Mainland China)
 
+**[Misha Teplitskiy](https://www.misha.mx/)** (University of Michigan, USA)
+
 **[James Evans](https://sociology.uchicago.edu/directory/James-A-Evans)** (University of Chicago, USA)
 
 **[Junming Huang](https://ccc.princeton.edu/people/junming-huang)** (Princeton University, USA)
 
-
+**[Yian Yin](https://www.yianyin.net/)** (Cornell University, USA)
 
 # Social Media/Online Community
 
-**[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
 
 **[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
+
+**[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
 
 **[Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/)** (Cornell University, USA)
 
@@ -68,14 +97,12 @@ Topics/Researchers are sorted in alphabetical order, researcher only includes pe
 
 **[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
 
-# City Science
+## Political discourse
+
+**[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
 
 
+## Misinformation/Information diffusion
 
-
-
-
-
-
-
+**[David Lazer](https://www.lazerlab.net/people/david-lazer)** (Northeastern University, USA)
 
