@@ -44,7 +44,7 @@
    
    **[University of Chicago, PhD in Sociology](https://sociology.uchicago.edu/graduate-study)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans))
 
-   **[University of Michigan, PhD in Information](https://www.si.umich.edu/programs/phd-information)** ([Daniel Romero](xxxx), [Qiaozhu Mei](xxxx), [David Jurgan](xxxx), [Ceren Budak](xxxx), [Dallas Card](xxxx), [Justin Zhang](xxxx))
+   **[University of Michigan, PhD in Information](https://www.si.umich.edu/programs/phd-information)** ([Daniel Romero](http://www.dromero.org/), [Qiaozhu Mei](https://public.websites.umich.edu/~qmei/), [David Jurgan](https://jurgens.people.si.umich.edu/), [Ceren Budak](http://cbudak.com/index.html), [Dallas Card](https://dallascard.github.io/), [Justin Zhang](https://webapps.unf.edu/faculty/bio/n01419497))
 
    **[University of Pennsylvania, PhD in Communication](https://www.asc.upenn.edu/graduate)** ([Duncan Watts](https://duncanjwatts.com/), [Damon Centola](https://www.damoncentola.com/))
 
