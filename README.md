@@ -31,3 +31,19 @@ Particularly, if you want to add new information about program/researcher/group 
 
 If you want to add new information via pull requests, please edit the content in the files we created (i.e. Master/PhD Programs; Researchers; Industry Groups), and follow the format used in the existing document.
 
+We thank everyone who contributes to the project.
+
+## Acknowledgement 
+This is a grassroots project initiated by PhD students in computational social science, and it won't be what it is without the contributions from the broad open-source community. Please refer to the contributors to view the full list of contributors.
+
+Particularly, we want to recognize people who help start, and make significant contributions to the project: [Hongbo Fang](https://scholar.google.com/citations?user=tMNsrlQAAAAJ&hl=zh-CN), [Yulin Yu](https://yulin-yu.github.io/)
+
+## Contact 
+Please reach out to *Hongbo Fang* via fanghongdoublebo@gmail.com
+
+## Development Status
+To do:
+Add Researchers
+Add Industry Groups
+Add non-US researchers/programs
+Add Chinese translation
