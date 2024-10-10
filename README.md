@@ -4,7 +4,7 @@ This project keeps a record of master/phd programs , as well as researchers and 
 
 [Master/PhD Programs （Grouped based on Country/Region）](https://github.com/fhbzc/program-computational-social-science/blob/main/programs_en.md)
 
-[Researchers （Grouped based on topics）](https://github.com/fhbzc/program-computational-social-science/blob/main/research_en.md)
+[Researchers （Grouped based on topics）](https://github.com/fhbzc/program-computational-social-science/blob/main/researcher_en.md)
 
 [Industry Groups （Grouped based on Country/Region）]()
 
