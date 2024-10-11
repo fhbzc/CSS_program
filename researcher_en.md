@@ -11,12 +11,9 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
    - AI for Social Good
    - AI for Social Networks
    - AI and Economy
-  
  - City Science
- - Collective Intelligence
- - Complex System
- - Organizational Behavior
- - Network Science
+ - Complex System/Networks
+ - Organizational Behavior/Management
  - Science of Science
  - Social Media/Online Community
    - Political discourse
@@ -70,7 +67,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
 
 
-# Collective Intelligence
 
 **[Abdullah Almaatouq](http://amaatouq.io/)** (Massachusetts Institute of Technology, USA)
 
@@ -78,20 +74,21 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Anita Woolley](https://sites.google.com/view/anitawoolley-com/home)** (Carnegie Mellon University, USA)
 
-# Complex System
+# Complex System/Networks
 
-
-# Organizational Behavior
-
-**[Anita Woolley](https://sites.google.com/view/anitawoolley-com/home)** (Carnegie Mellon University, USA)
-
-**[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
-
-# Network Science
+**[Aaron Clauset](https://www.colorado.edu/faculty/clauset/)** (University of Colorado Boulder, USA)
 
 **[Albert-László Barabási](https://www.barabasilab.com/)** (Northeastern University, USA)
 
 **[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
+
+**[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
+
+**[Michael Macy](https://sociology.cornell.edu/michael-macy)** (Cornell University, USA)
+
+**[Nicholas Christakis](https://humannaturelab.net/director)** (Yale, USA)
+
+**[Noshir Contractor](https://nosh.northwestern.edu/)** (Northwestern University, USA)
 
 **[Patrick Park](https://patpark.org/)** (Carnegie Mellon University, USA)
 
@@ -101,15 +98,41 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
+# Organizational Behavior/Management
+
+**[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
+
+## Collective Intelligence
+
+**[Anita Woolley](https://sites.google.com/view/anitawoolley-com/home)** (Carnegie Mellon University, USA)
+
+**[Alex Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** (Massachusetts Institute of Technology, USA)
+
+**[Thomas Malone](https://mitsloan.mit.edu/faculty/directory/thomas-w-malone)** (Massachusetts Institute of Technology, USA)
+
 # Science of Science
+
+**[Adam Jaffe](https://scholarworks.brandeis.edu/esploro/profile/adam_jaffe/overview?institution=01BRAND_INST)** (Brandeis University, USA)
+
+**[Albert-László Barabási](https://www.barabasilab.com/)** (Northeastern University, USA)
 
 **[Alexander Petersen](http://physics.bu.edu/~amp17/)** (University of California Merced, USA)
 
+**[Benjamin Jones](https://www.kellogg.northwestern.edu/faculty/directory/jones_benjamin_f.aspx)** (Northwestern University, USA)
+
 **[Brian Uzzi](https://www.kellogg.northwestern.edu/faculty/uzzi/htm/)** (Northwestern University, USA)
+
+**[Bruce Weinberg](https://economics.osu.edu/people/weinberg.27)** (The Ohio State University, USA)
 
 **[Carl Bergstrom](http://carlbergstrom.com/)** (University of Washington, USA)
 
+**[Daniel McFarland](https://ed.stanford.edu/faculty/mcfarland)** (Stanford University, USA)
+
+**[Daniel Sarewitz](https://search.asu.edu/profile/694412)** (Arizona State University, USA)
+
 **[Dashun Wang](https://www.kellogg.northwestern.edu/faculty/directory/wang_dashun.aspx)** (Northwestern University, USA)
+
+**[Erin Leahey](https://sociology.arizona.edu/person/erin-leahey)** (The University of Arizona, USA)
 
 **[Fengli Xu](https://fenglixu.github.io/)** (Tsinghua University, Mainland China)
 
@@ -121,7 +144,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Ludo Waltman](https://www.universiteitleiden.nl/en/staffmembers/ludo-waltman/publications#tab-1)** (Leiden University, Netherlands)
 
+**[Matt Marx](https://dyson.cornell.edu/faculty-research/faculty/mtm83/)** (Cornell University, USA)
+
 **[Misha Teplitskiy](https://www.misha.mx/)** (University of Michigan, USA)
+
+**[Natalie Aviles](https://sociology.as.virginia.edu/people/natalie-aviles)** (University of Virginia, USA)
 
 **[James Evans](https://sociology.uchicago.edu/directory/James-A-Evans)** (University of Chicago, USA)
 
@@ -133,7 +160,13 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Staša Milojević](https://cgi.luddy.indiana.edu/~smilojev/?_gl=1*ntqnt4*_gcl_au*MTQ4OTY4MzMxMS4xNzI4NDgyMTIx*_ga*MTQwNzc2MTI3OC4xNzI4NDQyNTAx*_ga_61CH0D2DQW*MTcyODU2MzI1OS4zLjEuMTcyODU2MzY4OS41NS4wLjA.)** (Indiana University Bloomington, USA)
 
+**[Simine Vazire](https://www.simine.com/)** (University of Melbourne, Australia)
+
 **[Yian Yin](https://www.yianyin.net/)** (Cornell University, USA)
+
+**[YY Ahn](http://yongyeol.com/)** (Indiana University Bloomington, USA)
+
+
 
 # Social Media/Online Community
 
@@ -155,6 +188,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[David Lazer](https://www.lazerlab.net/people/david-lazer)** (Northeastern University, USA)
 
 **[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
+
+**[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
 
 **[Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/)** (Cornell University, USA)
 
