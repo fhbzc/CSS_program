@@ -6,7 +6,7 @@ This project keeps a record of master/phd programs , as well as researchers and 
 
 [Researchers （Grouped based on topics）](https://github.com/fhbzc/program-computational-social-science/blob/main/researcher_en.md)
 
-[Industry Groups （Grouped based on Country/Region）]()
+[Industry Groups （Grouped based on Country/Region）](https://github.com/fhbzc/program-computational-social-science/blob/main/industry_en.md)
 
 
 ## What is Computational Social Science?
