@@ -31,7 +31,15 @@ We welcome all contributions to the project, please submit pull requests or issu
 
 Particularly, if you want to add new information about program/researcher/group via issues, please add the name and a link to personal/offical website so that we can verify the information.
 
+Here is a simple template you are encouraged to use when adding new information:
+
+  - Name (of the researcher/group/program)
+  - Link (link to offical or personal website)
+  - Comments (For example, reasons to add, this item is optional)
+
 If you want to add new information via pull requests, please edit the content in the files we created (i.e. Master/PhD Programs; Researchers; Industry Groups), and follow the format used in the existing document.
+
+There is no strict rule about who counts as computational social sciensts. Generally speaking, researchers with a quantative and computational mindset and works on social problems should qualify to be added. We will provide feedback if your suggestion is not added.
 
 We thank everyone who contributes to the project.
 
