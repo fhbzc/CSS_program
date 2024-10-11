@@ -68,11 +68,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 
 
-**[Abdullah Almaatouq](http://amaatouq.io/)** (Massachusetts Institute of Technology, USA)
 
-**[Alex Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** (Massachusetts Institute of Technology, USA)
-
-**[Anita Woolley](https://sites.google.com/view/anitawoolley-com/home)** (Carnegie Mellon University, USA)
 
 # Complex System/Networks
 
@@ -98,17 +94,22 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
+
 # Organizational Behavior/Management
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
 ## Collective Intelligence
 
+**[Abdullah Almaatouq](http://amaatouq.io/)** (Massachusetts Institute of Technology, USA)
+
 **[Anita Woolley](https://sites.google.com/view/anitawoolley-com/home)** (Carnegie Mellon University, USA)
 
 **[Alex Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** (Massachusetts Institute of Technology, USA)
 
 **[Thomas Malone](https://mitsloan.mit.edu/faculty/directory/thomas-w-malone)** (Massachusetts Institute of Technology, USA)
+
+
 
 # Science of Science
 
