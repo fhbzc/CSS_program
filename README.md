@@ -15,6 +15,8 @@ Formally, the idea of compuatational social science research is initiated in a [
 ## Why we create this document?
 As a relatively new and interdisciplinary field, computational social science attracts researchers from diverse domains and institutions. However, formal academic structures, such as dedicated departments of computational social science, are rare, making it challenging to identify relevant researchers and programs. To cope with the problem, we have created this document to facilitate information sharing within the field, helping interested students and researchers find suitable programs, collaborators, and advisors.
 
+Given the large number of researchers/programs in the domain, it is practically impossible for us to include everyone in the field, and it is not the goal as well. We hope this document can be a go-to place when looking for resources in the domain, though not exhaustive.
+
 ## How should I use this project?
 You can use the following documents to find programs/groups/researchers related to computational social science.
 
