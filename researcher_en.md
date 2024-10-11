@@ -152,6 +152,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[James Evans](https://sociology.uchicago.edu/directory/James-A-Evans)** (University of Chicago, USA)
 
+**[Jevin West](https://www.jevinwest.org/)** (University of Washington, USA)
+
 **[Junming Huang](https://ccc.princeton.edu/people/junming-huang)** (Princeton University, USA)
 
 **[Roberta Sinatra](https://www.robertasinatra.com/)** (University of Copenhagen, Denmark)
@@ -189,7 +191,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
 
+**[Emma Spiro](https://emmaspiro.github.io/)** (University of Washington, USA)
+
 **[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
+
+**[Jevin West](https://www.jevinwest.org/)** (University of Washington, USA)
 
 **[Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/)** (Cornell University, USA)
 
@@ -198,6 +204,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Sandra González-Bailón](https://sandragonzalezbailon.net/)** (University of Pennsylvania, USA)
 
 **[Sinan Aral](https://www.sinanaral.io/)** (Massachusetts Institute of Technology, USA)
+
 
 ## Others (Working under the topic but does not fit into specific category)
 
