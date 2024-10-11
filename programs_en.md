@@ -8,6 +8,8 @@
 
    **[University of California, Berkeley, Master of Computational Social Science](https://macss.berkeley.edu/)**
 
+   **[University of California San Diego, Master in Computational Social Science](https://css.ucsd.edu/masters/index.html)**
+
    **[University of Chicago, Master in Computational Social Science](https://macss.uchicago.edu/)**
 
 
@@ -50,7 +52,7 @@
 
    **[University of Pittsburgh, PhD in Information Science](https://www.sci.pitt.edu/academics/doctoral-degrees/information-science-phd)** ([Lingfei Wu](https://lingfeiwu.github.io/), [Morgan Frank](https://sites.pitt.edu/~mrfrank/), [Yu-Ru Lin](https://www.yurulin.com/))
 
-   **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)**
+   **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
 ## European Continent
 
