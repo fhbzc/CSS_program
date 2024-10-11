@@ -1,6 +1,29 @@
 Topics/Researchers are sorted in alphabetical order, researchers do not include graduate students.
 
-One researcher can work on multiple topics/sub-topics. There is no formal definition about each topic and all topics are assigned based on collective input from the community, and may not always align with your understanding (feel free to post change or suggestions via PR or issues)
+One researcher can work on multiple topics/sub-topics. There is no formal definition about each topic and all topics are assigned based on collective input from the community, and may not always align with your understanding (feel free to post change or suggestions via PR or issues). Note the purpose here is not to provide a rigorous categorization of topics, but to help people look for researchers in different domains.
+
+## Content Structure
+
+
+ - AI and Society
+   - Natural Langugage Processing
+   - Human-AI System/Interaction
+   - AI for Social Good
+   - AI for Social Networks
+   - AI and Economy
+  
+ - City Science
+ - Collective Intelligence
+ - Complex System
+ - Organizational Behavior
+ - Network Science
+ - Science of Science
+ - Social Media/Online Community
+   - Political discourse
+   - Misinformation/Information Diffusion
+   - Others
+
+
 
 # AI and Society
 
@@ -36,6 +59,9 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
 
+**[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
+
+**[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
 
 # City Science
 
@@ -122,7 +148,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
 
-## Misinformation/Information diffusion
+## Misinformation/Information Diffusion
 
 **[Damon Centola](https://www.asc.upenn.edu/people/faculty/damon-centola-phd)** (University of Pennsylvania, USA)
 
