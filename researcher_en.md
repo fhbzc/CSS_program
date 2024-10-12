@@ -6,37 +6,33 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 
  - AI and Society
-   - Natural Langugage Processing
-   - Human-AI System/Interaction
+   - AI and Economy
    - AI for Social Good
    - AI for Social Networks
-   - AI and Economy
+   - Human-AI System/Interaction/Augmentation
+   - Natural Langugage Processing
  - City Science
  - Complex System/Networks
- - Organizational Behavior/Management
+ - Management
+   -Collective Intelligence
  - Science of Science
- - Social Media/Online Community
-   - Political discourse
+ - Social Media/Communication
    - Misinformation/Information Diffusion
-   - Others
-
+   - Political Discourse
+   - (Online) Community and Behavior
+ - Others (not classified at the moment)
 
 
 # AI and Society
 
-## Natural Langugage Processing
 
-**[Dan Jurafsky](http://web.stanford.edu/~jurafsky/)** (Stanford University, USA)
+## AI and Economy
 
-**[Deb Roy](https://www.media.mit.edu/people/dkroy/overview/)** (Massachusetts Institute of Technology, USA)
+**[Dan Goldstein](https://www.microsoft.com/en-us/research/people/dgg/projects/)** (Microsoft Research, USA)
 
-**[Diyi Yang](https://cs.stanford.edu/~diyiy/)** (Stanford University, USA)
+**[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
 
-## Human-AI System/Interaction
-
-**[Chenhao Tan](https://chenhaot.com/)** (University of Chicago, USA)
-
-**[Hirokazu Shirado](https://www.shirado.net/)** (Carnegie Mellon University, USA)
+**[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
 
 **[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
 
@@ -50,15 +46,31 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yang Yang](http://yangy.org/)** (Zhejiang University, Mainland China)
 
-## AI and Economy
+## Natural Langugage Processing
 
-**[Dan Goldstein](https://www.microsoft.com/en-us/research/people/dgg/projects/)** (Microsoft Research, USA)
+**[Dan Jurafsky](http://web.stanford.edu/~jurafsky/)** (Stanford University, USA)
 
-**[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
+**[Deb Roy](https://www.media.mit.edu/people/dkroy/overview/)** (Massachusetts Institute of Technology, USA)
 
-**[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
+**[Diyi Yang](https://cs.stanford.edu/~diyiy/)** (Stanford University, USA)
+
+**[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
+
+**[Janyce Wiebe](https://people.cs.pitt.edu/~wiebe/)** (University of Pittsburgh, USA)
+
+**[Ken Benoit](https://kenbenoit.net/)** (Singapore Management University, Singapore)
+
+## Human-AI System/Interaction/Augmentation
+
+**[Chenhao Tan](https://chenhaot.com/)** (University of Chicago, USA)
+
+**[Hirokazu Shirado](https://www.shirado.net/)** (Carnegie Mellon University, USA)
 
 **[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
+
+**[Nello Cristianini](https://researchportal.bath.ac.uk/en/persons/nello-cristianini)** (University of Bath, UK)
+
+**[Taha Yasseri](https://tahayasseri.com/)** (Trinity College Dublin, Ireland)
 
 # City Science
 
@@ -76,11 +88,19 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Albert-László Barabási](https://www.barabasilab.com/)** (Northeastern University, USA)
 
+**[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
+
+**[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
+
+**[Karen Cook](https://sociology.stanford.edu/people/karen-cook)** (Stanford University, USA)
+
 **[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
 
 **[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
 
 **[Michael Macy](https://sociology.cornell.edu/michael-macy)** (Cornell University, USA)
+
+**[Milena Tsvetkova](https://tsvetkova.me/)** (London School of Economics and Political Science, UK)
 
 **[Nicholas Christakis](https://humannaturelab.net/director)** (Yale, USA)
 
@@ -88,14 +108,14 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Patrick Park](https://patpark.org/)** (Carnegie Mellon University, USA)
 
-**[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
+**[Seth Flaxman](https://sethrf.com/)** (University of Oxford, UK)
 
 **[Yan Leng](https://yleng.github.io/www/)** (The University of Texas at Austin, USA)
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
 
-# Organizational Behavior/Management
+# Management
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
@@ -171,18 +191,9 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 
 
-# Social Media/Online Community
+# Social Media/Communication
 
 
-## Political discourse
-
-**[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
-
-**[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
-
-**[Sinan Aral](https://www.sinanaral.io/)** (Massachusetts Institute of Technology, USA)
-
-**[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
 
 ## Misinformation/Information Diffusion
 
@@ -194,7 +205,9 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Emma Spiro](https://emmaspiro.github.io/)** (University of Washington, USA)
 
-**[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
+**[Helen Margetts](https://www.oii.ox.ac.uk/people/profiles/helen-margetts/)** (University of Oxford, UK)
+
+**[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
 
 **[Jevin West](https://www.jevinwest.org/)** (University of Washington, USA)
 
@@ -202,12 +215,36 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Jure Leskovec](https://cs.stanford.edu/people/jure/)** (Stanford University, USA)
 
+**[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
+
 **[Sandra González-Bailón](https://sandragonzalezbailon.net/)** (University of Pennsylvania, USA)
+
+**[Sílvia Majó-Vázquez](https://silviamajo.com/about/)** (University of Oxford, UK)
 
 **[Sinan Aral](https://www.sinanaral.io/)** (Massachusetts Institute of Technology, USA)
 
 
-## Others (Working under the topic but does not fit into specific category)
+## Political Discourse
 
-**[Bogdan Vasilescu](https://bvasiles.github.io/)** (Carnegie Mellon University, USA)
+**[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
 
+**[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
+
+**[Sílvia Majó-Vázquez](https://silviamajo.com/about/)** (University of Oxford, UK)
+
+**[Sinan Aral](https://www.sinanaral.io/)** (Massachusetts Institute of Technology, USA)
+
+**[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
+
+## (Online) Community and Behavior
+
+**[Jeff Hancock](https://sml.stanford.edu/people/jeff-hancock)** (Stanford University, USA)
+
+**[Suzy Moat](https://www.wbs.ac.uk/about/person/suzy-moat/)** (Warwick Business School, UK)
+
+**[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
+
+
+# Others (not classified at the moment)
+
+**[Yves-Alexandre de Montjoye](https://demontjoye.com/)** (Imperial College London, UK)
