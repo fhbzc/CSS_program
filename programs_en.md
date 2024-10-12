@@ -18,7 +18,7 @@
 
 ## United States of America
 
-   **[Carnegie Mellon University University, PhD in Human Computer Interaction](https://hcii.cmu.edu/academics/phd-hci)** ([Hirokazu Shirado](https://www.shirado.net/))
+   **[Carnegie Mellon University University, PhD in Human Computer Interaction](https://hcii.cmu.edu/academics/phd-hci)** ([Hirokazu Shirado](https://www.shirado.net/), [Haiyi Zhu](https://haiyizhu.com/), [Geoff Kaufman](https://www.hcii.cmu.edu/people/geoff-kaufman), [Aniket Kittur](https://kittur.org/))
    
    **[Carnegie Mellon University University, PhD in Social and Decision Science](https://www.cmu.edu/dietrich/sds/graduate/index.html)** ([Simon DeDeo](https://sites.santafe.edu/~simon/))
 
