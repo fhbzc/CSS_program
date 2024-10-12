@@ -46,7 +46,7 @@ We thank everyone who contributes to the project.
 ## Acknowledgement 
 This is a grassroots project initiated by PhD students in computational social science, and it won't be what it is without the contributions from the broad open-source community. Please refer to the contributors to view the full list of contributors.
 
-Particularly, we want to recognize people who help start, and make significant contributions to the project: [Hongbo Fang](https://scholar.google.com/citations?user=tMNsrlQAAAAJ&hl=zh-CN), [Yulin Yu](https://yulin-yu.github.io/)
+Particularly, we want to recognize people who help start, and make significant contributions to the project: [Hongbo Fang](https://scholar.google.com/citations?user=tMNsrlQAAAAJ&hl=zh-CN), [Ziwen Chen](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ziwen-chen), [Yulin Yu](https://yulin-yu.github.io/)
 
 ## Contact 
 Please reach out to *Hongbo Fang* via fanghongdoublebo@gmail.com
