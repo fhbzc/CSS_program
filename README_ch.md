@@ -1,4 +1,4 @@
-# 计算社会科学领域的学术项目/研究人员和工业界研究组
+# 计算社会科学领域的学术项目,研究人员和工业界研究组
 
 该项目记录了全球范围内的计算社会科学相关的硕士/博士项目，以及在此领域工作的研究人员和行业组织。项目旨在帮助对计算社会科学感兴趣的学生和研究人员，在申请研究生或寻找工作时提供参考。([英文版](https://github.com/fhbzc/computational-social-science-program-group-people/blob/main/README.md))
 
