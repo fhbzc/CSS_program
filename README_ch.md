@@ -45,7 +45,7 @@
 ## 致谢
 这是由计算社会科学博士生发起的草根项目，没有来自开源社区的广泛贡献，它无法发展到今天。请参阅贡献者名单以查看完整的贡献者名单。
 
-特别感谢以下人员对项目的启动及重大贡献：[Hongbo Fang](https://scholar.google.com/citations?user=tMNsrlQAAAAJ&hl=zh-CN)，[Liangshu Dai](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3)，[Ziwen Chen](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ziwen-chen)，[Yulin Yu](https://yulin-yu.github.io/)
+特别感谢以下对本文档的启动和发展做出巨大贡献的成员：[Hongbo Fang](https://scholar.google.com/citations?user=tMNsrlQAAAAJ&hl=zh-CN)，[Liangshu Dai](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3)，[Ziwen Chen](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ziwen-chen)，[Yulin Yu](https://yulin-yu.github.io/)
 
 ## 联系方式
 请通过邮箱 *fanghongdoublebo@gmail.com* 联系 *Hongbo Fang*
