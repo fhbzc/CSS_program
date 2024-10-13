@@ -281,11 +281,14 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 ## (Online) Community and Behavior
 
+**[Bogdan Vasilescu](https://bvasiles.github.io/)** (Carnegie Mellon University, USA)
+
+**[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
+
 **[Jeff Hancock](https://sml.stanford.edu/people/jeff-hancock)** (Stanford University, USA)
 
 **[Suzy Moat](https://www.wbs.ac.uk/about/person/suzy-moat/)** (Warwick Business School, UK)
 
-**[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
 
 # Others (not classified at the moment)
 
