@@ -37,9 +37,11 @@
 
    **[Tsinghua University, PhD in Computer Science and Technology](https://www.cs.tsinghua.edu.cn/jwjx/yjs.htm)** ([Jie Tang/唐杰](https://keg.cs.tsinghua.edu.cn/jietang/))
 
-   **[Tsinghua University, PhD in Electrial Engineering](https://www.eea.tsinghua.edu.cn/rcpy/yjspy.htm)** [Fengli Xu/徐丰力](https://fenglixu.github.io/))
+   **[Tsinghua University, PhD in Electrial Engineering](https://www.eea.tsinghua.edu.cn/rcpy/yjspy.htm)** ([Fengli Xu/徐丰力](https://fenglixu.github.io/))
 
-   **[Tsinghua University, PhD in Sociology](https://www.sss.tsinghua.edu.cn/zsxx/bsszs1.htm)** ([Jiade Luo/罗家德](https://www.sss.tsinghua.edu.cn/info/1043/3910.htm), [Tianguang Meng/孟天广](https://www.dps.tsinghua.edu.cn/info/1179/2841.htm))
+   **[Tsinghua University, PhD in Political Science](https://www.sss.tsinghua.edu.cn/info/1023/2087.htm)** ([Tianguang Meng/孟天广](https://www.dps.tsinghua.edu.cn/info/1179/2841.htm))
+
+   **[Tsinghua University, PhD in Sociology](https://www.sss.tsinghua.edu.cn/zsxx/bsszs1.htm)** ([Jiade Luo/罗家德](https://www.sss.tsinghua.edu.cn/info/1043/3910.htm))
 
    **[Wuhan University, PhD in Sociology](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shxx.whu.edu.cn/&ved=2ahUKEwjetJ2qiYyJAxVPg4kEHVvgEYsQFnoECB0QAQ&usg=AOvVaw2xL-tcP3MfLo_HxAwCrCjr)** ([Weigang Gong/龚为纲](http://bdi.whu.edu.cn/teacherinfo.aspx?id=433))
 
@@ -57,11 +59,15 @@
 
   **[Max Planck Institute, PhD in Computer and Information Science](https://www.cis.mpg.de/csmaxplanck-overview/)** ([Iyad Rahwan](https://www.rahwan.me/))
   
+  **[University of Zurich, PhD in Communication and Media Research](https://www.ikmz.uzh.ch/en/studies/doctorate.html)** ([Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html))
+  
 ## United Kingdom
 
    **[University of Oxford, DPhil in Information, Communication and the Social Sciences](https://www.ox.ac.uk/admissions/graduate/courses/dphil-information-communication-and-social-sciences)** ([Scott Hale](https://www.oii.ox.ac.uk/people/profiles/scott-hale/), [Xiaowen Dong](https://web.media.mit.edu/~xdong/), [Mark Graham](https://www.oii.ox.ac.uk/people/profiles/mark-graham/), [Bernie Hogan](https://www.oii.ox.ac.uk/people/profiles/bernie-hogan/))
 
    **[University of Oxford, DPhil in Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/)** ([Scott Hale](https://www.oii.ox.ac.uk/people/profiles/scott-hale/), [Xiaowen Dong](https://web.media.mit.edu/~xdong/), [Mark Graham](https://www.oii.ox.ac.uk/people/profiles/mark-graham/), [Bernie Hogan](https://www.oii.ox.ac.uk/people/profiles/bernie-hogan/))
+
+   **[University of Warwick, PhD in Interdisciplinary Studies](https://warwick.ac.uk/fac/cross_fac/cim/apply-to-study/phd-programmes/)** ([Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/))
 
 ## United States of America
 

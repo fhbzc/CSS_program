@@ -105,6 +105,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm)** (Beijing Normal University,  Mainland China)
 
+**[Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/)** (University of Warwick, UK)
+
 **[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
 
 **[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
@@ -244,6 +246,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
 
 **[Jevin West](https://www.jevinwest.org/)** (University of Washington, USA)
+
+**[Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html)** (University of Zurich, Switzerland)
 
 **[Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/)** (Cornell University, USA)
 
