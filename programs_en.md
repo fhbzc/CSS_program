@@ -18,6 +18,25 @@
 
 # PhD programs （Examples of reseachers in the program/institution listed）
 
+## China, Mainland
+
+   
+
+   **[Beijing Normal University, PhD in System Science](https://sss.bnu.edu.cn/rcpy/xsbs/zsjz2/index.htm)** ([Jiang Zhang/张江](https://jake.swarma.org/index.html), [An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm))
+
+   **[Nanjing University, PhD in Information Management](https://im.nju.edu.cn/13281/list.htm)** ([Jiang Li/李江](https://im.nju.edu.cn/lj/list.htm))
+
+   **[Nanjing University, PhD in Social and Behavioral Sciences](https://sociology.nju.edu.cn/rcpy/listm.htm)** ([Yunsong Chen/陈云松](https://sociology.nju.edu.cn/99/38/c17737a301368/pagem.htm))
+
+   **[Peking University, PhD in Information Management](http://www.im.pku.edu.cn/zsxm/bsxm/index.htm)** ([Yi Bu/步一](https://buyi08.wixsite.com/yi-bu))
+
+   **[Shanghai Jiao Tong University, PhD in International and Public Affairs](https://www.sipa.sjtu.edu.cn/list/kcjx1)** ([Dongbo Shi/史冬波](https://www.shidongbo.com/%E4%B8%AD%E6%96%87))
+
+   **[Tsinghua University, PhD in Sociology](https://www.sss.tsinghua.edu.cn/zsxx/bsszs1.htm)** ([Jiade Luo/罗家德](https://www.sss.tsinghua.edu.cn/info/1043/3910.htm), [Tianguang Meng/孟天广](https://www.dps.tsinghua.edu.cn/info/1179/2841.htm))
+
+   **[Zhejiang University, PhD in Computer Science and Technology](http://www.cs.zju.edu.cn/csen/26989/list.htm)**, ([Yang Yang/杨洋](http://yangy.org/))
+
+   **[Zhejiang University, PhD in Sociology](http://sociology.zju.edu.cn/index.php/Research/index.html?tid=31&pid=64&sid=5)**, ([Liangshu Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=147&tid=19&sid=3), [Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3), [Xiaoming Zhang/张晓鸣](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=177&tid=19&sid=3))
 
 ## European Continent
 
@@ -44,6 +63,8 @@
    **[Duke University, PhD in Sociology](https://sociology.duke.edu/graduate)** ([Chris Bail](https://www.chrisbail.net/), [James Moody](https://sociology.duke.edu/james-moody), [Craig Rawlings](https://scholars.duke.edu/person/craig.rawlings))
 
    **[Georgia Institute of Technology, PhD in Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing)** ([Munmun De Choudhury](http://www.munmund.net/), [Clio Andris](https://planning.gatech.edu/people/clio-andris))
+
+   **[George Mason University, PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)** 
 
    **[Indiana University Bloomington, Ph.D. in Informatics](https://informatics.indiana.edu/programs/phd-informatics/index.html)** ([YY Ahn](http://yongyeol.com/))
 
