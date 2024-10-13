@@ -1,4 +1,4 @@
-# Programs, Researchers on Computational Social Science
+# Programs, Researchers, Groups on Computational Social Science
 
 This project keeps a record of master/phd programs , as well as researchers and industry groups working in computational social science. The aim of the project is to help students/researchers interested in computational social science with graduate application and job search. ([Chinese version/中文版](https://github.com/fhbzc/program-computational-social-science/blob/main/README_ch.md))
 
