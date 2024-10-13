@@ -14,13 +14,14 @@
 
    **[University of Chicago, Master in Computational Social Science](https://macss.uchicago.edu/)**
 
-
-
 # PhD programs （Examples of reseachers in the program/institution listed）
+
+## Canada
+
+   **[University of Toronto, Phd in Computer Science](https://web.cs.toronto.edu/graduate/phd)** ([Ashton Anderson](https://www.cs.toronto.edu/~ashton/))
 
 ## China, Mainland
 
-   
 
    **[Beijing Normal University, PhD in System Science](https://sss.bnu.edu.cn/rcpy/xsbs/zsjz2/index.htm)** ([Jiang Zhang/张江](https://jake.swarma.org/index.html), [An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm))
 
@@ -32,11 +33,21 @@
 
    **[Shanghai Jiao Tong University, PhD in International and Public Affairs](https://www.sipa.sjtu.edu.cn/list/kcjx1)** ([Dongbo Shi/史冬波](https://www.shidongbo.com/%E4%B8%AD%E6%96%87))
 
+   **[Sun Yat-sen University, PhD in Sociology&Anthropology](https://ssa.sysu.edu.cn/taxonomy/term/156)** ([Yucheng Liang/梁玉成](https://ssa.sysu.edu.cn/teacher/2468))
+
+   **[Tsinghua University, PhD in Computer Science and Technology](https://www.cs.tsinghua.edu.cn/jwjx/yjs.htm)** ([Jie Tang/唐杰](https://keg.cs.tsinghua.edu.cn/jietang/))
+
    **[Tsinghua University, PhD in Sociology](https://www.sss.tsinghua.edu.cn/zsxx/bsszs1.htm)** ([Jiade Luo/罗家德](https://www.sss.tsinghua.edu.cn/info/1043/3910.htm), [Tianguang Meng/孟天广](https://www.dps.tsinghua.edu.cn/info/1179/2841.htm))
 
-   **[Zhejiang University, PhD in Computer Science and Technology](http://www.cs.zju.edu.cn/csen/26989/list.htm)**, ([Yang Yang/杨洋](http://yangy.org/))
+   **[Wuhan University, PhD in Sociology](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shxx.whu.edu.cn/&ved=2ahUKEwjetJ2qiYyJAxVPg4kEHVvgEYsQFnoECB0QAQ&usg=AOvVaw2xL-tcP3MfLo_HxAwCrCjr)** ([Weigang Gong/龚为纲](http://bdi.whu.edu.cn/teacherinfo.aspx?id=433))
 
-   **[Zhejiang University, PhD in Sociology](http://sociology.zju.edu.cn/index.php/Research/index.html?tid=31&pid=64&sid=5)**, ([Liangshu Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=147&tid=19&sid=3), [Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3), [Xiaoming Zhang/张晓鸣](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=177&tid=19&sid=3))
+   **[Zhejiang University, PhD in Computer Science and Technology](http://www.cs.zju.edu.cn/csen/26989/list.htm)** ([Yang Yang/杨洋](http://yangy.org/))
+
+   **[Zhejiang University, PhD in Media and International Culture](http://www.cmic.zju.edu.cn/35565/list.htm)** ([Zike Zhang/张子柯](https://person.zju.edu.cn/zkz#))
+
+   **[Zhejiang University, PhD in Public Affairs](http://www.spa.zju.edu.cn/spachinese/13235/list.htm)** ([Xiaoguang Fan/范晓光](https://person.zju.edu.cn/en/steve))
+
+   **[Zhejiang University, PhD in Sociology](http://sociology.zju.edu.cn/index.php/Research/index.html?tid=31&pid=64&sid=5)** ([Liangshu Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=147&tid=19&sid=3), [Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3), [Xiaoming Zhang/张晓鸣](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=177&tid=19&sid=3))
 
 ## European Continent
 

@@ -16,6 +16,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
  - Management
    -Collective Intelligence
  - Science of Science
+ - Social Movement
  - Social Media/Communication
    - Misinformation/Information Diffusion
    - Political Discourse
@@ -41,9 +42,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 ## AI for Social Networks
 
+**[Jie Tang/唐杰](https://keg.cs.tsinghua.edu.cn/jietang/)** (Tsinghua University, Mainland China)
+
 **[Jure Leskovec](https://cs.stanford.edu/people/jure/)** (Stanford University, USA)
 
-**[Yang Yang](http://yangy.org/)** (Zhejiang University, Mainland China)
+**[Yang Yang/杨洋](http://yangy.org/)** (Zhejiang University, Mainland China)
 
 ## Natural Langugage Processing
 
@@ -85,7 +88,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # City Science
 
-**[Lei Dong](http://donglei.org/about/)** (Maptable, Mainland China)
+**[Lei Dong/董磊](http://donglei.org/about/)** (Maptable, Mainland China)
 
 **[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
 
@@ -99,9 +102,15 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Albert-László Barabási](https://www.barabasilab.com/)** (Northeastern University, USA)
 
+**[An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm)** (Beijing Normal University,  Mainland China)
+
 **[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
 
+**[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
+
 **[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
+
+**[Jiang Zhang/张江](https://jake.swarma.org/index.html)** (Beijing Normal University, Mainland China)
 
 **[Karen Cook](https://sociology.stanford.edu/people/karen-cook)** (Stanford University, USA)
 
@@ -127,6 +136,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
+**[Zike Zhang/张子柯](https://person.zju.edu.cn/zkz#)** (Zhejiang University, Mainland China)
 
 # Management
 
@@ -150,6 +160,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Alexander Petersen](http://physics.bu.edu/~amp17/)** (University of California Merced, USA)
 
+**[An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm)** (Beijing Normal University, Mainland China)
+
+**[Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3)** (Zhejiang University, Mainland China)
+
 **[Benjamin Jones](https://www.kellogg.northwestern.edu/faculty/directory/jones_benjamin_f.aspx)** (Northwestern University, USA)
 
 **[Brian Uzzi](https://www.kellogg.northwestern.edu/faculty/uzzi/htm/)** (Northwestern University, USA)
@@ -166,13 +180,15 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Erin Leahey](https://sociology.arizona.edu/person/erin-leahey)** (The University of Arizona, USA)
 
-**[Fengli Xu](https://fenglixu.github.io/)** (Tsinghua University, Mainland China)
+**[Fengli Xu/徐丰力](https://fenglixu.github.io/)** (Tsinghua University, Mainland China)
 
 **[Katy Börner](https://cns-iu.github.io/katy/)** (Indiana University Bloomington, USA)
 
+**[Liangshu Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3)** (Zhejiang University, Mainland China)
+
 **[Lingfei Wu](https://lingfeiwu.github.io/)** (University of Pittsburgh, USA)
 
-**[Linzhuo Li](http://sociology.zju.edu.cn/index.php/Teacher/e_details.html?id=80&tid=19&sid=2)** (Zhejiang University, Mainland China)
+**[Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/e_details.html?id=80&tid=19&sid=2)** (Zhejiang University, Mainland China)
 
 **[Ludo Waltman](https://www.universiteitleiden.nl/en/staffmembers/ludo-waltman/publications#tab-1)** (Leiden University, Netherlands)
 
@@ -200,7 +216,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[YY Ahn](http://yongyeol.com/)** (Indiana University Bloomington, USA)
 
+# Social Movement
 
+**[Xiaoguang Fan/范晓光](https://person.zju.edu.cn/en/steve)** (Zhejiang University, Mainland China)
+
+**[Yucheng Liang/梁玉成](https://ssa.sysu.edu.cn/teacher/2468)** (Sun Yat-sen University, Mainland China)
 
 # Social Media/Communication
 
