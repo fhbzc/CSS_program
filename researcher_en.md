@@ -88,9 +88,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # City Science
 
+**[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
+
 **[Lei Dong/董磊](http://donglei.org/about/)** (Maptable, Mainland China)
 
-**[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
 
 
 
