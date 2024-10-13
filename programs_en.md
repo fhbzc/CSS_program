@@ -37,6 +37,8 @@
 
    **[Tsinghua University, PhD in Computer Science and Technology](https://www.cs.tsinghua.edu.cn/jwjx/yjs.htm)** ([Jie Tang/唐杰](https://keg.cs.tsinghua.edu.cn/jietang/))
 
+   **[Tsinghua University, PhD in Electrial Engineering](https://www.eea.tsinghua.edu.cn/rcpy/yjspy.htm)** [Fengli Xu/徐丰力](https://fenglixu.github.io/))
+
    **[Tsinghua University, PhD in Sociology](https://www.sss.tsinghua.edu.cn/zsxx/bsszs1.htm)** ([Jiade Luo/罗家德](https://www.sss.tsinghua.edu.cn/info/1043/3910.htm), [Tianguang Meng/孟天广](https://www.dps.tsinghua.edu.cn/info/1179/2841.htm))
 
    **[Wuhan University, PhD in Sociology](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shxx.whu.edu.cn/&ved=2ahUKEwjetJ2qiYyJAxVPg4kEHVvgEYsQFnoECB0QAQ&usg=AOvVaw2xL-tcP3MfLo_HxAwCrCjr)** ([Weigang Gong/龚为纲](http://bdi.whu.edu.cn/teacherinfo.aspx?id=433))
