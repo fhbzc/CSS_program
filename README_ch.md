@@ -1,4 +1,4 @@
-# 计算社会科学领域的项目和研究人员
+# 计算社会科学领域的学术项目/研究人员和工业界研究组
 
 该项目记录了全球范围内的计算社会科学相关的硕士/博士项目，以及在此领域工作的研究人员和行业组织。项目旨在帮助对计算社会科学感兴趣的学生和研究人员，在申请研究生或寻找工作时提供参考。([英文版](https://github.com/fhbzc/computational-social-science-program-group-people/blob/main/README.md))
 
@@ -6,7 +6,7 @@
 
 [研究人员 （按研究主题分组）](https://github.com/fhbzc/program-computational-social-science/blob/main/researcher_en.md)
 
-[行业组织 （按国家/地区分组）](https://github.com/fhbzc/program-computational-social-science/blob/main/industry_en.md)
+[业界研究组 （按国家/地区分组）](https://github.com/fhbzc/program-computational-social-science/blob/main/industry_en.md)
 
 ## 什么是计算社会科学？
 计算社会科学这一研究理念正式起源于2009年发表的一篇[《科学》期刊论文](https://www.science.org/doi/full/10.1126/science.1167742?casa_token=_cfPz3X3Rm4AAAAA%3AVTQelmhEE36GXIJ5nsbpuDQcM_A31Axi8u655kvGG0nGxWIDntiR6YDbKaFdzrMW20OFIdhzmfaiog)。作为一个新兴的跨学科领域，它关注社会科学中的计算方法，吸引了越来越多的研究者。
