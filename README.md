@@ -44,7 +44,7 @@ There is no strict rule about who counts as computational social sciensts. Gener
 We thank everyone who contributes to the project.
 
 ## Acknowledgement 
-This is a grassroots project initiated by PhD students in computational social science, and it won't be what it is without the contributions from the broad open-source community. Please refer to the contributors to view the full list of contributors.
+This is a grassroots project initiated by PhD students in computational social science, and it won't be what it is without the contributions from the broad open-source community. Please refer to the [contributors](https://github.com/fhbzc/computational-social-science-program-group-people/graphs/contributors) to view the full list of contributors.
 
 Particularly, we want to recognize people who help start, and make significant contributions to the project: [Hongbo Fang](https://scholar.google.com/citations?user=tMNsrlQAAAAJ&hl=zh-CN), [Liangshu Dai](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Ziwen Chen](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ziwen-chen), [Yulin Yu](https://yulin-yu.github.io/)
 
