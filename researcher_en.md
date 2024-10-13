@@ -7,10 +7,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
  - AI and Society
    - AI and Economy
-   - AI for Social Good
    - AI for Social Networks
    - Human-AI System/Interaction/Augmentation
    - Natural Langugage Processing
+   - Others
  - City Science
  - Complex System/Networks
  - Management
@@ -30,15 +30,14 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Dan Goldstein](https://www.microsoft.com/en-us/research/people/dgg/projects/)** (Microsoft Research, USA)
 
-**[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
+**[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
+
+**[Joshua Blumenstock](https://www.jblumenstock.com/)** (University of California, Berkeley, USA)
 
 **[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
 
-**[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
+**[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
 
-## AI for Social Good
-
-**[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
 
 ## AI for Social Networks
 
@@ -50,9 +49,15 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Dan Jurafsky](http://web.stanford.edu/~jurafsky/)** (Stanford University, USA)
 
+**[David Mimno](https://mimno.infosci.cornell.edu/)** (Cornell University, USA)
+
 **[Deb Roy](https://www.media.mit.edu/people/dkroy/overview/)** (Massachusetts Institute of Technology, USA)
 
+**[Diane Litman](https://people.cs.pitt.edu/~litman/pubs.html)** (University of Pittsburgh, USA)
+
 **[Diyi Yang](https://cs.stanford.edu/~diyiy/)** (Stanford University, USA)
+
+**[Lillian Lee](https://www.cs.cornell.edu/home/llee/)** (Cornell University, USA)
 
 **[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
 
@@ -71,6 +76,12 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Nello Cristianini](https://researchportal.bath.ac.uk/en/persons/nello-cristianini)** (University of Bath, UK)
 
 **[Taha Yasseri](https://tahayasseri.com/)** (Trinity College Dublin, Ireland)
+
+## Others
+
+**[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
+
+**[Sebastian Benthall](https://sbenthall.net/)** (New York University, USA)
 
 # City Science
 
@@ -110,6 +121,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Seth Flaxman](https://sethrf.com/)** (University of Oxford, UK)
 
+**[Steven Strogatz](https://www.stevenstrogatz.com/)** (Cornell University, USA)
+
 **[Yan Leng](https://yleng.github.io/www/)** (The University of Texas at Austin, USA)
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
@@ -128,8 +141,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Alex Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** (Massachusetts Institute of Technology, USA)
 
 **[Thomas Malone](https://mitsloan.mit.edu/faculty/directory/thomas-w-malone)** (Massachusetts Institute of Technology, USA)
-
-
 
 # Science of Science
 
@@ -197,6 +208,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 ## Misinformation/Information Diffusion
 
+**[Damian Trilling](https://damiantrilling.net/en/)** (Vrije Universiteit Amsterdam, Netherlands)
+
 **[Damon Centola](https://www.asc.upenn.edu/people/faculty/damon-centola-phd)** (University of Pennsylvania, USA)
 
 **[David Lazer](https://www.lazerlab.net/people/david-lazer)** (Northeastern University, USA)
@@ -217,6 +230,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
 
+**[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
+
 **[Sandra González-Bailón](https://sandragonzalezbailon.net/)** (University of Pennsylvania, USA)
 
 **[Sílvia Majó-Vázquez](https://silviamajo.com/about/)** (University of Oxford, UK)
@@ -228,7 +243,15 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
 
+**[Damian Trilling](https://damiantrilling.net/en/)** (Vrije Universiteit Amsterdam, Netherlands)
+
+**[Gary King](https://gking.harvard.edu/)** (Harvard University, USA)
+
+**[Joshua Tucker](https://as.nyu.edu/faculty/joshua-tucker.html)** (New York University, USA)
+
 **[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
+
+**[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
 
 **[Sílvia Majó-Vázquez](https://silviamajo.com/about/)** (University of Oxford, UK)
 
@@ -243,7 +266,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Suzy Moat](https://www.wbs.ac.uk/about/person/suzy-moat/)** (Warwick Business School, UK)
 
 **[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
-
 
 # Others (not classified at the moment)
 
