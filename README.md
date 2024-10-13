@@ -51,10 +51,3 @@ Particularly, we want to recognize people who help start, and make significant c
 ## Contact 
 Please reach out to *Hongbo Fang* via fanghongdoublebo@gmail.com
 
-## Development Status
-To do:
-
-  * Add Researchers
-  * Add Industry Groups
-  * Add non-US researchers/programs
-  * Add Chinese translation
