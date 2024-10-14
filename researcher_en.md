@@ -13,6 +13,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
    - Others
  - City/Urban/Geo-Analysis
  - Complex System/Networks
+ - Cultural
  - Economy
  - Gender/Race
  - Management
@@ -24,22 +25,31 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
  - Social Media/Communication
    - Misinformation/Information Diffusion
    - (Online) Community and Behavior
- - Others (not classified at the moment)
 
 
 # AI and Society
 
 ## AI Algorithom and Social Impact
 
+**[Abigail Jacobs](https://azjacobs.com/)** (University of Michigan, USA)
+
 **[Allison Koenecke](https://koenecke.infosci.cornell.edu/)** (Cornell University, USA)
+
+**[Dallas Card](https://dallascard.github.io/)** (University of Michigan, USA)
 
 **[Dong Wang](https://www.wangdong.org/)** (University of Illinois Urbana-Champaign, USA)
 
 **[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
 
+**[Grant Schoenebeck](http://schoeneb.people.si.umich.edu/)** (University of Michigan, USA)
+
 **[Sebastian Benthall](https://sbenthall.net/)** (New York University, USA)
 
+**[Yves-Alexandre de Montjoye](https://demontjoye.com/)** (Imperial College London, UK)
+
 ## AI for Social Networks
+
+**[Abigail Jacobs](https://azjacobs.com/)** (University of Michigan, USA)
 
 **[Jie Tang/唐杰](https://keg.cs.tsinghua.edu.cn/jietang/)** (Tsinghua University, Mainland China)
 
@@ -48,9 +58,13 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Yang Yang/杨洋](http://yangy.org/)** (Zhejiang University, Mainland China)
 
 
-## Natural Langugage Processing
+## Natural Langugage Processing (with focus on computational social science)
 
 **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** (Cornell University, USA)
+
+**[David Jurgens](http://jurgens.people.si.umich.edu/)** (University of Michigan, USA)
+
+**[Dallas Card](https://dallascard.github.io/)** (University of Michigan, USA)
 
 **[Dan Jurafsky](http://web.stanford.edu/~jurafsky/)** (Stanford University, USA)
 
@@ -68,7 +82,17 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Janyce Wiebe](https://people.cs.pitt.edu/~wiebe/)** (University of Pittsburgh, USA)
 
+**[Justine Zhang](https://tisjune.github.io/)** (University of Michigan, USA)
+
 **[Ken Benoit](https://kenbenoit.net/)** (Singapore Management University, Singapore)
+
+**[Paramveer Dhillon](https://pdhillon.com/)** (University of Michigan, USA)
+
+**[Ted Underwood](https://ischool.illinois.edu/people/ted-underwood)** (University of Illinois Urbana-Champaign, USA)
+
+**[VG Vinod Vydiswaran](https://public.websites.umich.edu/~vgvinodv/)** (University of Michigan, USA)
+
+**[Zhiyuan Liu/刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html)** (Tsinghua University, Mainland China)
 
 ## Human-AI System/Interaction/Augmentation
 
@@ -76,18 +100,29 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Dong Wang](https://www.wangdong.org/)** (University of Illinois Urbana-Champaign, USA)
 
+**[Eric Gilbert](http://eegilbert.org/)** (University of Michigan, USA)
+
 **[Hirokazu Shirado](https://www.shirado.net/)** (Carnegie Mellon University, USA)
 
 **[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
+
+**[Jessie Chin](https://jessiechinlab.ischool.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
+
+**[JooYoung Seo](https://jooyoungseo.github.io/)** (University of Illinois Urbana-Champaign, USA)
 
 **[Mor Naaman](https://mmoorr.github.io/www_personal/)** (Cornell University, USA)
 
 **[Nello Cristianini](https://researchportal.bath.ac.uk/en/persons/nello-cristianini)** (University of Bath, UK)
 
+**[Paul Resnick](https://presnick.people.si.umich.edu/)** (University of Michigan, USA)
+
 **[Taha Yasseri](https://tahayasseri.com/)** (Trinity College Dublin, Ireland)
 
+**[Yang Wang](http://yangwang.ischool.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
 
+**[Yang Zhang](https://yznd42.github.io/)** (University of Illinois Urbana-Champaign, USA)
 
+**[Yun Huang](https://yunhuang.web.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
 
 # City/Urban/Geo-Analysis
 
@@ -102,13 +137,18 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Complex System/Networks
 
+
 **[Aaron Clauset](https://www.colorado.edu/faculty/clauset/)** (University of Colorado Boulder, USA)
+
+**[Abigail Jacobs](https://azjacobs.com/)** (University of Michigan, USA)
 
 **[Albert-László Barabási](https://www.barabasilab.com/)** (Northeastern University, USA)
 
 **[An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm)** (Beijing Normal University,  Mainland China)
 
 **[Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/)** (University of Warwick, UK)
+
+**[Daniel Romero](http://www.dromero.org/)** (University of Michigan, USA)
 
 **[David Easley](https://easley.economics.cornell.edu/)** (Cornell University, USA)
 
@@ -150,6 +190,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Zike Zhang/张子柯](https://person.zju.edu.cn/zkz#)** (Zhejiang University, Mainland China)
 
+# Cultural
+
+**[Ricky Punzalan](https://rpunzalan.com/)** (University of Michigan, USA)
+
 # Economy
 
 **[Cristobal Cheyre](https://www.andrew.cmu.edu/user/ccheyref/)** (Cornell University, USA)
@@ -158,19 +202,29 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[David Easley](https://easley.economics.cornell.edu/)** (Cornell University, USA)
 
+**[Grant Schoenebeck](http://schoeneb.people.si.umich.edu/)** (University of Michigan, USA)
+
 **[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
 
 **[Joshua Blumenstock](https://www.jblumenstock.com/)** (University of California, Berkeley, USA)
 
 **[Larry Blume](https://sites.santafe.edu/~leb/)** (Cornell University, USA)
 
+**[Meicen Sun](https://ischool.illinois.edu/people/meicen-sun)** (University of Illinois Urbana-Champaign, USA)
+
 **[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
 
 **[Nikhil Garg](https://gargnikhil.com/)** (Cornell University, USA)
 
+**[Paramveer Dhillon](https://pdhillon.com/)** (University of Michigan, USA)
+
 **[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
 
+**[Yan Chen](http://yanchen.people.si.umich.edu/)** (University of Michigan, USA)
+
 # Gender/Race
+
+**[Matthew Bui](https://www.si.umich.edu/people/matthew-bui)** (University of Michigan, USA)
 
 **[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
 
@@ -188,6 +242,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Alex Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** (Massachusetts Institute of Technology, USA)
 
+**[Ceren Budak](http://cbudak.com/index.html)** (University of Michigan, USA)
+
 **[Thomas Malone](https://mitsloan.mit.edu/faculty/directory/thomas-w-malone)** (Massachusetts Institute of Technology, USA)
 
 # Politics and Policy
@@ -204,7 +260,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
 
+**[Libby Hemphill](http://www.libbyh.com/)** (University of Michigan, USA)
+
 **[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
+
+**[Meicen Sun](https://ischool.illinois.edu/people/meicen-sun)** (University of Illinois Urbana-Champaign, USA)
 
 **[Sílvia Majó-Vázquez](https://silviamajo.com/about/)** (University of Oxford, UK)
 
@@ -254,6 +314,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Erin Leahey](https://sociology.arizona.edu/person/erin-leahey)** (The University of Arizona, USA)
 
 **[Fengli Xu/徐丰力](https://fenglixu.github.io/)** (Tsinghua University, Mainland China)
+
+**[Jodi Schneider](https://jodischneider.com/jodi.html)** (University of Illinois Urbana-Champaign, USA)
 
 **[Katy Börner](https://cns-iu.github.io/katy/)** (Indiana University Bloomington, USA)
 
@@ -305,6 +367,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Damon Centola](https://www.asc.upenn.edu/people/faculty/damon-centola-phd)** (University of Pennsylvania, USA)
 
+**[Daniel Romero](http://www.dromero.org/)** (University of Michigan, USA)
+
 **[David Lazer](https://www.lazerlab.net/people/david-lazer)** (Northeastern University, USA)
 
 **[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
@@ -325,6 +389,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
 
+**[Matthew Bui](https://www.si.umich.edu/people/matthew-bui)** (University of Michigan, USA)
+
 **[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
 
 **[Sandra González-Bailón](https://sandragonzalezbailon.net/)** (University of Pennsylvania, USA)
@@ -340,7 +406,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Bogdan Vasilescu](https://bvasiles.github.io/)** (Carnegie Mellon University, USA)
 
+**[Ceren Budak](http://cbudak.com/index.html)** (University of Michigan, USA)
+
 **[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
+
+**[Daniel Romero](http://www.dromero.org/)** (University of Michigan, USA)
 
 **[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
 
@@ -348,7 +418,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Suzy Moat](https://www.wbs.ac.uk/about/person/suzy-moat/)** (Warwick Business School, UK)
 
+**[Yun Huang](https://yunhuang.web.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
 
-# Others (not classified at the moment)
 
-**[Yves-Alexandre de Montjoye](https://demontjoye.com/)** (Imperial College London, UK)

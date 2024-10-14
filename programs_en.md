@@ -39,7 +39,7 @@
 
    **[Sun Yat-sen University, PhD in Sociology&Anthropology](https://ssa.sysu.edu.cn/taxonomy/term/156)** ([Yucheng Liang/梁玉成](https://ssa.sysu.edu.cn/teacher/2468))
 
-   **[Tsinghua University, PhD in Computer Science and Technology](https://www.cs.tsinghua.edu.cn/jwjx/yjs.htm)** ([Jie Tang/唐杰](https://keg.cs.tsinghua.edu.cn/jietang/))
+   **[Tsinghua University, PhD in Computer Science and Technology](https://www.cs.tsinghua.edu.cn/jwjx/yjs.htm)** ([Jie Tang/唐杰](https://keg.cs.tsinghua.edu.cn/jietang/), [Zhiyuan Liu/刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html))
 
    **[Tsinghua University, PhD in Electrial Engineering](https://www.eea.tsinghua.edu.cn/rcpy/yjspy.htm)** ([Fengli Xu/徐丰力](https://fenglixu.github.io/))
 
