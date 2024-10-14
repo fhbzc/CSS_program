@@ -1,5 +1,9 @@
 # Master programs 
 
+## China, Mainland
+
+   **[The Chinese University of Hong Kong, Shenzhen, MSc in Computational Social Science](https://hsspg.cuhk.edu.cn/en/msccss)**
+
 ## United States of America
 
    **[Massachusetts Institute of Technology, Master in Media Arts & Sciences](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)**
@@ -51,7 +55,7 @@
 
    **[Zhejiang University, PhD in Public Affairs](http://www.spa.zju.edu.cn/spachinese/13235/list.htm)** ([Xiaoguang Fan/范晓光](https://person.zju.edu.cn/en/steve))
 
-   **[Zhejiang University, PhD in Sociology](http://sociology.zju.edu.cn/index.php/Research/index.html?tid=31&pid=64&sid=5)** ([Liangshu Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=147&tid=19&sid=3), [Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3), [Xiaoming Zhang/张晓鸣](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=177&tid=19&sid=3))
+   **[Zhejiang University, PhD in Sociology](http://sociology.zju.edu.cn/index.php/Research/index.html?tid=31&pid=64&sid=5)** ([Lianghao Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=147&tid=19&sid=3), [Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3), [Xiaoming Zhang/张晓鸣](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=177&tid=19&sid=3))
 
 ## European Continent
 
@@ -60,7 +64,7 @@
   **[Max Planck Institute, PhD in Computer and Information Science](https://www.cis.mpg.de/csmaxplanck-overview/)** ([Iyad Rahwan](https://www.rahwan.me/))
   
   **[University of Zurich, PhD in Communication and Media Research](https://www.ikmz.uzh.ch/en/studies/doctorate.html)** ([Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html))
-  
+
 ## United Kingdom
 
    **[University of Oxford, DPhil in Information, Communication and the Social Sciences](https://www.ox.ac.uk/admissions/graduate/courses/dphil-information-communication-and-social-sciences)** ([Scott Hale](https://www.oii.ox.ac.uk/people/profiles/scott-hale/), [Xiaowen Dong](https://web.media.mit.edu/~xdong/), [Mark Graham](https://www.oii.ox.ac.uk/people/profiles/mark-graham/), [Bernie Hogan](https://www.oii.ox.ac.uk/people/profiles/bernie-hogan/))

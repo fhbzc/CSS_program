@@ -6,39 +6,38 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 
  - AI and Society
-   - AI and Economy
+   - AI Algorithom and Social Impact
    - AI for Social Networks
    - Human-AI System/Interaction/Augmentation
    - Natural Langugage Processing
    - Others
- - City Science
+ - City/Urban/Geo-Analysis
  - Complex System/Networks
+ - Economy
+ - Gender/Race
  - Management
    -Collective Intelligence
+ - Politics and Policy
+ - Psychology/Cognitive Science
  - Science of Science
  - Social Movement
  - Social Media/Communication
    - Misinformation/Information Diffusion
-   - Political Discourse
    - (Online) Community and Behavior
  - Others (not classified at the moment)
 
 
 # AI and Society
 
+## AI Algorithom and Social Impact
 
-## AI and Economy
+**[Allison Koenecke](https://koenecke.infosci.cornell.edu/)** (Cornell University, USA)
 
-**[Dan Goldstein](https://www.microsoft.com/en-us/research/people/dgg/projects/)** (Microsoft Research, USA)
+**[Dong Wang](https://www.wangdong.org/)** (University of Illinois Urbana-Champaign, USA)
 
-**[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
+**[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
 
-**[Joshua Blumenstock](https://www.jblumenstock.com/)** (University of California, Berkeley, USA)
-
-**[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
-
-**[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
-
+**[Sebastian Benthall](https://sbenthall.net/)** (New York University, USA)
 
 ## AI for Social Networks
 
@@ -48,7 +47,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yang Yang/杨洋](http://yangy.org/)** (Zhejiang University, Mainland China)
 
+
 ## Natural Langugage Processing
+
+**[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** (Cornell University, USA)
 
 **[Dan Jurafsky](http://web.stanford.edu/~jurafsky/)** (Stanford University, USA)
 
@@ -72,27 +74,28 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Chenhao Tan](https://chenhaot.com/)** (University of Chicago, USA)
 
+**[Dong Wang](https://www.wangdong.org/)** (University of Illinois Urbana-Champaign, USA)
+
 **[Hirokazu Shirado](https://www.shirado.net/)** (Carnegie Mellon University, USA)
 
 **[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
+
+**[Mor Naaman](https://mmoorr.github.io/www_personal/)** (Cornell University, USA)
 
 **[Nello Cristianini](https://researchportal.bath.ac.uk/en/persons/nello-cristianini)** (University of Bath, UK)
 
 **[Taha Yasseri](https://tahayasseri.com/)** (Trinity College Dublin, Ireland)
 
-## Others
 
-**[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
 
-**[Sebastian Benthall](https://sbenthall.net/)** (New York University, USA)
 
-# City Science
+# City/Urban/Geo-Analysis
 
 **[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
 
 **[Lei Dong/董磊](http://donglei.org/about/)** (Maptable, Mainland China)
 
-
+**[Matthew Wilkens](https://infosci.cornell.edu/content/wilkens)** (Cornell University, USA)
 
 
 
@@ -107,9 +110,15 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/)** (University of Warwick, UK)
 
+**[David Easley](https://easley.economics.cornell.edu/)** (Cornell University, USA)
+
 **[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
 
 **[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
+
+**[Eunice Santos](https://ischool.illinois.edu/people/eunice-e-santos)** (University of Illinois Urbana-Champaign, USA)
+
+**[Éva Tardos](https://infosci.cornell.edu/content/tardos)** (Cornell University, USA)
 
 **[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
 
@@ -141,6 +150,32 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Zike Zhang/张子柯](https://person.zju.edu.cn/zkz#)** (Zhejiang University, Mainland China)
 
+# Economy
+
+**[Cristobal Cheyre](https://www.andrew.cmu.edu/user/ccheyref/)** (Cornell University, USA)
+
+**[Dan Goldstein](https://www.microsoft.com/en-us/research/people/dgg/projects/)** (Microsoft Research, USA)
+
+**[David Easley](https://easley.economics.cornell.edu/)** (Cornell University, USA)
+
+**[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
+
+**[Joshua Blumenstock](https://www.jblumenstock.com/)** (University of California, Berkeley, USA)
+
+**[Larry Blume](https://sites.santafe.edu/~leb/)** (Cornell University, USA)
+
+**[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
+
+**[Nikhil Garg](https://gargnikhil.com/)** (Cornell University, USA)
+
+**[Steven Wu](https://zstevenwu.com/)** (Carnegie Mellon University, USA)
+
+# Gender/Race
+
+**[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
+
+**[Philip Stark](https://www.stat.berkeley.edu/~stark/)** (University of California, Berkeley, USA)
+
 # Management
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
@@ -154,6 +189,41 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Alex Sandy Pentland](https://www.media.mit.edu/people/sandy/overview/)** (Massachusetts Institute of Technology, USA)
 
 **[Thomas Malone](https://mitsloan.mit.edu/faculty/directory/thomas-w-malone)** (Massachusetts Institute of Technology, USA)
+
+# Politics and Policy
+
+**[Benjamin Soltoff](https://infosci.cornell.edu/content/soltoff)** (Cornell University, USA)
+
+**[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
+
+**[Damian Trilling](https://damiantrilling.net/en/)** (Vrije Universiteit Amsterdam, Netherlands)
+
+**[Gary King](https://gking.harvard.edu/)** (Harvard University, USA)
+
+**[Joshua Tucker](https://as.nyu.edu/faculty/joshua-tucker.html)** (New York University, USA)
+
+**[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
+
+**[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
+
+**[Sílvia Majó-Vázquez](https://silviamajo.com/about/)** (University of Oxford, UK)
+
+**[Sinan Aral](https://www.sinanaral.io/)** (Massachusetts Institute of Technology, USA)
+
+**[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
+
+
+# Psychology/Cognitive Science
+
+**[Brandon Batzloff](https://ischool.illinois.edu/people/brandon-batzloff)** (University of Illinois Urbana-Champaign, USA)
+
+**[Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html)** (Massachusetts Institute of Technology, USA)
+
+**[Morten Christiansen](https://infosci.cornell.edu/content/christiansen)** (Cornell University, USA)
+
+**[Rene Kizilcec](https://rene.kizilcec.com/)** (Cornell University, USA)
+
+**[Simon Dedeo](https://sites.santafe.edu/~simon/)** (Carnegie Mellon University, USA)
 
 # Science of Science
 
@@ -187,7 +257,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Katy Börner](https://cns-iu.github.io/katy/)** (Indiana University Bloomington, USA)
 
-**[Liangshu Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3)** (Zhejiang University, Mainland China)
+**[Lianghao Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3)** (Zhejiang University, Mainland China)
 
 **[Lingfei Wu](https://lingfeiwu.github.io/)** (University of Pittsburgh, USA)
 
@@ -263,32 +333,16 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Sinan Aral](https://www.sinanaral.io/)** (Massachusetts Institute of Technology, USA)
 
-
-## Political Discourse
-
-**[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
-
-**[Damian Trilling](https://damiantrilling.net/en/)** (Vrije Universiteit Amsterdam, Netherlands)
-
-**[Gary King](https://gking.harvard.edu/)** (Harvard University, USA)
-
-**[Joshua Tucker](https://as.nyu.edu/faculty/joshua-tucker.html)** (New York University, USA)
-
-**[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
-
-**[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
-
-**[Sílvia Majó-Vázquez](https://silviamajo.com/about/)** (University of Oxford, UK)
-
-**[Sinan Aral](https://www.sinanaral.io/)** (Massachusetts Institute of Technology, USA)
-
 **[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
+
 
 ## (Online) Community and Behavior
 
 **[Bogdan Vasilescu](https://bvasiles.github.io/)** (Carnegie Mellon University, USA)
 
 **[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
+
+**[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
 
 **[Jeff Hancock](https://sml.stanford.edu/people/jeff-hancock)** (Stanford University, USA)
 
