@@ -115,7 +115,7 @@
 
    **[Northwestern University, PhD in Technology and Social Behavior](https://tsb.northwestern.edu/)** ([Nick Diakopoulos](https://www.nickdiakopoulos.com/))
 
-   **[New York University, PhD in Sociology](https://as.nyu.edu/departments/sociology/graduate/phd-program.html)** ([Delia Baldassari](https://deliabaldassarri.org/), [Bart Bonikowski](https://wp.nyu.edu/bonikowski/), [Paul DiMaggio](https://as.nyu.edu/faculty/paul-dimaggio.html), [Carly Knight](https://carlyrknight.org/))
+   **[New York University, PhD in Sociology](https://as.nyu.edu/departments/sociology/graduate/phd-program.html)** ([Delia Baldassari](https://deliabaldassarri.org/), [Bart Bonikowski](https://wp.nyu.edu/bonikowski/), [Paul DiMaggio](https://as.nyu.edu/faculty/paul-dimaggio.html), [Guillermina Jasso](https://as.nyu.edu/faculty/guillermina-jasso.html), [Carly Knight](https://carlyrknight.org/), [BK Lee](https://as.nyu.edu/faculty/bk-lee.html), [Simone Zhang](https://simonezhang.com))
 
    **[Ohio State University, PhD in Sociology](https://sociology.osu.edu/graduate-program)** ([David Melamed](https://u.osu.edu/melamed9/))
 
@@ -172,6 +172,8 @@
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
    **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
+
+   **[University of Virginia, PhD in Data Science](https://datascience.virginia.edu/degrees/phd)** ([Alex Gates](https://datascience.virginia.edu/people/alex-gates))
 
    **[Washington University in St. Louis, PhD in Political Science](https://polisci.wustl.edu/graduate-program)** ([Christopher Lucas](https://christopherlucas.org/), [Betsy Sinclair](https://sites.wustl.edu/betsysinclair/))
 
