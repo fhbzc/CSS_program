@@ -85,9 +85,13 @@
 
    **[Carnegie Mellon University University, PhD in Societal Computing](https://sc.cs.cmu.edu/)** ([Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html), [Patrick Park](https://patpark.org/))
 
-   **[Cornell University, PhD in Information Science](https://infosci.cornell.edu/phd)** ([Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Yian Yin](https://www.yianyin.net/), [Michael Macy](https://sociology.cornell.edu/michael-macy), [David Strang](https://sociology.cornell.edu/david-strang))
+   **[Cornell University, PhD in Information Science](https://infosci.cornell.edu/phd)** ([Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Yian Yin](https://www.yianyin.net/), [Michael Macy](https://sociology.cornell.edu/michael-macy))
+
+   **[Cornell University, PhD in Sociology](https://sociology.cornell.edu/graduate)** ([Michael Macy](https://sociology.cornell.edu/michael-macy), [David Strang](https://sociology.cornell.edu/david-strang))
 
    **[Duke University, PhD in Sociology](https://sociology.duke.edu/graduate)** ([Chris Bail](https://www.chrisbail.net/), [James Moody](https://sociology.duke.edu/james-moody), [Craig Rawlings](https://scholars.duke.edu/person/craig.rawlings))
+
+	**[Emory University, PhD in Sociology](https://sociology.emory.edu/graduate/faqs.html)** ([Weihua An](https://sociology.emory.edu/people/bios/An-Weihua.html))
 
    **[Georgia Institute of Technology, PhD in Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing)** ([Munmun De Choudhury](http://www.munmund.net/), [Clio Andris](https://planning.gatech.edu/people/clio-andris))
 
@@ -113,6 +117,8 @@
 
    **[New York University, PhD in Sociology](https://as.nyu.edu/departments/sociology/graduate/phd-program.html)** ([Delia Baldassari](https://deliabaldassarri.org/), [Bart Bonikowski](https://wp.nyu.edu/bonikowski/), [Paul DiMaggio](https://as.nyu.edu/faculty/paul-dimaggio.html), [Carly Knight](https://carlyrknight.org/))
 
+	**[Ohio State University, PhD in Sociology](https://sociology.osu.edu/graduate-program)** ([David Melamed](https://u.osu.edu/melamed9/))
+
    **[Princeton University, PhD in Sociology](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/sociology)** ([Matthew Salganik](http://www.princeton.edu/~mjs3/), [Brandon Stewart](https://bstewart.scholar.princeton.edu/))
 
    **[Purdue University, PhD in Sociology](https://www.cla.purdue.edu/academic/sociology/graduate/phd/index.html)** ([Alina Arseniev-Koehler](https://cla.purdue.edu/directory/profiles/alina-arseniev-koehler.html))
@@ -125,9 +131,9 @@
    
    **[Stanford University, PhD at Graduate School of Business](https://www.gsb.stanford.edu/programs/phd)** [Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg)
 
-   **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer). [Yiqing Xu](https://yiqingxu.org/))
+   **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer), [Jennifer Pan](https://jenpan.com), [Yiqing Xu](https://yiqingxu.org/))
 
-  **[University of Arizona, PhD in Sociology](https://sociology.arizona.edu/graduate/about)** ([Charles Gomez](https://charliegomez.com/))
+   **[University of Arizona, PhD in Sociology](https://sociology.arizona.edu/graduate/about)** ([Charles Gomez](https://charliegomez.com/))
 
    **[University of California, Berkeley, PhD in Information Science](https://www.ischool.berkeley.edu/programs/phd/admissions)** ([David Bamman](https://people.ischool.berkeley.edu/~dbamman/))
 
@@ -165,7 +171,7 @@
 
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
-  **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
+   **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
 
    **[Washington University in St. Louis, PhD in Political Science](https://polisci.wustl.edu/graduate-program)** ([Christopher Lucas](https://christopherlucas.org/), [Betsy Sinclair](https://sites.wustl.edu/betsysinclair/))
 
