@@ -115,7 +115,9 @@
 
    **[University of California, Berkeley, PhD in Information Science](https://www.ischool.berkeley.edu/programs/phd/admissions)** ([David Bamman](https://people.ischool.berkeley.edu/~dbamman/))
 
-   **[University of California, Los Angeles, PhD in Sociology](https://grad.ucla.edu/programs/social-sciences/sociology/)**
+   **[University of California, Berkeley Haas School of Business, PhD in Business Administration](https://haas.berkeley.edu/phd/)** ([Srivastava Sameer](https://haas.berkeley.edu/faculty/srivastava-sameer/))
+
+   **[University of California, Los Angeles, PhD in Sociology](https://grad.ucla.edu/programs/social-sciences/sociology/)** ([Jacob Foster](https://soc.ucla.edu/person/jacob-foster/), [Omar Lizardo](https://olizardo.github.io/mysite/))
 
    **[University of Chicago, PhD in Data Science](https://codas.uchicago.edu/academics/phd-in-data-science/)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans))
    
