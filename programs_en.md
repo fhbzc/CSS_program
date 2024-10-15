@@ -77,7 +77,7 @@
    **[University of Warwick, PhD in Interdisciplinary Studies](https://warwick.ac.uk/fac/cross_fac/cim/apply-to-study/phd-programmes/)** ([Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/))
 
 ## United States of America
-  **[Brown University, PhD in Sociology](https://www.brown.edu/academics/sociology/programs/phd)** ([Han Zhang](https://hanzhang.xyz/))
+  **[Brown University, PhD in Sociology](https://www.brown.edu/academics/sociology/programs/phd)** ([Jennifer Candipan](https://vivo.brown.edu/display/jcandipa), [Han Zhang](https://hanzhang.xyz/))
 
    **[Carnegie Mellon University University, PhD in Human Computer Interaction](https://hcii.cmu.edu/academics/phd-hci)** ([Hirokazu Shirado](https://www.shirado.net/), [Haiyi Zhu](https://haiyizhu.com/), [Geoff Kaufman](https://www.hcii.cmu.edu/people/geoff-kaufman), [Aniket Kittur](https://kittur.org/))
    
