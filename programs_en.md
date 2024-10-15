@@ -100,6 +100,10 @@
    **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)** ([Barabási](https://www.barabasilab.com/), [David Lazer](https://www.lazerlab.net/people/david-lazer))
 
    **[Northwestern University, PhD in Management & Organizations](https://www.kellogg.northwestern.edu/doctoral/programs/management-and-organizations.aspx)** (The [NICO](https://www.nico.northwestern.edu/) group)
+   
+   **[Northwestern University, PhD in Media, Technology, and Society](https://mts.northwestern.edu/program-of-study/)** ([Emőke-Ágnes Horvát](https://agneshorvat.soc.northwestern.edu/))
+
+   **[Northwestern University, PhD in Technology and Social Behavior](https://tsb.northwestern.edu/)** ([Nick Diakopoulos](https://www.nickdiakopoulos.com/))
 
    **[Princeton University, PhD in Sociology](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/sociology)** ([Matthew Salganik](http://www.princeton.edu/~mjs3/))
 
