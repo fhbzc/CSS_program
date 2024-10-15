@@ -99,6 +99,10 @@
 
    **[George Mason University, PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)** 
 
+   **[Harvard University, PhD in Government](https://gsas.harvard.edu/program/government)** ([Gary King](https://gking.harvard.edu))
+
+   **[Harvard University, PhD in Sociology](https://sociology.fas.harvard.edu/pages/graduate)** ([Joscha Legewie](https://sociology.fas.harvard.edu/people/joscha-legewie), [Xiang Zhou](https://sociology.fas.harvard.edu/people/xiang-zhou))
+
    **[Indiana University Bloomington, Ph.D. in Informatics](https://informatics.indiana.edu/programs/phd-informatics/index.html)** ([YY Ahn](http://yongyeol.com/))
 
    **[Massachusetts Institute of Technology, PhD in Media Arts & Sciences (apply through master program)](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)** ([Alex Pentland](https://www.media.mit.edu/people/sandy/overview/), [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/))
