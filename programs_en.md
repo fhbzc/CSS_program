@@ -131,11 +131,15 @@
 
    **[Stanford University, PhD in Computer Science](https://www.cs.stanford.edu/admissions/phd-admissions)** ([Diyi Yang](https://cs.stanford.edu/~diyiy/), [Dan Jurafsky](http://web.stanford.edu/~jurafsky/))
 
+   **[Stanford University, PhD in Communications](https://comm.stanford.edu/phd)** ([Jennifer Pan](https://jenpan.com))
+
    **[Stanford University, PhD in Management Science and Engineering](https://msande.stanford.edu/academics-admissions/graduate/phd-program/phd-degree#computational)** ([Johan Ugander](http://stanford.edu/~jugander/), [Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg))
    
-   **[Stanford University, PhD at Graduate School of Business](https://www.gsb.stanford.edu/programs/phd)** ([Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg), [Douglas Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault))
+   **[Stanford University, PhD at Graduate School of Business](https://www.gsb.stanford#.edu/programs/phd)** ([Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg), [Douglas Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault))
 
    **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer), [Jennifer Pan](https://jenpan.com), [Yiqing Xu](https://yiqingxu.org/))
+
+   **[Stanford University, PhD in Sociology](https://sociology.stanford.edu/admissions/phd-how-apply)** ([Robb Willer](https://sociology.stanford.edu/people/robb-willer))
 
    **[University of Arizona, PhD in Sociology](https://sociology.arizona.edu/graduate/about)** ([Charles Gomez](https://charliegomez.com/))
 
