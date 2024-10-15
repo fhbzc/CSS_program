@@ -16,6 +16,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
  - Cultural
  - Economy
  - Gender/Race
+ - Law
  - Management
    -Collective Intelligence
  - Politics and Policy
@@ -132,7 +133,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Matthew Wilkens](https://infosci.cornell.edu/content/wilkens)** (Cornell University, USA)
 
-
+**[Xinyue Ye](https://www.arch.tamu.edu/staff/xinyue-ye/)** (Texas A&M University, USA)
 
 
 # Complex System/Networks
@@ -229,6 +230,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
 
 **[Philip Stark](https://www.stat.berkeley.edu/~stark/)** (University of California, Berkeley, USA)
+
+# Law
 
 # Management
 
