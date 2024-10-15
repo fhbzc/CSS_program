@@ -101,11 +101,11 @@
 
    **[Northwestern University, PhD in Management & Organizations](https://www.kellogg.northwestern.edu/doctoral/programs/management-and-organizations.aspx)** (The [NICO](https://www.nico.northwestern.edu/) group)
    
-   **[Northwestern University, PhD in Media, Technology, and Society](https://mts.northwestern.edu/program-of-study/)** ([Emőke-Ágnes Horvát](https://agneshorvat.soc.northwestern.edu/))
+   **[Northwestern University, PhD in Media, Technology, and Society](https://mts.northwestern.edu/program-of-study/)** ([Emőke-Ágnes Horvát](https://agneshorvat.soc.northwestern.edu/), [Noshir Contractor](https://nosh.northwestern.edu/), [Yingdan Lu](https://yingdanlu.com/), [Aaron Shaw](https://communication.northwestern.edu/faculty/aaron-shaw.html))
 
    **[Northwestern University, PhD in Technology and Social Behavior](https://tsb.northwestern.edu/)** ([Nick Diakopoulos](https://www.nickdiakopoulos.com/))
 
-   **[Princeton University, PhD in Sociology](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/sociology)** ([Matthew Salganik](http://www.princeton.edu/~mjs3/))
+   **[Princeton University, PhD in Sociology](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/sociology)** ([Matthew Salganik](http://www.princeton.edu/~mjs3/), [Brandon Stewart](https://bstewart.scholar.princeton.edu/))
 
    **[Stanford University, PhD in Computer Science](https://www.cs.stanford.edu/admissions/phd-admissions)** ([Diyi Yang](https://cs.stanford.edu/~diyiy/), [Dan Jurafsky](http://web.stanford.edu/~jurafsky/))
 
@@ -133,4 +133,4 @@
 
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
-   **[Yale University, PhD in Sociology](https://sociology.yale.edu/academics/graduate-program/how-apply)** ([Nicholas Christakis](https://sociology.yale.edu/people/nicholas-christakis), [Justin Farrell](https://justinfarrell.org/))
+   **[Yale University, PhD in Sociology](https://sociology.yale.edu/academics/graduate-program/how-apply)** ([Nicholas Christakis](https://sociology.yale.edu/people/nicholas-christakis), [Justin Farrell](https://justinfarrell.org/), [Daniel Karell](https://www.danielkarell.com/), [Yuan Hsiao](https://sociology.yale.edu/people/yuan-hsiao))
