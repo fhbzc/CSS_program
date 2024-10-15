@@ -133,7 +133,7 @@
 
    **[Stanford University, PhD in Management Science and Engineering](https://msande.stanford.edu/academics-admissions/graduate/phd-program/phd-degree#computational)** ([Johan Ugander](http://stanford.edu/~jugander/), [Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg))
    
-   **[Stanford University, PhD at Graduate School of Business](https://www.gsb.stanford.edu/programs/phd)** [Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg)
+   **[Stanford University, PhD at Graduate School of Business](https://www.gsb.stanford.edu/programs/phd)** ([Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg), [Douglas Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault))
 
    **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer), [Jennifer Pan](https://jenpan.com), [Yiqing Xu](https://yiqingxu.org/))
 
@@ -142,6 +142,8 @@
    **[University of California, Berkeley, PhD in Information Science](https://www.ischool.berkeley.edu/programs/phd/admissions)** ([David Bamman](https://people.ischool.berkeley.edu/~dbamman/))
 
    **[University of California, Berkeley Haas School of Business, PhD in Business Administration](https://haas.berkeley.edu/phd/)** ([Srivastava Sameer](https://haas.berkeley.edu/faculty/srivastava-sameer/))
+
+   **[University of California, Davis, PhD in Communications](https://communication.ucdavis.edu/doctoral-program#)** ([Seth Frey](https://communication.ucdavis.edu/people/seth-frey), [Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen))
 
    **[University of California, San Diego, PhD in Political Science](https://polisci.ucsd.edu/grad/index.html)** ([James Fowler](https://scholar.google.com/citations?user=zPXbwJgAAAAJ&hl=en), [Molly Roberts](https://margaretroberts.net/))
 
