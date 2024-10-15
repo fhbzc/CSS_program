@@ -91,7 +91,7 @@
 
    **[Duke University, PhD in Sociology](https://sociology.duke.edu/graduate)** ([Chris Bail](https://www.chrisbail.net/), [James Moody](https://sociology.duke.edu/james-moody), [Craig Rawlings](https://scholars.duke.edu/person/craig.rawlings))
 
-	**[Emory University, PhD in Sociology](https://sociology.emory.edu/graduate/faqs.html)** ([Weihua An](https://sociology.emory.edu/people/bios/An-Weihua.html))
+   **[Emory University, PhD in Sociology](https://sociology.emory.edu/graduate/faqs.html)** ([Weihua An](https://sociology.emory.edu/people/bios/An-Weihua.html))
 
    **[Georgia Institute of Technology, PhD in Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing)** ([Munmun De Choudhury](http://www.munmund.net/), [Clio Andris](https://planning.gatech.edu/people/clio-andris))
 
@@ -117,7 +117,7 @@
 
    **[New York University, PhD in Sociology](https://as.nyu.edu/departments/sociology/graduate/phd-program.html)** ([Delia Baldassari](https://deliabaldassarri.org/), [Bart Bonikowski](https://wp.nyu.edu/bonikowski/), [Paul DiMaggio](https://as.nyu.edu/faculty/paul-dimaggio.html), [Carly Knight](https://carlyrknight.org/))
 
-	**[Ohio State University, PhD in Sociology](https://sociology.osu.edu/graduate-program)** ([David Melamed](https://u.osu.edu/melamed9/))
+   **[Ohio State University, PhD in Sociology](https://sociology.osu.edu/graduate-program)** ([David Melamed](https://u.osu.edu/melamed9/))
 
    **[Princeton University, PhD in Sociology](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/sociology)** ([Matthew Salganik](http://www.princeton.edu/~mjs3/), [Brandon Stewart](https://bstewart.scholar.princeton.edu/))
 
