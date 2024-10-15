@@ -77,7 +77,7 @@
    **[University of Warwick, PhD in Interdisciplinary Studies](https://warwick.ac.uk/fac/cross_fac/cim/apply-to-study/phd-programmes/)** ([Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/))
 
 ## United States of America
-  **[Brown University, PhD in Sociology](https://www.brown.edu/academics/sociology/programs/phd)** ([Han Zhang](https://hanzhang.xyz/))
+   **[Brown University, PhD in Sociology](https://www.brown.edu/academics/sociology/programs/phd)** ([Jennifer Candipan](https://vivo.brown.edu/display/jcandipa), [Han Zhang](https://hanzhang.xyz/))
 
    **[Carnegie Mellon University University, PhD in Human Computer Interaction](https://hcii.cmu.edu/academics/phd-hci)** ([Hirokazu Shirado](https://www.shirado.net/), [Haiyi Zhu](https://haiyizhu.com/), [Geoff Kaufman](https://www.hcii.cmu.edu/people/geoff-kaufman), [Aniket Kittur](https://kittur.org/))
    
@@ -85,13 +85,23 @@
 
    **[Carnegie Mellon University University, PhD in Societal Computing](https://sc.cs.cmu.edu/)** ([Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html), [Patrick Park](https://patpark.org/))
 
-   **[Cornell University, PhD in Information Science](https://infosci.cornell.edu/phd)** ([Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Yian Yin](https://www.yianyin.net/), [Michael Macy](https://sociology.cornell.edu/michael-macy), [David Strang](https://sociology.cornell.edu/david-strang))
+   **[Cornell University, PhD in Information Science](https://infosci.cornell.edu/phd)** ([Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Yian Yin](https://www.yianyin.net/), [Michael Macy](https://sociology.cornell.edu/michael-macy))
 
-   **[Duke University, PhD in Sociology](https://sociology.duke.edu/graduate)** ([Chris Bail](https://www.chrisbail.net/), [James Moody](https://sociology.duke.edu/james-moody), [Craig Rawlings](https://scholars.duke.edu/person/craig.rawlings))
+   **[Cornell University, PhD in Sociology](https://sociology.cornell.edu/graduate)** ([Michael Macy](https://sociology.cornell.edu/michael-macy), [David Strang](https://sociology.cornell.edu/david-strang))
+
+   **[Columbia University, PhD in Sociology](https://sociology.columbia.edu/content/phd-program-overview)** ([Peter Bearman](https://sociology.columbia.edu/content/peter-bearman), [Yao Lu](https://www.columbia.edu/~yl2479/))
+
+   **[Duke University, PhD in Sociology](https://sociology.duke.edu/graduate)** ([Chris Bail](https://www.chrisbail.net/), [James Moody](https://sociology.duke.edu/james-moody), [Craig Rawlings](https://scholars.duke.edu/person/craig.rawlings), [Lynn Smith-Lovin](https://scholars.duke.edu/person/smithlov))
+
+   **[Emory University, PhD in Sociology](https://sociology.emory.edu/graduate/faqs.html)** ([Weihua An](https://sociology.emory.edu/people/bios/An-Weihua.html))
 
    **[Georgia Institute of Technology, PhD in Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing)** ([Munmun De Choudhury](http://www.munmund.net/), [Clio Andris](https://planning.gatech.edu/people/clio-andris))
 
    **[George Mason University, PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)** 
+
+   **[Harvard University, PhD in Government](https://gsas.harvard.edu/program/government)** ([Gary King](https://gking.harvard.edu))
+
+   **[Harvard University, PhD in Sociology](https://sociology.fas.harvard.edu/pages/graduate)** ([Joscha Legewie](https://sociology.fas.harvard.edu/people/joscha-legewie), [Xiang Zhou](https://sociology.fas.harvard.edu/people/xiang-zhou))
 
    **[Indiana University Bloomington, Ph.D. in Informatics](https://informatics.indiana.edu/programs/phd-informatics/index.html)** ([YY Ahn](http://yongyeol.com/))
 
@@ -111,7 +121,11 @@
 
    **[Northwestern University, PhD in Technology and Social Behavior](https://tsb.northwestern.edu/)** ([Nick Diakopoulos](https://www.nickdiakopoulos.com/))
 
-   **[New York University, PhD in Sociology](https://as.nyu.edu/departments/sociology/graduate/phd-program.html)** ([Delia Baldassari](https://deliabaldassarri.org/), [Bart Bonikowski](https://wp.nyu.edu/bonikowski/), [Paul DiMaggio](https://as.nyu.edu/faculty/paul-dimaggio.html), [Carly Knight](https://carlyrknight.org/))
+   **[New York University, PhD in Sociology](https://as.nyu.edu/departments/sociology/graduate/phd-program.html)** ([Delia Baldassari](https://deliabaldassarri.org/), [Bart Bonikowski](https://wp.nyu.edu/bonikowski/), [Paul DiMaggio](https://as.nyu.edu/faculty/paul-dimaggio.html), [Guillermina Jasso](https://as.nyu.edu/faculty/guillermina-jasso.html), [Carly Knight](https://carlyrknight.org/), [BK Lee](https://as.nyu.edu/faculty/bk-lee.html), [Simone Zhang](https://simonezhang.com))
+
+   **[Ohio State University, PhD in Sociology](https://sociology.osu.edu/graduate-program)** ([Dana Haynie](https://sociology.osu.edu/people/haynie.7), [David Melamed](https://u.osu.edu/melamed9/))
+
+   **[Princeton University, PhD in Politics](https://politics.princeton.edu/graduate)** ([Arthur Spirling](https://arthurspirling.org), [Brandon Stewart](https://bstewart.scholar.princeton.edu/), [Rocio Titiunik](https://titiunik.scholar.princeton.edu))
 
    **[Princeton University, PhD in Sociology](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/sociology)** ([Matthew Salganik](http://www.princeton.edu/~mjs3/), [Brandon Stewart](https://bstewart.scholar.princeton.edu/))
 
@@ -121,17 +135,23 @@
 
    **[Stanford University, PhD in Computer Science](https://www.cs.stanford.edu/admissions/phd-admissions)** ([Diyi Yang](https://cs.stanford.edu/~diyiy/), [Dan Jurafsky](http://web.stanford.edu/~jurafsky/))
 
+   **[Stanford University, PhD in Communications](https://comm.stanford.edu/phd)** ([Jennifer Pan](https://jenpan.com))
+
    **[Stanford University, PhD in Management Science and Engineering](https://msande.stanford.edu/academics-admissions/graduate/phd-program/phd-degree#computational)** ([Johan Ugander](http://stanford.edu/~jugander/), [Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg))
    
-   **[Stanford University, PhD at Graduate School of Business](https://www.gsb.stanford.edu/programs/phd)** [Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg)
+   **[Stanford University, PhD at Graduate School of Business](https://www.gsb.stanford#.edu/programs/phd)** ([Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg), [Douglas Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault))
 
-   **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer). [Yiqing Xu](https://yiqingxu.org/))
+   **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer), [Jennifer Pan](https://jenpan.com), [Yiqing Xu](https://yiqingxu.org/))
 
-  **[University of Arizona, PhD in Sociology](https://sociology.arizona.edu/graduate/about)** ([Charles Gomez](https://charliegomez.com/))
+   **[Stanford University, PhD in Sociology](https://sociology.stanford.edu/admissions/phd-how-apply)** ([Robb Willer](https://sociology.stanford.edu/people/robb-willer))
+
+   **[University of Arizona, PhD in Sociology](https://sociology.arizona.edu/graduate/about)** ([Charles Gomez](https://charliegomez.com/))
 
    **[University of California, Berkeley, PhD in Information Science](https://www.ischool.berkeley.edu/programs/phd/admissions)** ([David Bamman](https://people.ischool.berkeley.edu/~dbamman/))
 
    **[University of California, Berkeley Haas School of Business, PhD in Business Administration](https://haas.berkeley.edu/phd/)** ([Srivastava Sameer](https://haas.berkeley.edu/faculty/srivastava-sameer/))
+
+   **[University of California, Davis, PhD in Communications](https://communication.ucdavis.edu/doctoral-program#)** ([Seth Frey](https://communication.ucdavis.edu/people/seth-frey), [Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen))
 
    **[University of California, San Diego, PhD in Political Science](https://polisci.ucsd.edu/grad/index.html)** ([James Fowler](https://scholar.google.com/citations?user=zPXbwJgAAAAJ&hl=en), [Molly Roberts](https://margaretroberts.net/))
 
@@ -140,6 +160,10 @@
    **[University of California, Los Angeles, PhD in Sociology](https://grad.ucla.edu/programs/social-sciences/sociology/)** ([Jacob Foster](https://soc.ucla.edu/person/jacob-foster/), [Omar Lizardo](https://olizardo.github.io/mysite/), [Ian Lundberg](https://www.ianlundberg.org/))
 
    **[University of Chicago, PhD in Data Science](https://codas.uchicago.edu/academics/phd-in-data-science/)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans))
+
+   **[University of Chicago, PhD in Political Science](https://political-science.uchicago.edu/graduate-study)** ([Anton Strezhnev](https://www.antonstrezhnev.com), [Rochelle Terman](https://rochelleterman.com))
+
+   **[University of Chicago, Harris School of Public Policy, PhD in Public Policy](https://harris.uchicago.edu/academics/degrees/phd)** ([Christopher Berry](https://miurban.uchicago.edu/bio_christopher-berry/))
    
    **[University of Chicago, PhD in Sociology](https://sociology.uchicago.edu/graduate-study)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans), [Bernard Koch](https://bernardjkoch.com/), [John Levi Martin](https://sociology.uchicago.edu/directory/John-Levi-Martin))
 
@@ -149,7 +173,11 @@
 
    **[University of Illinois Urbana-Champaign, PhD in Information Sciences](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences)** 
 
+   **[University of Kentucky, Gatton College of Business and Economics, PhD in Business Management](https://gatton.uky.edu/programs/phd/phd-business-administration/management)** ([Stephen Borgatti](https://sites.google.com/site/steveborgatti/home))
+
    **[University of Michigan, PhD in Information](https://www.si.umich.edu/programs/phd-information)** ([Daniel Romero](http://www.dromero.org/), [Qiaozhu Mei](https://public.websites.umich.edu/~qmei/), [David Jurgan](https://jurgens.people.si.umich.edu/), [Ceren Budak](http://cbudak.com/index.html), [Dallas Card](https://dallascard.github.io/), [Justin Zhang](https://webapps.unf.edu/faculty/bio/n01419497))
+
+   **[University of Michigan, PhD in Political Science](https://lsa.umich.edu/polisci/graduates/program-overview.html)** ([Jenna Bednar](https://lsa.umich.edu/polisci/people/faculty/jbednar.html), [Christian Fong](https://lsa.umich.edu/polisci/people/faculty/christian-fong.html), [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html))
 
    **[University of Michigan, PhD in Sociology](https://lsa.umich.edu/soc/graduates/application-procedures.html)** ([Andrei Boutyline](https://lsa.umich.edu/soc/people/faculty/aboutyl.html), [Elizabeth Bruch](https://lsa.umich.edu/soc/people/faculty/ebruch.html))
 
@@ -157,16 +185,22 @@
 
    **[University of Notre Dame, PhD in Sociology](https://sociology.nd.edu/graduate-program/)** ([Daniel Tadmon](https://www.danieltadmon.com/))
 
-   **[University of Pennsylvania, PhD in Communication](https://www.asc.upenn.edu/graduate)** ([Duncan Watts](https://duncanjwatts.com/), [Damon Centola](https://www.damoncentola.com/))
+   **[University of Pennsylvania, PhD in Communication](https://www.asc.upenn.edu/graduate)** ([Duncan Watts](https://duncanjwatts.com/), [Damon Centola](https://www.damoncentola.com/), [Sandra González-Bailón](https://sandragonzalezbailon.net))
 
    **[University of Pittsburgh, PhD in Information Science](https://www.sci.pitt.edu/academics/doctoral-degrees/information-science-phd)** ([Lingfei Wu](https://lingfeiwu.github.io/), [Morgan Frank](https://sites.pitt.edu/~mrfrank/), [Yu-Ru Lin](https://www.yurulin.com/))
 
+   **[University of South California, Annenberg School of Communications and Journalism, PhD in Communications](https://annenberg.usc.edu/academics/communication-phd)** ([Emilio Ferarra](https://annenberg.usc.edu/faculty/emilio-ferrara))
+
    **[University of Texas, Austin, PhD in Sociology](https://liberalarts.utexas.edu/sociology/graduate-program/)** ([Ken-hou Lin](https://www.kenhoulin.info/))
+
+   **[University of Washington, PhD in Communications](https://com.uw.edu/ma-phd/)** ([Benjamin Mako Hill](https://mako.cc))
 
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
-  **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
+   **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
 
-   **[Washington University in St. Louis, PhD in Political Science](https://polisci.wustl.edu/graduate-program)** ([Christopher Lucas](https://christopherlucas.org/), [Betsy Sinclair](https://sites.wustl.edu/betsysinclair/))
+   **[University of Virginia, PhD in Data Science](https://datascience.virginia.edu/degrees/phd)** ([Alex Gates](https://datascience.virginia.edu/people/alex-gates))
+
+   **[Washington University in St. Louis, PhD in Political Science](https://polisci.wustl.edu/graduate-program)** ([Christopher Lucas](https://christopherlucas.org/), [Lucia Motolinia](https://polisci.wustl.edu/people/lucia-motolinia), [Betsy Sinclair](https://sites.wustl.edu/betsysinclair/))
 
    **[Yale University, PhD in Sociology](https://sociology.yale.edu/academics/graduate-program/how-apply)** ([Nicholas Christakis](https://sociology.yale.edu/people/nicholas-christakis), [Justin Farrell](https://justinfarrell.org/), [Daniel Karell](https://www.danielkarell.com/), [Yuan Hsiao](https://sociology.yale.edu/people/yuan-hsiao))
