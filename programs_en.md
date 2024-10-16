@@ -115,7 +115,7 @@
 
    **[Massachusetts Institute of Technology, PhD in Social & Engineering Systems](https://idss.mit.edu/academics/ses_doc/)** ([Alex Pentland](https://www.media.mit.edu/people/sandy/overview/))
 
-   **[Michigan State University, PhD in Political Science](https://polisci.msu.edu/graduate/index.html)** ([Andy Halterman](https://andrewhalterman.com), [David Lazer](https://www.lazerlab.net/people/david-lazer))
+   **[Michigan State University, PhD in Political Science](https://polisci.msu.edu/graduate/index.html)** ([Andy Halterman](https://andrewhalterman.com))
 
    **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)** ([Barabási](https://www.barabasilab.com/), [David Lazer](https://www.lazerlab.net/people/david-lazer))
 
