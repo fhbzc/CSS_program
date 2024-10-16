@@ -105,7 +105,7 @@
 
    **[Harvard University, PhD in Government](https://gsas.harvard.edu/program/government)** ([Kosuke Imai](https://imai.fas.harvard.edu), [Gary King](https://gking.harvard.edu))
 
-   **[Harvard University, PhD in Sociology](https://sociology.fas.harvard.edu/pages/graduate)** ([Joscha Legewie](https://sociology.fas.harvard.edu/people/joscha-legewie), [Xiang Zhou](https://sociology.fas.harvard.edu/people/xiang-zhou))
+   **[Harvard University, PhD in Sociology](https://sociology.fas.harvard.edu/pages/graduate)** ([Joscha Legewie](https://sociology.fas.harvard.edu/people/joscha-legewie), [Ellis Monk](https://www.ellismonk.com#), [Xiang Zhou](https://sociology.fas.harvard.edu/people/xiang-zhou))
 
    **[Indiana University Bloomington, Ph.D. in Informatics](https://informatics.indiana.edu/programs/phd-informatics/index.html)** ([YY Ahn](http://yongyeol.com/))
 
@@ -214,6 +214,8 @@
    **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
    **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
+
+   **[University of Wisconsin, Madison, PhD in Mass Communications](https://journalism.wisc.edu/admissions/graduate-admissions/)** ([Dhavan Shah](https://journalism.wisc.edu/news/staff/dhavan-v-shah/), [Sijia Yang](https://journalism.wisc.edu/news/staff/yang-sijia/))
 
    **[University of Virginia, PhD in Data Science](https://datascience.virginia.edu/degrees/phd)** ([Alex Gates](https://datascience.virginia.edu/people/alex-gates))
 
