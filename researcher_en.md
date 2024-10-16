@@ -111,6 +111,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[JooYoung Seo](https://jooyoungseo.github.io/)** (University of Illinois Urbana-Champaign, USA)
 
+**[Matt Groh](https://mattgroh.com/)** (Northwestern University, USA)
+
 **[Mor Naaman](https://mmoorr.github.io/www_personal/)** (Cornell University, USA)
 
 **[Nello Cristianini](https://researchportal.bath.ac.uk/en/persons/nello-cristianini)** (University of Bath, UK)
@@ -393,6 +395,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
 
 **[Matthew Bui](https://www.si.umich.edu/people/matthew-bui)** (University of Michigan, USA)
+
+**[Matt Groh](https://mattgroh.com/)** (Northwestern University, USA)
 
 **[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
 
