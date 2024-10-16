@@ -30,7 +30,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # AI and Society
 
-## AI Algorithom and Social Impact
+## AI Algorithm and Social Impact
 
 **[Abigail Jacobs](https://azjacobs.com/)** (University of Michigan, USA)
 
@@ -43,6 +43,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
 
 **[Grant Schoenebeck](http://schoeneb.people.si.umich.edu/)** (University of Michigan, USA)
+
+**[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
 
 **[Sebastian Benthall](https://sbenthall.net/)** (New York University, USA)
 
@@ -110,6 +112,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Jessie Chin](https://jessiechinlab.ischool.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
 
 **[JooYoung Seo](https://jooyoungseo.github.io/)** (University of Illinois Urbana-Champaign, USA)
+
+**[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
 
 **[Matt Groh](https://mattgroh.com/)** (Northwestern University, USA)
 
@@ -394,6 +398,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
 
+**[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
+
 **[Matthew Bui](https://www.si.umich.edu/people/matthew-bui)** (University of Michigan, USA)
 
 **[Matt Groh](https://mattgroh.com/)** (Northwestern University, USA)
@@ -418,6 +424,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
 
 **[Daniel Romero](http://www.dromero.org/)** (University of Michigan, USA)
+
+**[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
 
 **[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
 
