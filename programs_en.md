@@ -85,9 +85,13 @@
 
    **[Carnegie Mellon University University, PhD in Societal Computing](https://sc.cs.cmu.edu/)** ([Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html), [Patrick Park](https://patpark.org/))
 
+   **[Cornell University, PhD in Communications](https://sociology.cornell.edu/graduate)** ([Michael Macy](https://sociology.cornell.edu/michael-macy))
+
    **[Cornell University, PhD in Information Science](https://infosci.cornell.edu/phd)** ([Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), [Yian Yin](https://www.yianyin.net/), [Michael Macy](https://sociology.cornell.edu/michael-macy))
 
    **[Cornell University, PhD in Sociology](https://sociology.cornell.edu/graduate)** ([Michael Macy](https://sociology.cornell.edu/michael-macy), [David Strang](https://sociology.cornell.edu/david-strang))
+
+   **[Columbia University, PhD in Political Science.](https://polisci.columbia.edu/content/phd-program)** ([Naoki Egami](https://naokiegami.com), [Suresh Naidu](https://sites.santafe.edu/~snaidu/))
 
    **[Columbia University, PhD in Sociology](https://sociology.columbia.edu/content/phd-program-overview)** ([Peter Bearman](https://sociology.columbia.edu/content/peter-bearman), [Yao Lu](https://www.columbia.edu/~yl2479/))
 
@@ -99,7 +103,7 @@
 
    **[George Mason University, PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)** 
 
-   **[Harvard University, PhD in Government](https://gsas.harvard.edu/program/government)** ([Gary King](https://gking.harvard.edu))
+   **[Harvard University, PhD in Government](https://gsas.harvard.edu/program/government)** ([Kosuke Imai](https://imai.fas.harvard.edu), [Gary King](https://gking.harvard.edu))
 
    **[Harvard University, PhD in Sociology](https://sociology.fas.harvard.edu/pages/graduate)** ([Joscha Legewie](https://sociology.fas.harvard.edu/people/joscha-legewie), [Xiang Zhou](https://sociology.fas.harvard.edu/people/xiang-zhou))
 
