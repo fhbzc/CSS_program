@@ -60,6 +60,16 @@
 
    **[Zhejiang University, PhD in Sociology](http://sociology.zju.edu.cn/index.php/Research/index.html?tid=31&pid=64&sid=5)** ([Lianghao Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=147&tid=19&sid=3), [Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3), [Xiaoming Zhang/张晓鸣](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=177&tid=19&sid=3))
 
+## China, Hongkong
+
+  **[Chinese University of Hong Kong, PhD in Sociolog](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)** ([LEE Jaemin](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/))
+
+  **[Hong Kong Baptist University, PhD in Communication](https://coms.hkbu.edu.hk/postgraduate-education/research-postgraduate-rpg-programme-students.html)** ([Anfan Chen](https://coms.hkbu.edu.hk/faculty-and-staff/anfan-chen.html))
+
+  **[University of Hong Kong, PhD in Politics and Public Administration](https://ppa.hku.hk/programmes/rpg/mphil-phd)** ([Haohan Chen](https://haohanchen.github.io/))
+
+
+
 ## European Continent
 
   **[Institut Europeen d'Administration des Affaires, PhD in Management](https://www.insead.edu/phd/admissions-and-financing)** ([Frédéric Godart](https://www.insead.edu/faculty-personal-site/frederic-godart))
@@ -206,6 +216,8 @@
    **[University of Pittsburgh, PhD in Information Science](https://www.sci.pitt.edu/academics/doctoral-degrees/information-science-phd)** ([Lingfei Wu](https://lingfeiwu.github.io/), [Morgan Frank](https://sites.pitt.edu/~mrfrank/), [Yu-Ru Lin](https://www.yurulin.com/))
 
    **[University of South California, Annenberg School of Communications and Journalism, PhD in Communications](https://annenberg.usc.edu/academics/communication-phd)** ([Emilio Ferarra](https://annenberg.usc.edu/faculty/emilio-ferrara))
+
+   **[University of South California, PhD in Computer Science](https://www.cs.usc.edu/academic-programs/phd/)** ([Kristina Lerman](https://www.isi.edu/people-lerman/))
 
    **[University of South California, PhD in Political Science](https://dornsife.usc.edu/poir/graduate-doctorate-programs-and-research/)** ([Pablo Baberá](http://pablobarbera.com))
 
