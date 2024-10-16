@@ -131,6 +131,8 @@
 
    **[Ohio State University, PhD in Sociology](https://sociology.osu.edu/graduate-program)** ([Dana Haynie](https://sociology.osu.edu/people/haynie.7), [David Melamed](https://u.osu.edu/melamed9/))
 
+   **[Pennsylvannia State University, PhD in Political Science](https://polisci.la.psu.edu/graduate/why-study-at-penn-state/application-process/)** ([Bruce Desmarais](https://brucedesmarais.com))
+
    **[Princeton University, PhD in Politics](https://politics.princeton.edu/graduate)** ([Arthur Spirling](https://arthurspirling.org), [Brandon Stewart](https://bstewart.scholar.princeton.edu/), [Rocio Titiunik](https://titiunik.scholar.princeton.edu))
 
    **[Princeton University, PhD in Sociology](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/sociology)** ([Matthew Salganik](http://www.princeton.edu/~mjs3/), [Brandon Stewart](https://bstewart.scholar.princeton.edu/))
@@ -159,7 +161,7 @@
 
    **[University of California, Berkeley, PhD in Information Science](https://www.ischool.berkeley.edu/programs/phd/admissions)** ([David Bamman](https://people.ischool.berkeley.edu/~dbamman/))
 
-   **[University of California, Berkeley Haas School of Business, PhD in Business Administration](https://haas.berkeley.edu/phd/)** ([Srivastava Sameer](https://haas.berkeley.edu/faculty/srivastava-sameer/))
+   **[University of California, Berkeley Haas School of Business, PhD in Business Administration](https://haas.berkeley.edu/phd/)** ([Solene Delecourt](https://sites.google.com/berkeley.edu/solenedelecourt/home), [Srivastava Sameer](https://haas.berkeley.edu/faculty/srivastava-sameer/))
 
    **[University of California, Davis, PhD in Communications](https://communication.ucdavis.edu/doctoral-program#)** ([Seth Frey](https://communication.ucdavis.edu/people/seth-frey), [Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen))
 
@@ -211,7 +213,7 @@
 
    **[University of Washington, PhD in Communications](https://com.uw.edu/ma-phd/)** ([Benjamin Mako Hill](https://mako.cc))
 
-   **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
+   **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Aylin Caliskan](https://faculty.washington.edu/aylin/), #[Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
    **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
 
