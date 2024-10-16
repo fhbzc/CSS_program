@@ -24,7 +24,7 @@
 
    **[University of Toronto, Phd in Computer Science](https://web.cs.toronto.edu/graduate/phd)** ([Ashton Anderson](https://www.cs.toronto.edu/~ashton/))
 
-   **[University of British Columbia, Phd in Sociology](https://sociology.ubc.ca/graduate/phd-program/)** ([Laura Nelson](https://www.lauraknelson.com/))
+   **[University of British Columbia, Phd in Sociology](https://sociology.ubc.ca/graduate/phd-program/)** ([Clayton Childress](https://claytonchildress.weebly.com), [Laura Nelson](https://www.lauraknelson.com/))
 
 
 ## China, Mainland
@@ -141,7 +141,7 @@
 
    **[Purdue University, PhD in Sociology](https://www.cla.purdue.edu/academic/sociology/graduate/phd/index.html)** ([Alina Arseniev-Koehler](https://cla.purdue.edu/directory/profiles/alina-arseniev-koehler.html))
 
-   **[Rutgers University, PhD in Sociology](https://sociology.rutgers.edu/academics/graduate/graduate-program)** ([Thomas Davidson](https://www.thomasrdavidson.com/))
+   **[Rutgers University, PhD in Sociology](https://sociology.rutgers.edu/academics/graduate/graduate-program)** ([Thomas Davidson](https://www.thomasrdavidson.com/), [Paul McLean](https://sociology.rutgers.edu/people/faculty/core-department-faculty/core-department-faculty-member/163-paul-mclean))
 
    **[Stanford University, PhD in Computer Science](https://www.cs.stanford.edu/admissions/phd-admissions)** ([Diyi Yang](https://cs.stanford.edu/~diyiy/), [Dan Jurafsky](http://web.stanford.edu/~jurafsky/))
 
@@ -184,6 +184,8 @@
    **[University of Illinois Urbana-Champaign, PhD in Information Sciences](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences)** 
 
    **[University of Kentucky, Gatton College of Business and Economics, PhD in Business Management](https://gatton.uky.edu/programs/phd/phd-business-administration/management)** ([Stephen Borgatti](https://sites.google.com/site/steveborgatti/home))
+
+   **[University of Massachusetts Amherst, PhD in Sociology](https://www.umass.edu/sociology/graduate-program)** ([Mark Pachucki](https://markpachucki.com), [Anthony Paik](https://www.umass.edu/sociology/about/directory/anthony-paik))
 
    **[University of Michigan, PhD in Information](https://www.si.umich.edu/programs/phd-information)** ([Daniel Romero](http://www.dromero.org/), [Qiaozhu Mei](https://public.websites.umich.edu/~qmei/), [David Jurgan](https://jurgens.people.si.umich.edu/), [Ceren Budak](http://cbudak.com/index.html), [Dallas Card](https://dallascard.github.io/), [Justin Zhang](https://webapps.unf.edu/faculty/bio/n01419497))
 
