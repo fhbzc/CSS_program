@@ -133,6 +133,10 @@
 
    **[Princeton University, PhD in Sociology](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/sociology)** ([Matthew Salganik](http://www.princeton.edu/~mjs3/), [Brandon Stewart](https://bstewart.scholar.princeton.edu/))
 
+   **[Purdue University, PhD in Communications](https://cla.purdue.edu/communication/graduate/)** ([Jessica Collier](https://cla.purdue.edu/directory/profiles/jessica-r-collier.html), [Jeremy Foote](https://cla.purdue.edu/directory/profiles/jeremy-foote.html))
+
+   **[Purdue University, PhD in Political Science](https://cla.purdue.edu/academic/polsci/gradprog/)** ([Bryce Dietrich](https://cla.purdue.edu/directory/profiles/bryce-dietrich.html))
+
    **[Purdue University, PhD in Sociology](https://www.cla.purdue.edu/academic/sociology/graduate/phd/index.html)** ([Alina Arseniev-Koehler](https://cla.purdue.edu/directory/profiles/alina-arseniev-koehler.html))
 
    **[Rutgers University, PhD in Sociology](https://sociology.rutgers.edu/academics/graduate/graduate-program)** ([Thomas Davidson](https://www.thomasrdavidson.com/))
@@ -194,6 +198,8 @@
    **[University of Pittsburgh, PhD in Information Science](https://www.sci.pitt.edu/academics/doctoral-degrees/information-science-phd)** ([Lingfei Wu](https://lingfeiwu.github.io/), [Morgan Frank](https://sites.pitt.edu/~mrfrank/), [Yu-Ru Lin](https://www.yurulin.com/))
 
    **[University of South California, Annenberg School of Communications and Journalism, PhD in Communications](https://annenberg.usc.edu/academics/communication-phd)** ([Emilio Ferarra](https://annenberg.usc.edu/faculty/emilio-ferrara))
+
+   **[University of South California, PhD in Political Science](https://dornsife.usc.edu/poir/graduate-doctorate-programs-and-research/)** ([Pablo Baberá](http://pablobarbera.com))
 
    **[University of Texas, Austin, PhD in Sociology](https://liberalarts.utexas.edu/sociology/graduate-program/)** ([Ken-hou Lin](https://www.kenhoulin.info/))
 
