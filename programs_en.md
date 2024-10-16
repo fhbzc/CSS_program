@@ -183,6 +183,8 @@
 
    **[University of Illinois Urbana-Champaign, PhD in Information Sciences](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences)** 
 
+   **[University of Iowa, PhD in Sociology](https://sociology.uiowa.edu/graduate/sociology-phd)** ([Yongren Shi](https://sociology.uiowa.edu/people/yongren-shi))
+
    **[University of Kentucky, Gatton College of Business and Economics, PhD in Business Management](https://gatton.uky.edu/programs/phd/phd-business-administration/management)** ([Stephen Borgatti](https://sites.google.com/site/steveborgatti/home))
 
    **[University of Massachusetts Amherst, PhD in Sociology](https://www.umass.edu/sociology/graduate-program)** ([Mark Pachucki](https://markpachucki.com), [Anthony Paik](https://www.umass.edu/sociology/about/directory/anthony-paik))
