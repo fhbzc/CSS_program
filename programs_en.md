@@ -171,7 +171,7 @@
 
    **[University of Chicago, PhD in Data Science](https://codas.uchicago.edu/academics/phd-in-data-science/)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans), [Luís M. A. Bettencourt](https://datascience.uchicago.edu/people/luis-m-a-bettencourt/), [Aaron Schein](https://datascience.uchicago.edu/people/aaron-schein/), [Chenhao Tan](https://datascience.uchicago.edu/people/chenhao-tan/), [Joshua Jackson](https://datascience.uchicago.edu/people/joshua-conrad-jackson/), [Yuan Chang Leong](https://datascience.uchicago.edu/people/yuan-chang-leong/))
 
-   **[University of Chicago, PhD in Political Science](https://political-science.uchicago.edu/graduate-study)** ([Anton Strezhnev](https://www.antonstrezhnev.com), [Rochelle Terman](https://rochelleterman.com))
+   **[University of Chicago, PhD in Political Science](https://political-science.uchicago.edu/graduate-study)** ([Molly Offer-Westort](https://mollyow.github.io), [Anton Strezhnev](https://www.antonstrezhnev.com), [Rochelle Terman](https://rochelleterman.com))
 
    **[University of Chicago, Harris School of Public Policy, PhD in Public Policy](https://harris.uchicago.edu/academics/degrees/phd)** ([Christopher Berry](https://miurban.uchicago.edu/bio_christopher-berry/))
    
