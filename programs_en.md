@@ -213,7 +213,7 @@
 
    **[University of Washington, PhD in Communications](https://com.uw.edu/ma-phd/)** ([Benjamin Mako Hill](https://mako.cc))
 
-   **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Aylin Caliskan](https://faculty.washington.edu/aylin/), #[Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
+   **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Aylin Caliskan](https://faculty.washington.edu/aylin/), [Martin Saveski](http://martinsaveski.com/), [Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
    **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
 
