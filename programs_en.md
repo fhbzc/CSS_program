@@ -181,6 +181,8 @@
 
    **[Stanford University, PhD in Sociology](https://sociology.stanford.edu/admissions/phd-how-apply)** ([Daniel McFarland](https://ed.stanford.edu/faculty/mcfarland), [Robb Willer](https://sociology.stanford.edu/people/robb-willer))
 
+   **[Temple University, Fox School of Business, PhD](https://www.fox.temple.edu/academics/fox-phd)** ([Edo Airoldi](https://airoldi.github.io/))
+
    **[University of Arizona, PhD in Sociology](https://sociology.arizona.edu/graduate/about)** ([Charles Gomez](https://charliegomez.com/))
 
    **[University of California, Berkeley, PhD in Information Science](https://www.ischool.berkeley.edu/programs/phd/admissions)** ([David Bamman](https://people.ischool.berkeley.edu/~dbamman/))
