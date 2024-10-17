@@ -8,6 +8,9 @@ This project keeps a record of master/phd programs , as well as researchers and 
 
 [Industry Groups （Grouped based on Country/Region）](https://github.com/fhbzc/program-computational-social-science/blob/main/industry_en.md)
 
+## Disclaimer! 
+
+The programs/researchers/groups listed in this document in the field of computational social science are for reference only, with the purpose of facilitating information flow and sharing. The inclusion of these researchers does not imply our endorsement of their institutions, projects, or research directions. We encourage readers to further explore and evaluate these researchers and their institutions based on their own needs.
 
 ## What is Computational Social Science?
 Formally, the idea of compuatational social science research is initiated in a [Science paper](https://www.science.org/doi/full/10.1126/science.1167742?casa_token=_cfPz3X3Rm4AAAAA%3AVTQelmhEE36GXIJ5nsbpuDQcM_A31Axi8u655kvGG0nGxWIDntiR6YDbKaFdzrMW20OFIdhzmfaiog) published in 2009. It is an rising interdisciplinary academic sub-field concerned with computational approaches to the social sciences, and is attracting more and more researchers into the field.
@@ -50,4 +53,6 @@ Particularly, we want to recognize people who are not in the above list, but als
 
 ## Contact 
 Please reach out to *Hongbo Fang* via fanghongdoublebo@gmail.com
+
+
 
