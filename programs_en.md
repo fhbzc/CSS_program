@@ -62,14 +62,6 @@
 
    **[Zhejiang University, PhD in Sociology](http://sociology.zju.edu.cn/index.php/Research/index.html?tid=31&pid=64&sid=5)** ([Lianghao Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=147&tid=19&sid=3), [Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3), [Xiaoming Zhang/张晓鸣](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=177&tid=19&sid=3))
 
-## China, Hongkong
-
-  **[Chinese University of Hong Kong, PhD in Sociolog](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)** ([LEE Jaemin](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/))
-
-  **[Hong Kong Baptist University, PhD in Communication](https://coms.hkbu.edu.hk/postgraduate-education/research-postgraduate-rpg-programme-students.html)** ([Anfan Chen](https://coms.hkbu.edu.hk/faculty-and-staff/anfan-chen.html))
-
-  **[University of Hong Kong, PhD in Politics and Public Administration](https://ppa.hku.hk/programmes/rpg/mphil-phd)** ([Haohan Chen](https://haohanchen.github.io/))
-
 ## European Continent
 
   **[Institut Europeen d'Administration des Affaires, PhD in Management](https://www.insead.edu/phd/admissions-and-financing)** ([Frédéric Godart](https://www.insead.edu/faculty-personal-site/frederic-godart))
@@ -78,14 +70,15 @@
   
   **[University of Zurich, PhD in Communication and Media Research](https://www.ikmz.uzh.ch/en/studies/doctorate.html)** ([Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html))
 
-
 ## Hong Kong, China
 
-  **[The Chinese University of Hong Kong, PhD in Communications](https://rpg.com.cuhk.edu.hk/ph-d-in-communication/)** ([King-wa Fu](https://sites.google.com/site/fukingwa/), [Hai Liang](https://drhailiang.com/), [Tian Yang](https://www.com.cuhk.edu.hk/people/yang-tian/))
+  **[Chinese University of Hong Kong, PhD in Communications](https://rpg.com.cuhk.edu.hk/ph-d-in-communication/)** ([King-wa Fu](https://sites.google.com/site/fukingwa/), [Hai Liang](https://drhailiang.com/), [Tian Yang](https://www.com.cuhk.edu.hk/people/yang-tian/))
 
-  **[The Chinese University of Hong Kong, PhD in Sociology](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)** ([Siqi Han](https://sqhsoc.github.io/), [Jaemin Lee](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/), [Ling Zhu](https://www.soc.cuhk.edu.hk/profile/zhu-ling/))
+  **[Chinese University of Hong Kong, PhD in Sociology](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)** ([Siqi Han](https://sqhsoc.github.io/), [Jaemin Lee](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/), [Ling Zhu](https://www.soc.cuhk.edu.hk/profile/zhu-ling/))
 
-  **[The University of Hong Kong, PhD in Public Administration and Politics](https://ppa.hku.hk/programmes/rpg/mphil-phd)** ([Haohan Chen](https://haohanchen.github.io/))
+  **[Hong Kong Baptist University, PhD in Communication](https://coms.hkbu.edu.hk/postgraduate-education/research-postgraduate-rpg-programme-students.html)** ([Anfan Chen](https://coms.hkbu.edu.hk/faculty-and-staff/anfan-chen.html))
+
+  **[University of Hong Kong, PhD in Public Administration and Politics](https://ppa.hku.hk/programmes/rpg/mphil-phd)** ([Haohan Chen](https://haohanchen.github.io/))
 
 ## Singapore
 
