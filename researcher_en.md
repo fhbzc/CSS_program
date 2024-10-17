@@ -330,6 +330,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Dashun Wang](https://www.kellogg.northwestern.edu/faculty/directory/wang_dashun.aspx)** (Northwestern University, USA)
 
+**[Emőke-Ágnes Horvát](https://agneshorvat.soc.northwestern.edu/)** (Northwestern University, USA)
+
 **[Erin Leahey](https://sociology.arizona.edu/person/erin-leahey)** (The University of Arizona, USA)
 
 **[Fengli Xu/徐丰力](https://fenglixu.github.io/)** (Tsinghua University, Mainland China)
