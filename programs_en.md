@@ -1,4 +1,4 @@
-# Master programs 
+# Master programs
 
 ## China, Mainland
 
@@ -30,9 +30,7 @@
 
    **[University of British Columbia, Phd in Sociology](https://sociology.ubc.ca/graduate/phd-program/)** ([Clayton Childress](https://claytonchildress.weebly.com), [Laura Nelson](https://www.lauraknelson.com/))
 
-
 ## China, Mainland
-
 
    **[Beijing Normal University, PhD in System Science](https://sss.bnu.edu.cn/rcpy/xsbs/zsjz2/index.htm)** ([Jiang Zhang/张江](https://jake.swarma.org/index.html), [An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm))
 
@@ -72,8 +70,6 @@
 
   **[University of Hong Kong, PhD in Politics and Public Administration](https://ppa.hku.hk/programmes/rpg/mphil-phd)** ([Haohan Chen](https://haohanchen.github.io/))
 
-
-
 ## European Continent
 
   **[Institut Europeen d'Administration des Affaires, PhD in Management](https://www.insead.edu/phd/admissions-and-financing)** ([Frédéric Godart](https://www.insead.edu/faculty-personal-site/frederic-godart))
@@ -82,6 +78,7 @@
   
   **[University of Zurich, PhD in Communication and Media Research](https://www.ikmz.uzh.ch/en/studies/doctorate.html)** ([Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html))
 
+
 ## Hong Kong, China
 
   **[The Chinese University of Hong Kong, PhD in Communications](https://rpg.com.cuhk.edu.hk/ph-d-in-communication/)** ([King-wa Fu](https://sites.google.com/site/fukingwa/), [Hai Liang](https://drhailiang.com/), [Tian Yang](https://www.com.cuhk.edu.hk/people/yang-tian/))
@@ -89,6 +86,10 @@
   **[The Chinese University of Hong Kong, PhD in Sociology](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)** ([Siqi Han](https://sqhsoc.github.io/), [Jaemin Lee](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/), [Ling Zhu](https://www.soc.cuhk.edu.hk/profile/zhu-ling/))
 
   **[The University of Hong Kong, PhD in Public Administration and Politics](https://ppa.hku.hk/programmes/rpg/mphil-phd)** ([Haohan Chen](https://haohanchen.github.io/))
+
+## Singapore
+
+   **[National University of Singapore](https://fass.nus.edu.sg/cnm/phd/)** ( [Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka), [Renwen Zhang/张人文](https://discovery.nus.edu.sg/20836-renwen-zhang), [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee), [Weiyu Zhang/张玮玉](https://discovery.nus.edu.sg/1768-weiyu-zhang/about); *alphabetical*)
 
 ## United Kingdom
 
@@ -99,10 +100,11 @@
    **[University of Warwick, PhD in Interdisciplinary Studies](https://warwick.ac.uk/fac/cross_fac/cim/apply-to-study/phd-programmes/)** ([Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/))
 
 ## United States of America
+
    **[Brown University, PhD in Sociology](https://www.brown.edu/academics/sociology/programs/phd)** ([Jennifer Candipan](https://vivo.brown.edu/display/jcandipa), [Han Zhang](https://hanzhang.xyz/))
 
    **[Carnegie Mellon University University, PhD in Human Computer Interaction](https://hcii.cmu.edu/academics/phd-hci)** ([Hirokazu Shirado](https://www.shirado.net/), [Haiyi Zhu](https://haiyizhu.com/), [Geoff Kaufman](https://www.hcii.cmu.edu/people/geoff-kaufman), [Aniket Kittur](https://kittur.org/))
-   
+
    **[Carnegie Mellon University University, PhD in Social and Decision Science](https://www.cmu.edu/dietrich/sds/graduate/index.html)** ([Simon DeDeo](https://sites.santafe.edu/~simon/))
 
    **[Carnegie Mellon University University, PhD in Societal Computing](https://sc.cs.cmu.edu/)** ([Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html), [Patrick Park](https://patpark.org/))
@@ -123,7 +125,7 @@
 
    **[Georgia Institute of Technology, PhD in Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing)** ([Munmun De Choudhury](http://www.munmund.net/), [Clio Andris](https://planning.gatech.edu/people/clio-andris))
 
-   **[George Mason University, PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)** 
+   **[George Mason University, PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)**
 
    **[Harvard University, PhD in Government](https://gsas.harvard.edu/program/government)** ([Kosuke Imai](https://imai.fas.harvard.edu), [Gary King](https://gking.harvard.edu))
 
@@ -132,7 +134,7 @@
    **[Indiana University Bloomington, Ph.D. in Informatics](https://informatics.indiana.edu/programs/phd-informatics/index.html)** ([YY Ahn](http://yongyeol.com/))
 
    **[Massachusetts Institute of Technology, PhD in Media Arts & Sciences (apply through master program)](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)** ([Alex Pentland](https://www.media.mit.edu/people/sandy/overview/), [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/))
-   
+
    **[Massachusetts Institute of Technology, PhD in Sloan](https://mitsloan.mit.edu/phd#tour-welcome)** ([Sinan Aral](https://www.sinanaral.io/), [Dean Eckles](https://www.deaneckles.com/), [David Rand](https://davidrand-cooperation.com/), [Abdullah Almaatouq](http://amaatouq.io/))
 
    **[Massachusetts Institute of Technology, PhD in Social & Engineering Systems](https://idss.mit.edu/academics/ses_doc/)** ([Alex Pentland](https://www.media.mit.edu/people/sandy/overview/))
@@ -144,7 +146,7 @@
    **[Northeastern University, PhD in Sociology](https://cssh.northeastern.edu/socant/program/phd-in-sociology/)** ([Chuncheng Liu](https://www.chunchengliu.com/About), [Cassie McMillan](https://www.cassiemcmillan.com/))
 
    **[Northwestern University, PhD in Management & Organizations](https://www.kellogg.northwestern.edu/doctoral/programs/management-and-organizations.aspx)** (The [NICO](https://www.nico.northwestern.edu/) group)
-   
+
    **[Northwestern University, PhD in Media, Technology, and Society](https://mts.northwestern.edu/program-of-study/)** ([Emőke-Ágnes Horvát](https://agneshorvat.soc.northwestern.edu/), [Noshir Contractor](https://nosh.northwestern.edu/), [Yingdan Lu](https://yingdanlu.com/), [Aaron Shaw](https://communication.northwestern.edu/faculty/aaron-shaw.html))
 
    **[Northwestern University, PhD in Sociology](https://sociology.northwestern.edu/graduate/)** ([Andrew Papachristos](https://sociology.northwestern.edu/people/faculty/core/andrew-v.--papachristos-.html), [Doron Shiffer-Sebba](https://doronshiffersebba.com/), [Oscar Stuhler](https://oscarstuhler.org/))
@@ -174,7 +176,7 @@
    **[Stanford University, PhD in Communications](https://comm.stanford.edu/phd)** ([Jennifer Pan](https://jenpan.com))
 
    **[Stanford University, PhD in Management Science and Engineering](https://msande.stanford.edu/academics-admissions/graduate/phd-program/phd-degree#computational)** ([Johan Ugander](http://stanford.edu/~jugander/), [Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg))
-   
+
    **[Stanford University, PhD at Graduate School of Business](https://www.gsb.stanford#.edu/programs/phd)** ([Walter Powell](https://woodypowell.com/), [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg), [Douglas Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault))
 
    **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer), [Jennifer Pan](https://jenpan.com), [Yiqing Xu](https://yiqingxu.org/))
@@ -210,14 +212,14 @@
    **[University of Chicago, PhD in Political Science](https://political-science.uchicago.edu/graduate-study)** ([Molly Offer-Westort](https://mollyow.github.io), [John Padgett](https://home.uchicago.edu/~jpadgett/), [Anton Strezhnev](https://www.antonstrezhnev.com), [Rochelle Terman](https://rochelleterman.com))
 
    **[University of Chicago, Harris School of Public Policy, PhD in Public Policy](https://harris.uchicago.edu/academics/degrees/phd)** ([Christopher Berry](https://miurban.uchicago.edu/bio_christopher-berry/))
-   
+
    **[University of Chicago, PhD in Sociology](https://sociology.uchicago.edu/graduate-study)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans), [Bernard Koch](https://bernardjkoch.com/), [John Levi Martin](https://sociology.uchicago.edu/directory/John-Levi-Martin))
 
    **[University of Georgia, PhD in Sociology](https://grad.uga.edu/degree/phd-sociology/)** ([Peng Huang](https://penghuang.me/), [Yilang Peng](https://yilangpeng.com/))
 
-   **[University of Illinois Urbana-Champaign, PhD in Informatics](https://informatics.ischool.illinois.edu/phd-admission/)** 
+   **[University of Illinois Urbana-Champaign, PhD in Informatics](https://informatics.ischool.illinois.edu/phd-admission/)**
 
-   **[University of Illinois Urbana-Champaign, PhD in Information Sciences](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences)** 
+   **[University of Illinois Urbana-Champaign, PhD in Information Sciences](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences)**
 
    **[University of Iowa, PhD in Sociology](https://sociology.uiowa.edu/graduate/sociology-phd)** ([Yongren Shi](https://sociology.uiowa.edu/people/yongren-shi))
 
@@ -260,3 +262,4 @@
    **[Washington University in St. Louis, PhD in Political Science](https://polisci.wustl.edu/graduate-program)** ([Christopher Lucas](https://christopherlucas.org/), [Lucia Motolinia](https://polisci.wustl.edu/people/lucia-motolinia), [Betsy Sinclair](https://sites.wustl.edu/betsysinclair/))
 
    **[Yale University, PhD in Sociology](https://sociology.yale.edu/academics/graduate-program/how-apply)** ([Nicholas Christakis](https://sociology.yale.edu/people/nicholas-christakis), [Justin Farrell](https://justinfarrell.org/), [Daniel Karell](https://www.danielkarell.com/), [Yuan Hsiao](https://sociology.yale.edu/people/yuan-hsiao))
+
