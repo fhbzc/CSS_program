@@ -4,7 +4,7 @@
 
    **[The Chinese University of Hong Kong, Shenzhen, MSc in Computational Social Science](https://hsspg.cuhk.edu.cn/en/msccss)**
 
-## Hong Kong
+## Hong Kong, China
 
    **[The Chinese University of Hong Kong, MPhil in Sociology](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)**
 
@@ -72,7 +72,7 @@
   
   **[University of Zurich, PhD in Communication and Media Research](https://www.ikmz.uzh.ch/en/studies/doctorate.html)** ([Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html))
 
-## Hong Kong
+## Hong Kong, China
 
   **[The Chinese University of Hong Kong, PhD in Communications](https://rpg.com.cuhk.edu.hk/ph-d-in-communication/)** ([King-wa Fu](https://sites.google.com/site/fukingwa/), [Hai Liang](https://drhailiang.com/), [Tian Yang](https://www.com.cuhk.edu.hk/people/yang-tian/))
 
