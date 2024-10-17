@@ -8,7 +8,7 @@
 
 [业界研究组 （按国家/地区分组）](https://github.com/fhbzc/program-computational-social-science/blob/main/industry_en.md)
 
-## 免责声明
+## 免责声明！
 
 本文件中列出的计算社会科学领域的研究人员仅供参考，旨在促进信息的流通和共享。列出这些研究人员并不代表我们对他们所在的机构、项目或研究方向的认可或背书。请读者根据自身需求进一步了解和评估这些研究人员及其所在机构。
 
