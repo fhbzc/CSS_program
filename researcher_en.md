@@ -4,29 +4,27 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 ## Content Structure
 
-
- - AI and Society
-   - AI Algorithom and Social Impact
-   - AI for Social Networks
-   - Human-AI System/Interaction/Augmentation
-   - Natural Langugage Processing
-   - Others
- - City/Urban/Geo-Analysis
- - Complex System/Networks
- - Cultural
- - Economy
- - Gender/Race
- - Law
- - Management
+- AI and Society
+  - AI Algorithom and Social Impact
+  - AI for Social Networks
+  - Human-AI System/Interaction/Augmentation
+  - Natural Langugage Processing
+  - Others
+- City/Urban/Geo-Analysis
+- Complex System/Networks
+- Cultural
+- Economy
+- Gender/Race
+- Law
+- Management
    -Collective Intelligence
- - Politics and Policy
- - Psychology/Cognitive Science
- - Science of Science
- - Social Movement
- - Social Media/Communication
-   - Misinformation/Information Diffusion
-   - (Online) Community and Behavior
-
+- Politics and Policy
+- Psychology/Cognitive Science
+- Science of Science
+- Social Movement
+- Social Media/Communication
+  - Misinformation/Information Diffusion
+  - (Online) Community and Behavior
 
 # AI and Society
 
@@ -60,7 +58,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yang Yang/杨洋](http://yangy.org/)** (Zhejiang University, Mainland China)
 
-
 ## Natural Langugage Processing (with focus on computational social science)
 
 **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** (Cornell University, USA)
@@ -88,6 +85,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Justine Zhang](https://tisjune.github.io/)** (University of Michigan, USA)
 
 **[Ken Benoit](https://kenbenoit.net/)** (Singapore Management University, Singapore)
+
+**[Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka/)** (National University of Singapore, Singapore)
 
 **[Paramveer Dhillon](https://pdhillon.com/)** (University of Michigan, USA)
 
@@ -125,6 +124,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Paul Resnick](https://presnick.people.si.umich.edu/)** (University of Michigan, USA)
 
+**[Renwen Zhang](https://discovery.nus.edu.sg/20836-renwen-zhang)** (National University of Singapore, Singapore)
+
 **[Taha Yasseri](https://tahayasseri.com/)** (Trinity College Dublin, Ireland)
 
 **[Yang Wang](http://yangwang.ischool.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
@@ -143,9 +144,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Xinyue Ye](https://www.arch.tamu.edu/staff/xinyue-ye/)** (Texas A&M University, USA)
 
-
 # Complex System/Networks
-
 
 **[Aaron Clauset](https://www.colorado.edu/faculty/clauset/)** (University of Colorado Boulder, USA)
 
@@ -291,7 +290,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
 
-
 # Psychology/Cognitive Science
 
 **[Brandon Batzloff](https://ischool.illinois.edu/people/brandon-batzloff)** (University of Illinois Urbana-Champaign, USA)
@@ -380,7 +378,9 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Social Media/Communication
 
+**[Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)** (National University of Singapore, Singapore)
 
+**[Weiyu Zhang/张玮玉](https://discovery.nus.edu.sg/1768-weiyu-zhang)** (National University of Singapore, Singapore)
 
 ## Misinformation/Information Diffusion
 
@@ -428,7 +428,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
 
-
 ## (Online) Community and Behavior
 
 **[Bogdan Vasilescu](https://bvasiles.github.io/)** (Carnegie Mellon University, USA)
@@ -450,5 +449,3 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Suzy Moat](https://www.wbs.ac.uk/about/person/suzy-moat/)** (Warwick Business School, UK)
 
 **[Yun Huang](https://yunhuang.web.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
-
-
