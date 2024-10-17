@@ -296,6 +296,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Brandon Batzloff](https://ischool.illinois.edu/people/brandon-batzloff)** (University of Illinois Urbana-Champaign, USA)
 
+**[Haiyan Wu/伍海燕](https://andlab-um.com)** (University of Macau, Macau)
+
 **[Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html)** (Massachusetts Institute of Technology, USA)
 
 **[Morten Christiansen](https://infosci.cornell.edu/content/christiansen)** (Cornell University, USA)
