@@ -30,7 +30,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # AI and Society
 
-## AI Algorithom and Social Impact
+## AI Algorithm and Social Impact
 
 **[Abigail Jacobs](https://azjacobs.com/)** (University of Michigan, USA)
 
@@ -43,6 +43,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Fei Fang](https://feifang.info/)** (Carnegie Mellon University, USA)
 
 **[Grant Schoenebeck](http://schoeneb.people.si.umich.edu/)** (University of Michigan, USA)
+
+**[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
 
 **[Sebastian Benthall](https://sbenthall.net/)** (New York University, USA)
 
@@ -111,6 +113,12 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[JooYoung Seo](https://jooyoungseo.github.io/)** (University of Illinois Urbana-Champaign, USA)
 
+**[Kristina Lerman](https://www.isi.edu/people-lerman/)** (University of Southern California, USA)
+
+**[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
+
+**[Matt Groh](https://mattgroh.com/)** (Northwestern University, USA)
+
 **[Mor Naaman](https://mmoorr.github.io/www_personal/)** (Cornell University, USA)
 
 **[Nello Cristianini](https://researchportal.bath.ac.uk/en/persons/nello-cristianini)** (University of Bath, UK)
@@ -169,7 +177,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
 
+**[Kristina Lerman](https://www.isi.edu/people-lerman/)** (University of Southern California, USA)
+
 **[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
+
+**[LEE Jaemin](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/)** (Chinese University of Hong Kong, Hongkong)
 
 **[Michael Macy](https://sociology.cornell.edu/michael-macy)** (Cornell University, USA)
 
@@ -251,6 +263,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Politics and Policy
 
+**[Anfan Chen](https://coms.hkbu.edu.hk/faculty-and-staff/anfan-chen.html)** (Hong Kong Baptist University, Hongkong)
+
 **[Benjamin Soltoff](https://infosci.cornell.edu/content/soltoff)** (Cornell University, USA)
 
 **[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
@@ -258,6 +272,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Damian Trilling](https://damiantrilling.net/en/)** (Vrije Universiteit Amsterdam, Netherlands)
 
 **[Gary King](https://gking.harvard.edu/)** (Harvard University, USA)
+
+**[Haohan Chen](https://haohanchen.github.io/)** (University of Hong Kong, Hongkong)
 
 **[Joshua Tucker](https://as.nyu.edu/faculty/joshua-tucker.html)** (New York University, USA)
 
@@ -279,6 +295,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 # Psychology/Cognitive Science
 
 **[Brandon Batzloff](https://ischool.illinois.edu/people/brandon-batzloff)** (University of Illinois Urbana-Champaign, USA)
+
+**[Haiyan Wu/伍海燕](https://andlab-um.com)** (University of Macau, Macau)
 
 **[Joshua Tenenbaum](http://web.mit.edu/cocosci/josh.html)** (Massachusetts Institute of Technology, USA)
 
@@ -390,9 +408,15 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Jure Leskovec](https://cs.stanford.edu/people/jure/)** (Stanford University, USA)
 
+**[Kristina Lerman](https://www.isi.edu/people-lerman/)** (University of Southern California, USA)
+
 **[Lada Adamic](http://www.ladamic.com/)** (Meta, USA)
 
+**[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
+
 **[Matthew Bui](https://www.si.umich.edu/people/matthew-bui)** (University of Michigan, USA)
+
+**[Matt Groh](https://mattgroh.com/)** (Northwestern University, USA)
 
 **[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
 
@@ -414,6 +438,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
 
 **[Daniel Romero](http://www.dromero.org/)** (University of Michigan, USA)
+
+**[LEE Jaemin](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/)** (Chinese University of Hong Kong, Hongkong)
+
+**[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
 
 **[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
 
