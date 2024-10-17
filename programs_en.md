@@ -117,7 +117,9 @@
 
    **[Michigan State University, PhD in Political Science](https://polisci.msu.edu/graduate/index.html)** ([Andy Halterman](https://andrewhalterman.com))
 
-   **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)** ([Barabási](https://www.barabasilab.com/), [David Lazer](https://www.lazerlab.net/people/david-lazer))
+   **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)** ([Albert-László Barabási](https://www.barabasilab.com/), [David Lazer](https://www.lazerlab.net/people/david-lazer))
+
+   **[Northeastern University, PhD in Sociology](https://cssh.northeastern.edu/socant/program/phd-in-sociology/)** ([Chuncheng Liu](https://www.chunchengliu.com/About), [Cassie McMillan](https://www.cassiemcmillan.com/))
 
    **[Northwestern University, PhD in Management & Organizations](https://www.kellogg.northwestern.edu/doctoral/programs/management-and-organizations.aspx)** (The [NICO](https://www.nico.northwestern.edu/) group)
    
@@ -155,7 +157,7 @@
 
    **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer), [Jennifer Pan](https://jenpan.com), [Yiqing Xu](https://yiqingxu.org/))
 
-   **[Stanford University, PhD in Sociology](https://sociology.stanford.edu/admissions/phd-how-apply)** ([Robb Willer](https://sociology.stanford.edu/people/robb-willer))
+   **[Stanford University, PhD in Sociology](https://sociology.stanford.edu/admissions/phd-how-apply)** ([Daniel McFarland](https://ed.stanford.edu/faculty/mcfarland), [Robb Willer](https://sociology.stanford.edu/people/robb-willer))
 
    **[University of Arizona, PhD in Sociology](https://sociology.arizona.edu/graduate/about)** ([Charles Gomez](https://charliegomez.com/))
 
@@ -165,7 +167,11 @@
 
    **[University of California, Davis, PhD in Communications](https://communication.ucdavis.edu/doctoral-program#)** ([Seth Frey](https://communication.ucdavis.edu/people/seth-frey), [Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen))
 
+   **[University of California, San Diego, PhD in Data Science](https://datascience.ucsd.edu/graduate/phd-program/)** 
+
    **[University of California, San Diego, PhD in Political Science](https://polisci.ucsd.edu/grad/index.html)** ([James Fowler](https://scholar.google.com/citations?user=zPXbwJgAAAAJ&hl=en), [Molly Roberts](https://margaretroberts.net/))
+
+   **[University of California, San Diego, PhD in Sociology](https://sociology.ucsd.edu/graduate/admissions.html)** ([Kevin Lewis](https://www.kevinlewis-sociology.com/))
 
    **[University of California, Irvine, PhD in Sociology](https://www.sociology.uci.edu/grad/phd/admissions.php)** ([Carter Butts](https://engineering.uci.edu/users/carter-butts))
 
