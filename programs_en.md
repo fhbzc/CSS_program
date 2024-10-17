@@ -139,8 +139,6 @@
 
    **[Michigan State University, PhD in Political Science](https://polisci.msu.edu/graduate/index.html)** ([Andy Halterman](https://andrewhalterman.com))
 
-   **[Michigan State University, PhD in Political Science](https://polisci.msu.edu/graduate/index.html)** ([Andy Halterman](https://andrewhalterman.com))
-
    **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)** ([Albert-László Barabási](https://www.barabasilab.com/), [David Lazer](https://www.lazerlab.net/people/david-lazer))
 
    **[Northeastern University, PhD in Sociology](https://cssh.northeastern.edu/socant/program/phd-in-sociology/)** ([Chuncheng Liu](https://www.chunchengliu.com/About), [Cassie McMillan](https://www.cassiemcmillan.com/))
@@ -199,7 +197,7 @@
 
    **[University of California, Irvine, PhD in Sociology](https://www.sociology.uci.edu/grad/phd/admissions.php)** ([Carter Butts](https://engineering.uci.edu/users/carter-butts))
 
-   **[University of California, Los Angeles, PhD in Communications](https://comm.ucla.edu/graduate/program/)** ([Jungseok Joo](https://www.jsjoo.com/))
+   **[University of California, Los Angeles, PhD in Communications](https://comm.ucla.edu/graduate/program/)** ([Homa Hosseinmardi](https://homahm.github.io/), [Jungseok Joo](https://www.jsjoo.com/))
 
    **[University of California, Los Angeles, PhD in Political Science](https://polisci.ucla.edu/academics/graduate/applying-to-the-ph-d-program/)** ([Zachary Steinert-Threlkeld](https://global.luskin.ucla.edu/faculty-members/zachary-steinert-threlkeld/), [Michelle Torres](https://polisci.ucla.edu/person/michelle-torres/))
 
