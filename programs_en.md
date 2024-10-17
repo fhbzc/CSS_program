@@ -4,6 +4,10 @@
 
    **[The Chinese University of Hong Kong, Shenzhen, MSc in Computational Social Science](https://hsspg.cuhk.edu.cn/en/msccss)**
 
+## Hong Kong, China
+
+   **[The Chinese University of Hong Kong, MPhil in Sociology](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)**
+
 ## United States of America
 
    **[Massachusetts Institute of Technology, Master in Media Arts & Sciences](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)**
@@ -18,7 +22,7 @@
 
    **[University of Chicago, Master in Computational Social Science](https://macss.uchicago.edu/)**
 
-# PhD programs （Examples of reseachers in the program/institution listed）
+# PhD programs (Examples of reseachers in the program/institution listed)
 
 ## Canada
 
@@ -78,6 +82,14 @@
   
   **[University of Zurich, PhD in Communication and Media Research](https://www.ikmz.uzh.ch/en/studies/doctorate.html)** ([Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html))
 
+## Hong Kong, China
+
+  **[The Chinese University of Hong Kong, PhD in Communications](https://rpg.com.cuhk.edu.hk/ph-d-in-communication/)** ([King-wa Fu](https://sites.google.com/site/fukingwa/), [Hai Liang](https://drhailiang.com/), [Tian Yang](https://www.com.cuhk.edu.hk/people/yang-tian/))
+
+  **[The Chinese University of Hong Kong, PhD in Sociology](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)** ([Siqi Han](https://sqhsoc.github.io/), [Jaemin Lee](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/), [Ling Zhu](https://www.soc.cuhk.edu.hk/profile/zhu-ling/))
+
+  **[The University of Hong Kong, PhD in Public Administration and Politics](https://ppa.hku.hk/programmes/rpg/mphil-phd)** ([Haohan Chen](https://haohanchen.github.io/))
+
 ## United Kingdom
 
    **[University of Oxford, DPhil in Information, Communication and the Social Sciences](https://www.ox.ac.uk/admissions/graduate/courses/dphil-information-communication-and-social-sciences)** ([Scott Hale](https://www.oii.ox.ac.uk/people/profiles/scott-hale/), [Xiaowen Dong](https://web.media.mit.edu/~xdong/), [Mark Graham](https://www.oii.ox.ac.uk/people/profiles/mark-graham/), [Bernie Hogan](https://www.oii.ox.ac.uk/people/profiles/bernie-hogan/))
@@ -127,7 +139,9 @@
 
    **[Michigan State University, PhD in Political Science](https://polisci.msu.edu/graduate/index.html)** ([Andy Halterman](https://andrewhalterman.com))
 
-   **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)** ([Barabási](https://www.barabasilab.com/), [David Lazer](https://www.lazerlab.net/people/david-lazer))
+   **[Northeastern University, PhD in Network Science](https://www.networkscienceinstitute.org/phd)** ([Albert-László Barabási](https://www.barabasilab.com/), [David Lazer](https://www.lazerlab.net/people/david-lazer))
+
+   **[Northeastern University, PhD in Sociology](https://cssh.northeastern.edu/socant/program/phd-in-sociology/)** ([Chuncheng Liu](https://www.chunchengliu.com/About), [Cassie McMillan](https://www.cassiemcmillan.com/))
 
    **[Northwestern University, PhD in Management & Organizations](https://www.kellogg.northwestern.edu/doctoral/programs/management-and-organizations.aspx)** (The [NICO](https://www.nico.northwestern.edu/) group)
    
@@ -165,7 +179,9 @@
 
    **[Stanford University, PhD in Political Science](https://politicalscience.stanford.edu/graduate-program/phd-admissions)** ([Justin Grimmer](https://politicalscience.stanford.edu/people/justin-ryan-grimmer), [Jennifer Pan](https://jenpan.com), [Yiqing Xu](https://yiqingxu.org/))
 
-   **[Stanford University, PhD in Sociology](https://sociology.stanford.edu/admissions/phd-how-apply)** ([Robb Willer](https://sociology.stanford.edu/people/robb-willer))
+   **[Stanford University, PhD in Sociology](https://sociology.stanford.edu/admissions/phd-how-apply)** ([Daniel McFarland](https://ed.stanford.edu/faculty/mcfarland), [Robb Willer](https://sociology.stanford.edu/people/robb-willer))
+
+   **[Temple University, Fox School of Business, PhD](https://www.fox.temple.edu/academics/fox-phd)** ([Edo Airoldi](https://airoldi.github.io/))
 
    **[University of Arizona, PhD in Sociology](https://sociology.arizona.edu/graduate/about)** ([Charles Gomez](https://charliegomez.com/))
 
@@ -175,15 +191,23 @@
 
    **[University of California, Davis, PhD in Communications](https://communication.ucdavis.edu/doctoral-program#)** ([Seth Frey](https://communication.ucdavis.edu/people/seth-frey), [Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen))
 
+   **[University of California, San Diego, PhD in Data Science](https://datascience.ucsd.edu/graduate/phd-program/)** 
+
    **[University of California, San Diego, PhD in Political Science](https://polisci.ucsd.edu/grad/index.html)** ([James Fowler](https://scholar.google.com/citations?user=zPXbwJgAAAAJ&hl=en), [Molly Roberts](https://margaretroberts.net/))
+
+   **[University of California, San Diego, PhD in Sociology](https://sociology.ucsd.edu/graduate/admissions.html)** ([Kevin Lewis](https://www.kevinlewis-sociology.com/))
 
    **[University of California, Irvine, PhD in Sociology](https://www.sociology.uci.edu/grad/phd/admissions.php)** ([Carter Butts](https://engineering.uci.edu/users/carter-butts))
 
-   **[University of California, Los Angeles, PhD in Sociology](https://grad.ucla.edu/programs/social-sciences/sociology/)** ([Jacob Foster](https://soc.ucla.edu/person/jacob-foster/), [Omar Lizardo](https://olizardo.github.io/mysite/), [Ian Lundberg](https://www.ianlundberg.org/))
+   **[University of California, Los Angeles, PhD in Communications](https://comm.ucla.edu/graduate/program/)** ([Homa Hosseinmardi](https://homahm.github.io/), [Jungseok Joo](https://www.jsjoo.com/))
+
+   **[University of California, Los Angeles, PhD in Political Science](https://polisci.ucla.edu/academics/graduate/applying-to-the-ph-d-program/)** ([Zachary Steinert-Threlkeld](https://global.luskin.ucla.edu/faculty-members/zachary-steinert-threlkeld/), [Michelle Torres](https://polisci.ucla.edu/person/michelle-torres/))
+
+   **[University of California, Los Angeles, PhD in Sociology](https://grad.ucla.edu/programs/social-sciences/sociology/)** ([Jennie Brand](https://www.profjenniebrand.com/), [Jacob Foster](https://soc.ucla.edu/person/jacob-foster/), [Omar Lizardo](https://olizardo.github.io/mysite/), [Ka-Yuet Liu](https://sites.google.com/view/kayuet-liu), [Ian Lundberg](https://www.ianlundberg.org/))
 
    **[University of Chicago, PhD in Data Science](https://codas.uchicago.edu/academics/phd-in-data-science/)** ([James Evans](https://sociology.uchicago.edu/directory/James-A-Evans), [Luís M. A. Bettencourt](https://datascience.uchicago.edu/people/luis-m-a-bettencourt/), [Aaron Schein](https://datascience.uchicago.edu/people/aaron-schein/), [Chenhao Tan](https://datascience.uchicago.edu/people/chenhao-tan/), [Joshua Jackson](https://datascience.uchicago.edu/people/joshua-conrad-jackson/), [Yuan Chang Leong](https://datascience.uchicago.edu/people/yuan-chang-leong/))
 
-   **[University of Chicago, PhD in Political Science](https://political-science.uchicago.edu/graduate-study)** ([Molly Offer-Westort](https://mollyow.github.io), [Anton Strezhnev](https://www.antonstrezhnev.com), [Rochelle Terman](https://rochelleterman.com))
+   **[University of Chicago, PhD in Political Science](https://political-science.uchicago.edu/graduate-study)** ([Molly Offer-Westort](https://mollyow.github.io), [John Padgett](https://home.uchicago.edu/~jpadgett/), [Anton Strezhnev](https://www.antonstrezhnev.com), [Rochelle Terman](https://rochelleterman.com))
 
    **[University of Chicago, Harris School of Public Policy, PhD in Public Policy](https://harris.uchicago.edu/academics/degrees/phd)** ([Christopher Berry](https://miurban.uchicago.edu/bio_christopher-berry/))
    
