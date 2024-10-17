@@ -64,6 +64,16 @@
 
    **[Zhejiang University, PhD in Sociology](http://sociology.zju.edu.cn/index.php/Research/index.html?tid=31&pid=64&sid=5)** ([Lianghao Dai/戴良灏](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=95&tid=19&sid=3), [Linzhuo Li/李林倬](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=147&tid=19&sid=3), [Bolun Zhang/张博伦](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=196&tid=19&sid=3), [Xiaoming Zhang/张晓鸣](http://sociology.zju.edu.cn/index.php/Teacher/details.html?id=177&tid=19&sid=3))
 
+## China, Hongkong
+
+  **[Chinese University of Hong Kong, PhD in Sociolog](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)** ([LEE Jaemin](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/))
+
+  **[Hong Kong Baptist University, PhD in Communication](https://coms.hkbu.edu.hk/postgraduate-education/research-postgraduate-rpg-programme-students.html)** ([Anfan Chen](https://coms.hkbu.edu.hk/faculty-and-staff/anfan-chen.html))
+
+  **[University of Hong Kong, PhD in Politics and Public Administration](https://ppa.hku.hk/programmes/rpg/mphil-phd)** ([Haohan Chen](https://haohanchen.github.io/))
+
+
+
 ## European Continent
 
   **[Institut Europeen d'Administration des Affaires, PhD in Management](https://www.insead.edu/phd/admissions-and-financing)** ([Frédéric Godart](https://www.insead.edu/faculty-personal-site/frederic-godart))
@@ -126,6 +136,8 @@
    **[Massachusetts Institute of Technology, PhD in Sloan](https://mitsloan.mit.edu/phd#tour-welcome)** ([Sinan Aral](https://www.sinanaral.io/), [Dean Eckles](https://www.deaneckles.com/), [David Rand](https://davidrand-cooperation.com/), [Abdullah Almaatouq](http://amaatouq.io/))
 
    **[Massachusetts Institute of Technology, PhD in Social & Engineering Systems](https://idss.mit.edu/academics/ses_doc/)** ([Alex Pentland](https://www.media.mit.edu/people/sandy/overview/))
+
+   **[Michigan State University, PhD in Political Science](https://polisci.msu.edu/graduate/index.html)** ([Andy Halterman](https://andrewhalterman.com))
 
    **[Michigan State University, PhD in Political Science](https://polisci.msu.edu/graduate/index.html)** ([Andy Halterman](https://andrewhalterman.com))
 
@@ -229,13 +241,15 @@
 
    **[University of South California, Annenberg School of Communications and Journalism, PhD in Communications](https://annenberg.usc.edu/academics/communication-phd)** ([Emilio Ferarra](https://annenberg.usc.edu/faculty/emilio-ferrara))
 
+   **[University of South California, PhD in Computer Science](https://www.cs.usc.edu/academic-programs/phd/)** ([Kristina Lerman](https://www.isi.edu/people-lerman/))
+
    **[University of South California, PhD in Political Science](https://dornsife.usc.edu/poir/graduate-doctorate-programs-and-research/)** ([Pablo Baberá](http://pablobarbera.com))
 
    **[University of Texas, Austin, PhD in Sociology](https://liberalarts.utexas.edu/sociology/graduate-program/)** ([Ken-hou Lin](https://www.kenhoulin.info/))
 
    **[University of Washington, PhD in Communications](https://com.uw.edu/ma-phd/)** ([Benjamin Mako Hill](https://mako.cc))
 
-   **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Aylin Caliskan](https://faculty.washington.edu/aylin/), #[Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
+   **[University of Washington, PhD in Information Science](https://ischool.uw.edu/programs/phd)** ([Aylin Caliskan](https://faculty.washington.edu/aylin/), [Martin Saveski](http://martinsaveski.com/), [Emma Spiro](https://emmaspiro.github.io/), [Jevin West](https://www.jevinwest.org/))
 
    **[University of Washington, PhD in Sociology](https://soc.washington.edu/graduate-program-overview)** ([Zack Almquist](https://zalmquist.github.io/publications/), [Andrew Messamore](https://andrewmessamore.com/))
 
