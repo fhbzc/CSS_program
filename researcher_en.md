@@ -196,7 +196,9 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Steven Strogatz](https://www.stevenstrogatz.com/)** (Cornell University, USA)
 
-**[Yan Leng](https://yleng.github.io/www/)** (The University of Texas at Austin, USA)
+**[Yan Leng](https://yleng.github.io/www/)** (University of Texas at Austin, USA)
+
+**[Yongren Shi](https://sociology.uiowa.edu/people/yongren-shi)** (University of Iowa, USA)
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
