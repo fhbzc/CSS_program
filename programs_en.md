@@ -82,7 +82,7 @@
 
 ## Singapore
 
-   **[National University of Singapore](https://fass.nus.edu.sg/cnm/phd/)** ([Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka), [Renwen Zhang/张人文](https://discovery.nus.edu.sg/20836-renwen-zhang), [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee), [Weiyu Zhang/张玮玉](https://discovery.nus.edu.sg/1768-weiyu-zhang/about))
+   **[National University of Singapore, PhD in Communications](https://fass.nus.edu.sg/cnm/phd/)** ([Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka), [Renwen Zhang/张人文](https://discovery.nus.edu.sg/20836-renwen-zhang), [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee), [Weiyu Zhang/张玮玉](https://discovery.nus.edu.sg/1768-weiyu-zhang/about))
 
 ## United Kingdom
 
