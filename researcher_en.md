@@ -13,11 +13,12 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 - City/Urban/Geo-Analysis
 - Complex System/Networks
 - Cultural
-- Economy
+- Economy/Labor
 - Gender/Race
 - Law
 - Management
    -Collective Intelligence
+- Public Health
 - Politics and Policy
 - Psychology/Cognitive Science
 - Science of Science
@@ -154,6 +155,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm)** (Beijing Normal University,  Mainland China)
 
+**[Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/)** (National University of Singapore, Singapore)
+
 **[Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/)** (University of Warwick, UK)
 
 **[Daniel Romero](http://www.dromero.org/)** (University of Michigan, USA)
@@ -161,6 +164,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[David Easley](https://easley.economics.cornell.edu/)** (Cornell University, USA)
 
 **[Duncan Watts](https://duncanjwatts.com/)** (University of Pennsylvania, USA)
+
+**[Eduardo Araral](https://lkyspp.nus.edu.sg/our-people/faculty/eduardo-araral)** (National University of Singapore, Signapore)
 
 **[Esteban Moro](http://estebanmoro.org/)** (Northestern University, USA)
 
@@ -182,6 +187,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[LEE Jaemin](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/)** (Chinese University of Hong Kong, Hongkong)
 
+**[Maria De Iorio](https://discovery.nus.edu.sg/13583-maria-de-iorio)** (National University of Singapore, Singapore)
+
 **[Michael Macy](https://sociology.cornell.edu/michael-macy)** (Cornell University, USA)
 
 **[Milena Tsvetkova](https://tsvetkova.me/)** (London School of Economics and Political Science, UK)
@@ -191,6 +198,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Noshir Contractor](https://nosh.northwestern.edu/)** (Northwestern University, USA)
 
 **[Patrick Park](https://patpark.org/)** (Carnegie Mellon University, USA)
+
+**[Prateek Bansal](https://cde.nus.edu.sg/cee/staff/prateek-bansal/)** (National University of Singapore, Singapore)
 
 **[Seth Flaxman](https://sethrf.com/)** (University of Oxford, UK)
 
@@ -206,9 +215,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Cultural
 
+**[Ben Blumson](https://philpeople.org/profiles/ben-blumson)** (National University of Signapore, Signapore)
+
 **[Ricky Punzalan](https://rpunzalan.com/)** (University of Michigan, USA)
 
-# Economy
+# Economy/Labor
 
 **[Cristobal Cheyre](https://www.andrew.cmu.edu/user/ccheyref/)** (Cornell University, USA)
 
@@ -217,6 +228,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[David Easley](https://easley.economics.cornell.edu/)** (Cornell University, USA)
 
 **[Grant Schoenebeck](http://schoeneb.people.si.umich.edu/)** (University of Michigan, USA)
+
+**[Gerard Siew Keong Chung](https://www.gerardchung.com/)**　(National University of Singapore, Singapore)
 
 **[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
 
@@ -227,6 +240,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Meicen Sun](https://ischool.illinois.edu/people/meicen-sun)** (University of Illinois Urbana-Champaign, USA)
 
 **[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
+
+**[Nan Chen](https://sites.google.com/site/ttnanchen)** (National University of Singapore, Singapore)
 
 **[Nikhil Garg](https://gargnikhil.com/)** (Cornell University, USA)
 
@@ -262,6 +277,12 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Thomas Malone](https://mitsloan.mit.edu/faculty/directory/thomas-w-malone)** (Massachusetts Institute of Technology, USA)
 
+# Public Health
+
+**[Alex Cook](https://sph.nus.edu.sg/faculty-directory/cook-alex-richard/)** (National University of Singapore, Singapore)
+
+**[Hannah Eleanor Clapham](https://sph.nus.edu.sg/faculty-directory/clapham-hannah/)** (National University of Singapore, Singapore)
+
 # Politics and Policy
 
 **[Anfan Chen](https://coms.hkbu.edu.hk/faculty-and-staff/anfan-chen.html)** (Hong Kong Baptist University, Hongkong)
@@ -271,6 +292,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Chris Bail](https://www.chrisbail.net/)** (Duke University, USA)
 
 **[Damian Trilling](https://damiantrilling.net/en/)** (Vrije Universiteit Amsterdam, Netherlands)
+
+**[Eduardo Araral](https://lkyspp.nus.edu.sg/our-people/faculty/eduardo-araral)** (National University of Singapore, Signapore)
 
 **[Gary King](https://gking.harvard.edu/)** (Harvard University, USA)
 
@@ -449,6 +472,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
 
 **[Jeff Hancock](https://sml.stanford.edu/people/jeff-hancock)** (Stanford University, USA)
+
+**[Prateek Bansal](https://cde.nus.edu.sg/cee/staff/prateek-bansal/)** (National University of Singapore, Singapore)
 
 **[Suzy Moat](https://www.wbs.ac.uk/about/person/suzy-moat/)** (Warwick Business School, UK)
 
