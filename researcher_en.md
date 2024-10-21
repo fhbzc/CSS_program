@@ -12,8 +12,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
   - Others
 - City/Urban/Geo-Analysis
 - Complex System/Networks
-- Cultural
-- Economy/Labor
+- Culture
+- Economy/Labor/Market
 - Gender/Race
 - Law
 - Management
@@ -26,6 +26,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 - Social Media/Communication
   - Misinformation/Information Diffusion
   - (Online) Community and Behavior
+- Technology and Society
 
 # AI and Society
 
@@ -43,9 +44,13 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Grant Schoenebeck](http://schoeneb.people.si.umich.edu/)** (University of Michigan, USA)
 
+**[Jungpil Hahn](https://www.garbcan.com/)** (National University of Singapore, Singapore)
+
 **[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
 
 **[Sebastian Benthall](https://sbenthall.net/)** (New York University, USA)
+
+**[Swapnil Mishra](https://www.smishra.dev/)** (National University of Singapore, Singapore)
 
 **[Yves-Alexandre de Montjoye](https://demontjoye.com/)** (Imperial College London, UK)
 
@@ -77,8 +82,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Diyi Yang](https://cs.stanford.edu/~diyiy/)** (Stanford University, USA)
 
-**[Lillian Lee](https://www.cs.cornell.edu/home/llee/)** (Cornell University, USA)
-
 **[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
 
 **[Janyce Wiebe](https://people.cs.pitt.edu/~wiebe/)** (University of Pittsburgh, USA)
@@ -89,6 +92,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka/)** (National University of Singapore, Singapore)
 
+**[Lillian Lee](https://www.cs.cornell.edu/home/llee/)** (Cornell University, USA)
+
+**[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/)** (National University of Singapore, Singapore)
+
 **[Paramveer Dhillon](https://pdhillon.com/)** (University of Michigan, USA)
 
 **[Ted Underwood](https://ischool.illinois.edu/people/ted-underwood)** (University of Illinois Urbana-Champaign, USA)
@@ -98,6 +105,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Zhiyuan Liu/刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html)** (Tsinghua University, Mainland China)
 
 ## Human-AI System/Interaction/Augmentation
+
+**[Atreyi Kankanhalli](https://www.comp.nus.edu.sg/disa/people/atreyi/)** (National University of Singapore, Singapore)
 
 **[Chenhao Tan](https://chenhaot.com/)** (University of Chicago, USA)
 
@@ -133,6 +142,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yang Zhang](https://yznd42.github.io/)** (University of Illinois Urbana-Champaign, USA)
 
+**[Yi-Chieh Lee](https://www.yclee.net/)** (National University of Singapore, Singapore)
+
 **[Yun Huang](https://yunhuang.web.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
 
 # City/Urban/Geo-Analysis
@@ -150,6 +161,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Aaron Clauset](https://www.colorado.edu/faculty/clauset/)** (University of Colorado Boulder, USA)
 
 **[Abigail Jacobs](https://azjacobs.com/)** (University of Michigan, USA)
+
+**[Akira Endo](https://akira-endo.github.io/)** (National University of Singapore, Singapore)
 
 **[Albert-László Barabási](https://www.barabasilab.com/)** (Northeastern University, USA)
 
@@ -205,6 +218,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Steven Strogatz](https://www.stevenstrogatz.com/)** (Cornell University, USA)
 
+**[Swapnil Mishra](https://www.smishra.dev/)** (National University of Singapore, Singapore)
+
 **[Yan Leng](https://yleng.github.io/www/)** (University of Texas at Austin, USA)
 
 **[Yongren Shi](https://sociology.uiowa.edu/people/yongren-shi)** (University of Iowa, USA)
@@ -213,13 +228,19 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Zike Zhang/张子柯](https://person.zju.edu.cn/zkz#)** (Zhejiang University, Mainland China)
 
-# Cultural
+# Culture
 
 **[Ben Blumson](https://philpeople.org/profiles/ben-blumson)** (National University of Signapore, Signapore)
 
+**[DongWon Oh](https://dongwonoh.com/)** (National University of Signapore, Signapore)
+
+**[Elaine Ho](https://discovery.nus.edu.sg/3057-lynnee-elaine-ho)** (National University of Signapore, Signapore)
+
+**[Kenneth Dean](https://ari.nus.edu.sg/people/prof-kenneth-dean/)** (National University of Signapore, Signapore)
+
 **[Ricky Punzalan](https://rpunzalan.com/)** (University of Michigan, USA)
 
-# Economy/Labor
+# Economy/Labor/Market
 
 **[Cristobal Cheyre](https://www.andrew.cmu.edu/user/ccheyref/)** (Cornell University, USA)
 
@@ -234,6 +255,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Iyad Rahwan](https://www.rahwan.me/)** (Max Planck Institute, Germany)
 
 **[Joshua Blumenstock](https://www.jblumenstock.com/)** (University of California, Berkeley, USA)
+
+**[Khim Yong Goh](https://www.comp.nus.edu.sg/disa/people/gohky/)** (National University of Singapore, Singapore)
 
 **[Larry Blume](https://sites.santafe.edu/~leb/)** (Cornell University, USA)
 
@@ -261,6 +284,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Law
 
+**[Jungpil Hahn](https://www.garbcan.com/)** (National University of Singapore, Singapore)
+
 # Management
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
@@ -279,13 +304,21 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Public Health
 
+**[Akira Endo](https://akira-endo.github.io/)** (National University of Singapore, Singapore)
+
 **[Alex Cook](https://sph.nus.edu.sg/faculty-directory/cook-alex-richard/)** (National University of Singapore, Singapore)
 
 **[Hannah Eleanor Clapham](https://sph.nus.edu.sg/faculty-directory/clapham-hannah/)** (National University of Singapore, Singapore)
 
+**[Wei Luo](https://fass.nus.edu.sg/geog/people/luo-wei/)** (National University of Singapore, Singapore)
+
+**[Yi-Chen Wang](https://discovery.nus.edu.sg/1117-yichen-wang)** (National University of Singapore, Singapore)
+
 # Politics and Policy
 
 **[Anfan Chen](https://coms.hkbu.edu.hk/faculty-and-staff/anfan-chen.html)** (Hong Kong Baptist University, Hongkong)
+
+**[Araz Taeihagh](https://www.taeihagh.com/publications)** (National University of Singapore, Signapore)
 
 **[Benjamin Soltoff](https://infosci.cornell.edu/content/soltoff)** (Cornell University, USA)
 
@@ -299,7 +332,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Haohan Chen](https://haohanchen.github.io/)** (University of Hong Kong, Hongkong)
 
+**[Jie Gao](https://discovery.nus.edu.sg/4143-jie-gao/about)** (National University of Singapore, Singaapore)
+
 **[Joshua Tucker](https://as.nyu.edu/faculty/joshua-tucker.html)** (New York University, USA)
+
+**[Jungpil Hahn](https://www.garbcan.com/)** (National University of Singapore, Singapore)
 
 **[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
 
@@ -328,6 +365,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Rene Kizilcec](https://rene.kizilcec.com/)** (Cornell University, USA)
 
 **[Simon Dedeo](https://sites.santafe.edu/~simon/)** (Carnegie Mellon University, USA)
+
+**[Xiaopan Ding](https://www.nuschildlab.com/)** (National University of Singapore, Singapore)
 
 # Science of Science
 
@@ -405,9 +444,18 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Social Media/Communication
 
+
+**[Atreyi Kankanhalli](https://www.comp.nus.edu.sg/disa/people/atreyi/)** (National University of Singapore, Singapore)
+
+**[Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka/about)** (National University of Singapore, Singapore)
+
+**[Natalie Pang](https://nataliepang.blog/welcome/aboutme/)** (National University of Singapore, Singapore)
+
+**[Shaohai Jiang](https://discovery.nus.edu.sg/10966)** (National University of Singapore, Singapore)
+
 **[Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)** (National University of Singapore, Singapore)
 
-**[Weiyu Zhang/张玮玉](https://discovery.nus.edu.sg/1768-weiyu-zhang)** (National University of Singapore, Singapore)
+**[Weiyu Zhang](https://discovery.nus.edu.sg/1768-weiyu-zhang)** (National University of Singapore, Singapore)
 
 ## Misinformation/Information Diffusion
 
@@ -457,6 +505,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 ## (Online) Community and Behavior
 
+**[Atreyi Kankanhalli](https://www.comp.nus.edu.sg/disa/people/atreyi/)** (National University of Singapore, Singapore)
+
 **[Bogdan Vasilescu](https://bvasiles.github.io/)** (Carnegie Mellon University, USA)
 
 **[Ceren Budak](http://cbudak.com/index.html)** (University of Michigan, USA)
@@ -464,6 +514,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Cuihua Shen](https://communication.ucdavis.edu/people/cuihua-shen)** (University of California, Davis, USA)
 
 **[Daniel Romero](http://www.dromero.org/)** (University of Michigan, USA)
+
+**[Yi-Chieh Lee](https://www.yclee.net/)** (National University of Singapore, Singapore)
+
+**[Ingmar Weber](https://ingmarweber.de/)**　(Saarland University, Germany)
 
 **[LEE Jaemin](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/)** (Chinese University of Hong Kong, Hongkong)
 
@@ -478,3 +532,10 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Suzy Moat](https://www.wbs.ac.uk/about/person/suzy-moat/)** (Warwick Business School, UK)
 
 **[Yun Huang](https://yunhuang.web.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
+
+# Technology and Society
+
+**[Renwen Zhang](https://renwenzhang.com/)** (National University of Singapore, Singapore)
+
+**[Teerawichitchainan Bussarawan](https://discovery.nus.edu.sg/14760-teerawichitchainan-bussarawan)** (National University of Singapore, Singapore)
+

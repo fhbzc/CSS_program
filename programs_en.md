@@ -67,7 +67,9 @@
   **[Institut Europeen d'Administration des Affaires, PhD in Management](https://www.insead.edu/phd/admissions-and-financing)** ([Frédéric Godart](https://www.insead.edu/faculty-personal-site/frederic-godart))
 
   **[Max Planck Institute, PhD in Computer and Information Science](https://www.cis.mpg.de/csmaxplanck-overview/)** ([Iyad Rahwan](https://www.rahwan.me/))
-  
+ 
+  **[Saarland University, PhD in Computer Science](https://www.graduateschool-computerscience.de/admissions/)** ([Ingmar Weber](https://ingmarweber.de/))
+ 
   **[University of Zurich, PhD in Communication and Media Research](https://www.ikmz.uzh.ch/en/studies/doctorate.html)** ([Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html))
 
 ## Hong Kong, China
