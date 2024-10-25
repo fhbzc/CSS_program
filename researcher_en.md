@@ -130,6 +130,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Mor Naaman](https://mmoorr.github.io/www_personal/)** (Cornell University, USA)
 
+**[Mu-Jung Cho](https://www.rchss.sinica.edu.tw/members/4a08ea44-a61a-4425-acc5-95fe06e67a32?page_id=45)** (Academia Sinica, Taiwan)
+
 **[Nello Cristianini](https://researchportal.bath.ac.uk/en/persons/nello-cristianini)** (University of Bath, UK)
 
 **[Paul Resnick](https://presnick.people.si.umich.edu/)** (University of Michigan, USA)
@@ -170,6 +172,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/)** (National University of Singapore, Singapore)
 
+**[Chen-Shou Hong](https://sociology.ntu.edu.tw/en/faculty/chen-shuo-hong/?doing_wp_cron=1729805326.3883159160614013671875)** (National Taiwan University, Taiwan)
+
 **[Ching Jin](https://warwick.ac.uk/fac/cross_fac/cim/people/ching-jin/)** (University of Warwick, UK)
 
 **[Daniel Romero](http://www.dromero.org/)** (University of Michigan, USA)
@@ -185,6 +189,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Eunice Santos](https://ischool.illinois.edu/people/eunice-e-santos)** (University of Illinois Urbana-Champaign, USA)
 
 **[Éva Tardos](https://infosci.cornell.edu/content/tardos)** (Cornell University, USA)
+
+**[Hsuan-Wei "Wayne" Lee]( https://sites.google.com/view/hsuanweilee/home)** (Lehigh University, USA)
 
 **[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
 
@@ -222,7 +228,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yan Leng](https://yleng.github.io/www/)** (University of Texas at Austin, USA)
 
+**[Yen-Sheng Chiang](https://www.ios.sinica.edu.tw/pi.php?id=134&typeID=100)** (Academia Sinica, Taiwan)
+
 **[Yongren Shi](https://sociology.uiowa.edu/people/yongren-shi)** (University of Iowa, USA)
+
+**[Yuan Hsiao]( https://sociology.yale.edu/people/yuan-hsiao)** (Yale University, USA)
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
@@ -275,6 +285,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Yan Chen](http://yanchen.people.si.umich.edu/)** (University of Michigan, USA)
 
 # Gender/Race
+
+**[Chen-Yi Yu]( https://gigs.kmu.edu.tw/index.php/en-gb/專任教師/32-english-web/faculty/602-chen-yi-yu)** (Kaohsiung Medical University, Taiwan)
 
 **[Matthew Bui](https://www.si.umich.edu/people/matthew-bui)** (University of Michigan, USA)
 
@@ -444,10 +456,13 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Social Media/Communication
 
-
 **[Atreyi Kankanhalli](https://www.comp.nus.edu.sg/disa/people/atreyi/)** (National University of Singapore, Singapore)
 
 **[Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka/about)** (National University of Singapore, Singapore)
+
+**[Ji-Lung Hsieh](http://www.journalism.ntu.edu.tw/Journalism/fulltime-2.html)** (National Taiwan University, Taiwan)
+
+**[Ming-Yi Chang](https://www.soci.fju.edu.tw/teacher_detail.php?id=526)** (Fu Jen Catholic University, Taiwan)
 
 **[Natalie Pang](https://nataliepang.blog/welcome/aboutme/)** (National University of Singapore, Singapore)
 
@@ -456,6 +471,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)** (National University of Singapore, Singapore)
 
 **[Weiyu Zhang](https://discovery.nus.edu.sg/1768-weiyu-zhang)** (National University of Singapore, Singapore)
+
+**[Yuan Hsiao]( https://sociology.yale.edu/people/yuan-hsiao)** (Yale University, USA)
 
 ## Misinformation/Information Diffusion
 
@@ -476,6 +493,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
 
 **[Jevin West](https://www.jevinwest.org/)** (University of Washington, USA)
+
+**[Ji-Lung Hsieh](http://www.journalism.ntu.edu.tw/Journalism/fulltime-2.html)** (National Taiwan University, Taiwan)
 
 **[Jing Zeng](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science/team/jing-zeng.html)** (University of Zurich, Switzerland)
 
@@ -522,6 +541,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[LEE Jaemin](https://www.soc.cuhk.edu.hk/profile/lee-jaemin/)** (Chinese University of Hong Kong, Hongkong)
 
 **[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
+
+**[Mu-Jung Cho](https://www.rchss.sinica.edu.tw/members/4a08ea44-a61a-4425-acc5-95fe06e67a32?page_id=45)** (Academia Sinica, Taiwan)
 
 **[Nathan Matias](https://natematias.com/)** (Cornell University, USA)
 
