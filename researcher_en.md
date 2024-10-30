@@ -22,7 +22,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 - [Psychology/Cognitive Science](#psychologycognitive-science)
 - [Science of Science](#science-of-science)
 - [Social Movement](#social-movement)
-- [Social Media/Communication](#social-media-communication)
+- [Social Media/Communication](#social-mediacommunication)
   - [Misinformation/Information Diffusion](#misinformationinformation-diffusion)
   - [(Online) Community and Behavior](#online-community-and-behavior)
 - [Technology and Society](#technology-and-society)
