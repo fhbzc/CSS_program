@@ -4,7 +4,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 ## Content Structure
 
-- [AI and Society](ai-and-society)
+- [AI and Society](#ai-and-society)
   - AI Algorithom and Social Impact
   - AI for Social Networks
   - Human-AI System/Interaction/Augmentation
