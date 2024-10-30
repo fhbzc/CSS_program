@@ -4,7 +4,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 ## Content Structure
 
-- AI and Society
+- [AI and Society](# AI and Society)
   - AI Algorithom and Social Impact
   - AI for Social Networks
   - Human-AI System/Interaction/Augmentation
@@ -272,6 +272,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Meicen Sun](https://ischool.illinois.edu/people/meicen-sun)** (University of Illinois Urbana-Champaign, USA)
 
+**[Melissa Dell](https://dell-research-harvard.github.io/)** (Harvard University, USA)
+
 **[Morgan Frank](https://sites.pitt.edu/~mrfrank/)** (University of Pittsburgh, USA)
 
 **[Nan Chen](https://sites.google.com/site/ttnanchen)** (National University of Singapore, Singapore)
@@ -338,7 +340,13 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Damian Trilling](https://damiantrilling.net/en/)** (Vrije Universiteit Amsterdam, Netherlands)
 
+**[Daniel Hopkins](https://web.sas.upenn.edu/danhop/)** (University of Pennsylvania, USA)
+
+**[Dean Knox](http://www.dcknox.com/)** (University of Pennsylvania, USA)
+
 **[Eduardo Araral](https://lkyspp.nus.edu.sg/our-people/faculty/eduardo-araral)** (National University of Singapore, Signapore)
+
+**[Francisco Cantú](https://franciscocantu.github.io/)** (University of Houston, USA)
 
 **[Gary King](https://gking.harvard.edu/)** (Harvard University, USA)
 
@@ -352,17 +360,23 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Kathleen Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html)** (Carnegie Mellon University, USA)
 
+**[Ken Benoit](https://kenbenoit.net/)** (Singapore Management University, Singapore)
+
 **[Libby Hemphill](http://www.libbyh.com/)** (University of Michigan, USA)
 
 **[Michael Alvarez](https://www.rmichaelalvarez.com/)** (California Institute of Technology, USA)
 
 **[Meicen Sun](https://ischool.illinois.edu/people/meicen-sun)** (University of Illinois Urbana-Champaign, USA)
 
+**[Naijia Liu](https://naijialiu.github.io/)** (Harvard University, USA)
+
 **[Sílvia Majó-Vázquez](https://silviamajo.com/about/)** (University of Oxford, UK)
 
 **[Sinan Aral](https://www.sinanaral.io/)** (Massachusetts Institute of Technology, USA)
 
 **[Yingdan Lu](https://yingdanlu.com/)** (Northwestern University, USA)
+
+**[Yuki Shiraito](https://shiraito.github.io/)** (University of Michigan, USA)
 
 # Psychology/Cognitive Science
 
