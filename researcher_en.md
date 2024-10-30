@@ -5,28 +5,27 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 ## Content Structure
 
 - [AI and Society](#ai-and-society)
-  - AI Algorithom and Social Impact
-  - AI for Social Networks
-  - Human-AI System/Interaction/Augmentation
-  - Natural Langugage Processing
-  - Others
-- City/Urban/Geo-Analysis
-- Complex System/Networks
-- Culture
-- Economy/Labor/Market
-- Gender/Race
-- Law
-- Management
-   -Collective Intelligence
-- Public Health
-- Politics and Policy
-- Psychology/Cognitive Science
-- Science of Science
-- Social Movement
-- Social Media/Communication
-  - Misinformation/Information Diffusion
-  - (Online) Community and Behavior
-- Technology and Society
+  - [AI Algorithom and Social Impact](#ai-algorithm-and-social-impact)
+  - [AI for Social Networks](#ai-for-social-networks)
+  - [Human-AI System/Interaction/Augmentation](#human-ai-systeminteractionaugmentation)
+  - [Natural Langugage Processing](#natural-language-processing)
+- [City/Urban/Geo-Analysis](#cityurbangeo-analysis)
+- [Complex System/Networks](#complex-systemnetworks)
+- [Culture](#culture)
+- [Economy/Labor/Market](#economylabormarket)
+- [Gender/Race](#genderrace)
+- [Law](#law)
+- [Management](#management)
+   -[Collective Intelligence](#collective-intelligence)
+- [Public Health](#public-health)
+- [Politics and Policy](#politics-and-policy)
+- [Psychology/Cognitive Science](#psychologycognitive-science)
+- [Science of Science](#science-of-science)
+- [Social Movement](#social-movement)
+- [Social Media/Communication](#social-media-communication)
+  - [Misinformation/Information Diffusion](#misinformationinformation-diffusion)
+  - [(Online) Community and Behavior](#online-community-and-behavior)
+- [Technology and Society](#technology-and-society)
 
 # AI and Society
 
@@ -63,46 +62,6 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Jure Leskovec](https://cs.stanford.edu/people/jure/)** (Stanford University, USA)
 
 **[Yang Yang/杨洋](http://yangy.org/)** (Zhejiang University, Mainland China)
-
-## Natural Langugage Processing (with focus on computational social science)
-
-**[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** (Cornell University, USA)
-
-**[David Jurgens](http://jurgens.people.si.umich.edu/)** (University of Michigan, USA)
-
-**[Dallas Card](https://dallascard.github.io/)** (University of Michigan, USA)
-
-**[Dan Jurafsky](http://web.stanford.edu/~jurafsky/)** (Stanford University, USA)
-
-**[David Mimno](https://mimno.infosci.cornell.edu/)** (Cornell University, USA)
-
-**[Deb Roy](https://www.media.mit.edu/people/dkroy/overview/)** (Massachusetts Institute of Technology, USA)
-
-**[Diane Litman](https://people.cs.pitt.edu/~litman/pubs.html)** (University of Pittsburgh, USA)
-
-**[Diyi Yang](https://cs.stanford.edu/~diyiy/)** (Stanford University, USA)
-
-**[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
-
-**[Janyce Wiebe](https://people.cs.pitt.edu/~wiebe/)** (University of Pittsburgh, USA)
-
-**[Justine Zhang](https://tisjune.github.io/)** (University of Michigan, USA)
-
-**[Ken Benoit](https://kenbenoit.net/)** (Singapore Management University, Singapore)
-
-**[Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka/)** (National University of Singapore, Singapore)
-
-**[Lillian Lee](https://www.cs.cornell.edu/home/llee/)** (Cornell University, USA)
-
-**[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/)** (National University of Singapore, Singapore)
-
-**[Paramveer Dhillon](https://pdhillon.com/)** (University of Michigan, USA)
-
-**[Ted Underwood](https://ischool.illinois.edu/people/ted-underwood)** (University of Illinois Urbana-Champaign, USA)
-
-**[VG Vinod Vydiswaran](https://public.websites.umich.edu/~vgvinodv/)** (University of Michigan, USA)
-
-**[Zhiyuan Liu/刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html)** (Tsinghua University, Mainland China)
 
 ## Human-AI System/Interaction/Augmentation
 
@@ -147,6 +106,48 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Yi-Chieh Lee](https://www.yclee.net/)** (National University of Singapore, Singapore)
 
 **[Yun Huang](https://yunhuang.web.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
+
+
+## Natural Langugage Processing (with focus on computational social science)
+
+**[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** (Cornell University, USA)
+
+**[David Jurgens](http://jurgens.people.si.umich.edu/)** (University of Michigan, USA)
+
+**[Dallas Card](https://dallascard.github.io/)** (University of Michigan, USA)
+
+**[Dan Jurafsky](http://web.stanford.edu/~jurafsky/)** (Stanford University, USA)
+
+**[David Mimno](https://mimno.infosci.cornell.edu/)** (Cornell University, USA)
+
+**[Deb Roy](https://www.media.mit.edu/people/dkroy/overview/)** (Massachusetts Institute of Technology, USA)
+
+**[Diane Litman](https://people.cs.pitt.edu/~litman/pubs.html)** (University of Pittsburgh, USA)
+
+**[Diyi Yang](https://cs.stanford.edu/~diyiy/)** (Stanford University, USA)
+
+**[Janet Pierrehumbert](http://www.phon.ox.ac.uk/jpierrehumbert/)** (University of Oxford, UK)
+
+**[Janyce Wiebe](https://people.cs.pitt.edu/~wiebe/)** (University of Pittsburgh, USA)
+
+**[Justine Zhang](https://tisjune.github.io/)** (University of Michigan, USA)
+
+**[Ken Benoit](https://kenbenoit.net/)** (Singapore Management University, Singapore)
+
+**[Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka/)** (National University of Singapore, Singapore)
+
+**[Lillian Lee](https://www.cs.cornell.edu/home/llee/)** (Cornell University, USA)
+
+**[Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/)** (National University of Singapore, Singapore)
+
+**[Paramveer Dhillon](https://pdhillon.com/)** (University of Michigan, USA)
+
+**[Ted Underwood](https://ischool.illinois.edu/people/ted-underwood)** (University of Illinois Urbana-Champaign, USA)
+
+**[VG Vinod Vydiswaran](https://public.websites.umich.edu/~vgvinodv/)** (University of Michigan, USA)
+
+**[Zhiyuan Liu/刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html)** (Tsinghua University, Mainland China)
+
 
 # City/Urban/Geo-Analysis
 
