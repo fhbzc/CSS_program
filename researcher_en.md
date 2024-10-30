@@ -16,7 +16,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 - [Gender/Race](#genderrace)
 - [Law](#law)
 - [Management](#management)
-   -[Collective Intelligence](#collective-intelligence)
+  - [Collective Intelligence](#collective-intelligence)
 - [Public Health](#public-health)
 - [Politics and Policy](#politics-and-policy)
 - [Psychology/Cognitive Science](#psychologycognitive-science)
