@@ -108,7 +108,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Yun Huang](https://yunhuang.web.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
 
 
-## Natural Langugage Processing
+## Natural Language Processing
 
 **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** (Cornell University, USA)
 
