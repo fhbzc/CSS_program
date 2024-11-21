@@ -8,6 +8,8 @@
 
    **[The Chinese University of Hong Kong, MPhil in Sociology](https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/)**
 
+   **[The University of Hong Kong, Master of Social Sciences in the field of Social Data Analytics](https://admissions.hku.hk/tpg/programme/master-social-sciences-field-social-data-analytics)**
+
 ## United States of America
 
    **[Massachusetts Institute of Technology, Master in Media Arts & Sciences](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)**
