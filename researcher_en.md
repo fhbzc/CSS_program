@@ -471,6 +471,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Social Media/Communication
 
+**[Anastasia Bizyaeva](https://anastasiabzv.github.io/)** (Cornell University, USA)
+
 **[Atreyi Kankanhalli](https://www.comp.nus.edu.sg/disa/people/atreyi/)** (National University of Singapore, Singapore)
 
 **[Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka/about)** (National University of Singapore, Singapore)
