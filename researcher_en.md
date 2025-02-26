@@ -33,6 +33,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Abigail Jacobs](https://azjacobs.com/)** (University of Michigan, USA)
 
+**[Aleksandra Korolova](https://www.korolova.com/)** (Princeton University, USA)
+
 **[Allison Koenecke](https://koenecke.infosci.cornell.edu/)** (Cornell University, USA)
 
 **[Dallas Card](https://dallascard.github.io/)** (University of Michigan, USA)
@@ -45,13 +47,19 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Jungpil Hahn](https://www.garbcan.com/)** (National University of Singapore, Singapore)
 
+**[Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io/)** (Princeton University, USA)
+
 **[Martin Saveski](http://martinsaveski.com/)** (University of Washington, USA)
+
+**[Michiel Bakker](https://miba.dev/)** (Massachusetts Institute of Technology, USA)
 
 **[Sebastian Benthall](https://sbenthall.net/)** (New York University, USA)
 
 **[Swapnil Mishra](https://www.smishra.dev/)** (National University of Singapore, Singapore)
 
 **[Yves-Alexandre de Montjoye](https://demontjoye.com/)** (Imperial College London, UK)
+
+**[Ashton Anderson](https://www.cs.toronto.edu/~ashton/)** (University of Toronto, Canada)
 
 ## AI for Social Networks
 
@@ -60,6 +68,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 **[Jie Tang/唐杰](https://keg.cs.tsinghua.edu.cn/jietang/)** (Tsinghua University, Mainland China)
 
 **[Jure Leskovec](https://cs.stanford.edu/people/jure/)** (Stanford University, USA)
+
+**[Serina Chang](https://serinachang5.github.io/)** (University of California, Berkeley, USA)
 
 **[Yang Yang/杨洋](http://yangy.org/)** (Zhejiang University, Mainland China)
 
@@ -107,8 +117,11 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Yun Huang](https://yunhuang.web.illinois.edu/)** (University of Illinois Urbana-Champaign, USA)
 
+**[Ziang Xiao](https://www.ziangxiao.com/)** (Johns Hopkins University, USA)
 
 ## Natural Language Processing
+
+**[Aylin Caliskan](https://faculty.washington.edu/aylin/)** (University of Washington, USA)
 
 **[Cristian Danescu-Niculescu-Mizil](https://www.cs.cornell.edu/~cristian/)** (Cornell University, USA)
 
@@ -148,6 +161,7 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Zhiyuan Liu/刘知远](https://nlp.csai.tsinghua.edu.cn/~lzy/index_cn.html)** (Tsinghua University, Mainland China)
 
+**[Zhijing JIN](https://zhijing-jin.com/fantasy/)**(University of Toronto, Canada)
 
 # City/Urban/Geo-Analysis
 
@@ -243,6 +257,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Ben Blumson](https://philpeople.org/profiles/ben-blumson)** (National University of Signapore, Signapore)
 
+**[Bee Lee](https://ischool.uw.edu/people/faculty/profile/bcgl)** (University of Washington, USA)
+
 **[DongWon Oh](https://dongwonoh.com/)** (National University of Signapore, Signapore)
 
 **[Elaine Ho](https://discovery.nus.edu.sg/3057-lynnee-elaine-ho)** (National University of Signapore, Signapore)
@@ -299,9 +315,15 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Law
 
+**[Gillian Hadfield](https://engineering.jhu.edu/faculty/gillian-hadfield/)** (Johns Hopkins University, USA)
+
 **[Jungpil Hahn](https://www.garbcan.com/)** (National University of Singapore, Singapore)
 
 # Management
+
+**[Balazs Kovacs](https://www.balazskovacs.com/)** (Yale University, USA)
+
+**[Botelho, Tristan](https://tristanbotelho.com/)** (Yale University, USA)
 
 **[Yuan Yuan](https://www.yuan-yy.com/)** (University of California, Davis, USA)
 
@@ -389,13 +411,19 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 **[Morten Christiansen](https://infosci.cornell.edu/content/christiansen)** (Cornell University, USA)
 
+**[Nick Haber](https://ed.stanford.edu/faculty/nhaber)** (Stanford University, USA)
+
 **[Rene Kizilcec](https://rene.kizilcec.com/)** (Cornell University, USA)
 
 **[Simon Dedeo](https://sites.santafe.edu/~simon/)** (Carnegie Mellon University, USA)
 
 **[Xiaopan Ding](https://www.nuschildlab.com/)** (National University of Singapore, Singapore)
 
+**[Yang Xu](https://www.cs.toronto.edu/~yangxu/)** (University of Toronto, Canada)
+
 # Science of Science
+
+**[Abdullah Almaatouq](https://amaatouq.io/)** (Massachusetts Institute of Technology, USA)
 
 **[Adam Jaffe](https://scholarworks.brandeis.edu/esploro/profile/adam_jaffe/overview?institution=01BRAND_INST)** (Brandeis University, USA)
 
@@ -573,7 +601,8 @@ One researcher can work on multiple topics/sub-topics. There is no formal defini
 
 # Technology and Society
 
+**[Angelina Wang](https://angelina-wang.github.io/)** (Cornell University, USA)
+
 **[Renwen Zhang](https://renwenzhang.com/)** (National University of Singapore, Singapore)
 
 **[Teerawichitchainan Bussarawan](https://discovery.nus.edu.sg/14760-teerawichitchainan-bussarawan)** (National University of Singapore, Singapore)
-
