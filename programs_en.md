@@ -2,7 +2,11 @@
 
 ## China, Mainland
 
+   **[Nanjing University, Computational Communication Collaboratory](https://socrateslab.github.io/en/)**
+   
    **[The Chinese University of Hong Kong, Shenzhen, MSc in Computational Social Science](https://hsspg.cuhk.edu.cn/en/msccss)**
+   
+   **[Xi'an Jiaotong University, School of Journalism and New Media 智能传播系](https://xmtxy.xjtu.edu.cn/info/1008/6235.htm)**
 
 ## Hong Kong, China
 
@@ -31,10 +35,12 @@
    **[University of Toronto, Phd in Computer Science](https://web.cs.toronto.edu/graduate/phd)** ([Ashton Anderson](https://www.cs.toronto.edu/~ashton/))
 
    **[University of British Columbia, Phd in Sociology](https://sociology.ubc.ca/graduate/phd-program/)** ([Clayton Childress](https://claytonchildress.weebly.com), [Laura Nelson](https://www.lauraknelson.com/))
-
+   
 ## China, Mainland
 
    **[Beijing Normal University, PhD in System Science](https://sss.bnu.edu.cn/rcpy/xsbs/zsjz2/index.htm)** ([Jiang Zhang/张江](https://jake.swarma.org/index.html), [An Zeng/曾安](https://sss.bnu.edu.cn/szdw/zzjs/js/8b4c96518e694080a5319f428abe045f.htm))
+
+   **[Nanjing University, Computational Communication Collaboratory](https://socrateslab.github.io/en/)**
 
    **[Nanjing University, PhD in Information Management](https://im.nju.edu.cn/13281/list.htm)** ([Jiang Li/李江](https://im.nju.edu.cn/lj/list.htm))
 
@@ -55,6 +61,8 @@
    **[Tsinghua University, PhD in Sociology](https://www.sss.tsinghua.edu.cn/zsxx/bsszs1.htm)** ([Jiade Luo/罗家德](https://www.sss.tsinghua.edu.cn/info/1043/3910.htm))
 
    **[Wuhan University, PhD in Sociology](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shxx.whu.edu.cn/&ved=2ahUKEwjetJ2qiYyJAxVPg4kEHVvgEYsQFnoECB0QAQ&usg=AOvVaw2xL-tcP3MfLo_HxAwCrCjr)** ([Weigang Gong/龚为纲](http://bdi.whu.edu.cn/teacherinfo.aspx?id=433))
+
+   **[Xi'an Jiaotong University, School of Journalism and New Media 智能传播系](https://xmtxy.xjtu.edu.cn/info/1008/6235.htm)**
 
    **[Zhejiang University, PhD in Computer Science and Technology](http://www.cs.zju.edu.cn/csen/26989/list.htm)** ([Yang Yang/杨洋](http://yangy.org/))
 
