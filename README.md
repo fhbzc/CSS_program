@@ -1,4 +1,6 @@
-# Programs, Researchers, Groups on Computational Social Science
+This project is not actively maintained and has been migrated to [CSSRankings](https://cssrankings.org)
+
+# Programs, Researchers, Groups on Computational Social Science (Deprecated)
 
 This project keeps a record of master/phd programs , as well as researchers and industry groups working in computational social science. The aim of the project is to help students/researchers interested in computational social science with graduate application and job search. ([Chinese version/中文版](https://github.com/fhbzc/program-computational-social-science/blob/main/README_ch.md))
 
